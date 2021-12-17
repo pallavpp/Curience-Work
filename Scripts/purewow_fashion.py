@@ -14,13 +14,13 @@ website = 'https://www.purewow.com/fashion'
 driver.get(website)
 
 try:
-    skip_popup_button = WebDriverWait(driver, 30).until(ec.visibility_of_element_located((By.XPATH, "//*[@id='layout']//button[text()='NO THANKS']")))
+    popup_iframe = WebDriverWait(driver, 30).until(ec.visibility_of_element_located((By.XPATH, "//iframe[contains(@id, 'lightbox-iframe')]")))
 except TimeoutException:
-    print("Popup Timeout")
+    print("TimeoutException: Popup was not visible in 30s")
     driver.quit()
 else:
-    popup_iframe = driver.find_element_by_xpath("//iframe[contains(@id, 'lightbox-iframe')]")
     driver.switch_to.frame(popup_iframe)
+    skip_popup_button = driver.find_element_by_xpath("//*[@id='layout']//button[text()='NO THANKS']")
     skip_popup_button.click()
     driver.switch_to.default_content()
 
