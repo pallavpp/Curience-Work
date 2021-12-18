@@ -14,67 +14,33 @@ website = 'https://www.purewow.com/fashion'
 driver.get(website)
 
 try:
-    popup_iframe = WebDriverWait(driver, 30).until(ec.visibility_of_element_located((By.XPATH, "//iframe[contains(@id, 'lightbox-iframe')]")))
+    popup_iframe = WebDriverWait(driver, 60).until(ec.visibility_of_element_located((By.XPATH, "//iframe[contains(@id, 'lightbox-iframe')]")))
 except TimeoutException:
-    print("TimeoutException: Popup was not visible in 30s")
-    driver.quit()
+    print("TimeoutException: Popup was not visible in 60s, assume no popup")
+except:
+    print("Some error occured while waiting for popup")
 else:
     driver.switch_to.frame(popup_iframe)
     skip_popup_button = driver.find_element_by_xpath("//*[@id='layout']//button[text()='NO THANKS']")
     skip_popup_button.click()
     driver.switch_to.default_content()
+    print("Popup closed successfully")
 
-# while True:
-#     count = 0
-#     try:
-#         button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.LINK_TEXT, "More")))
-#     except TimeoutException:
-#         break
+flag = 0
+while True:
+    try:
+        more_button = WebDriverWait(driver, 60).until(ec.element_to_be_clickable((By.XPATH, "//div[@class='container show-more-container']//a[@href='javascript:void(0);']")))
+    except TimeoutException:
+        flag = 1
+        print("TimeoutException: All clicks successful")
+        break
+    except:
+        print("Some error occured while clicking more_button")
+        break
+    else:
+        more_button.click()
 
+if flag:
+    pass
 
-
-
-
-
-# while True:
-#     time.sleep(1)
-#     driver.find_element_by_link_text("More").click()
-
-
-
-
-
-
-
-# all_matches_button = driver.find_element_by_xpath("//label[@analytics-event='All matches']")
-# all_matches_button.click()
-
-# dropdown = Select(driver.find_element_by_id("country"))
-# dropdown.select_by_visible_text("Spain")
-# time.sleep(3)
-
-# matches = driver.find_elements_by_tag_name("tr")
-# date = []
-# home_team = []
-# score = []
-# away_team = []
-
-# for match in matches:
-#     date.append(match.find_element_by_xpath("./td[1]").text)
-#     home = match.find_element_by_xpath("./td[2]").text
-#     home_team.append(home)
-#     print(home)
-#     score.append(match.find_element_by_xpath("./td[3]").text)
-#     away_team.append(match.find_element_by_xpath("./td[4]").text)
-
-
-
-
-
-
-
-
-
-# print(count)
-
-# driver.quit()
+driver.quit()
