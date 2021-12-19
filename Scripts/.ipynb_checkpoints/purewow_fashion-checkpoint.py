@@ -31,6 +31,8 @@ else:
     driver.switch_to.default_content()
     print("Popup closed successfully")
 
+# time.sleep(10)
+
 flag = 0
 var = 2
 temp = 0
@@ -52,6 +54,8 @@ while True:
             flag = 1
             print("No TimeoutException: All clicks successful")
             break
+
+# time.sleep(10)
 
 blog_titles = []
 blog_dates = []
@@ -190,4 +194,4 @@ csv_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Data", cs
 df.to_csv(csv_path, index=False)
 print("df saved")
 
-driver.quit()
+# driver.quit()
