@@ -1,9 +1,19 @@
+# standard imports
 from bs4 import BeautifulSoup
 import pandas as pd
 import requests
-import os
 
+# custom imports
+import os
+import sys
+modules_path  = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Modules"))
+if modules_path not in sys.path:
+    sys.path.insert(1, modules_path)
+import SaveDataAsCSV
+
+# main process
 def extract():
+	# variables
 	page_no = 1
 	column_names = ["Blog Title", "Blog Date", "Author Name", "Blog Link", "Author Profile Link", "Thumbnail Link"]
 	df = pd.DataFrame(columns=column_names)
@@ -13,12 +23,15 @@ def extract():
 		if html_response.status_code != 200: 
 			break
 		else:
+			print(f"Getting page {page_no}")
 			page_no += 1
 		
+		# all blog cards
 		html_text = html_response.text
 		soup = BeautifulSoup(html_text, "lxml")
 		cards = soup.find_all("div", class_="td-module-container td-category-pos-above")
 
+		# saving blog data
 		for card in cards:
 			image_link = card.find("div", class_="td-module-thumb").a.span["data-bg"]
 			blog_link = card.find("div", class_="td-module-thumb").a["href"]
@@ -30,11 +43,11 @@ def extract():
 			blog_date = blog_soup.find("time", class_="entry-date updated td-module-date").text
 			df.loc[len(df.index)] = [blog_title, blog_date, author_name, blog_link, author_page, image_link]
 
-	csv_filename = os.path.basename(__file__).split('.')[0] + ".csv"
-	csv_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Data", csv_filename))
-	df.to_csv(csv_path, index=False)
+	# saving data as csv
+	print("Saving data")
+	SaveDataAsCSV.df_to_csv_in_data(dataframe=df, caller_path=__file__)
 
 if __name__ == "__main__":
 	print("Processing...")
-	extract();
+	extract()
 	print("Finished.")
