@@ -69,7 +69,7 @@ def extract():
 
 	# saving data as csv
 	print("Saving data")
-	# SaveDataAsCSV.df_to_csv_in_data(dataframe=df, caller_path=__file__)
+	SaveDataAsCSV.df_to_csv_in_data(dataframe=df, caller_path=__file__)
 
 if __name__ == "__main__":
 	print("Processing...")

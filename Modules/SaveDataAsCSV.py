@@ -1,9 +1,5 @@
-try:
-    import os
-    import pandas
-except Exception as e:
-    print(e)
-    print("Exception encountered while importing modules in Modules/DFtoCSV")
+import os
+import pandas
 
 def df_to_csv_in_data(dataframe, caller_path):
     """
