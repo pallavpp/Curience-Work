@@ -10,23 +10,24 @@ if modules_path not in sys.path:
     sys.path.insert(1, modules_path)
 import SaveDataAsCSV
 
-# to be updated manually
-keywords = ["spring", "2022"]
-column_names = ["Blog Title", "Blog Date", "Blog Link", "Author Name", "Author Profile Link", "Thumbnail Link", "Thumbnail Credit"]
+# read and store all keywords in lowercase
+keywords_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Read_Files", "keywords.txt"))
+with open(keywords_path) as file:
+    keywords = [line.strip().lower() for line in file]
 
 # function to find if any keyword is present in blog title
-def filter_using_keywords(blog_title):
+def filter_using_keywords(blog_title_lowercase):
     flag = False
     for keyword in keywords:
-        if keyword in blog_title:
+        if keyword in blog_title_lowercase:
             flag = True
             break
     return flag
 
 # main process
-def extract():
-    final_df = pd.DataFrame(columns=column_names)
-    data_folder_path  = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Data"))
+def extract(): 
+    final_df = pd.DataFrame()
+    data_folder_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Data"))
 
     for path in glob.glob(data_folder_path + "\*.csv"):
         if os.path.basename(path) != "final_data.csv":
@@ -35,7 +36,7 @@ def extract():
             curr_df = curr_df[row_bool]
             final_df = pd.concat([final_df, curr_df], ignore_index=True)
 
-    # removing duplicate blog links
+    # dropping rows conatining duplicate blog links
     final_df.drop_duplicates(subset=["Blog Link"], inplace=True, ignore_index=True)
 
     # replacing NaN with empty string
