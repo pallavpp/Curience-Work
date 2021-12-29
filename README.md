@@ -17,7 +17,7 @@ if modules_path not in sys.path:
 - Before running scripts that use selenium, user will have to update driver path in script.
 - `Scripts/final_data.py` will filter all CSV files present in `Data`, based on keywords present in `Read_Files/keywords.txt`, and store the combined data in a CSV file inside `Data`.
     - ***Each line in `Read_Files/keywords.txt` is treated as a keyword.***
-    - For all scraping scripts, use the following column names only: [“Blog Title”, “Blog Date”, “Blog Link”, “Author Name”, “Author Profile Link”, “Thumbnail Link”, “Thumbnail Credit”]. ***If you decide to include any new column name not listed here, update the above list so others know to use it in the future. If not done, filtered data may contain redundant columns.***
+    - For all scraping scripts, use the following column names only: ["Blog Category", “Blog Title”, “Blog Date”, "Blog Catchphrase", “Blog Link”, “Author Name”, “Author Profile Link”, “Thumbnail Link”, “Thumbnail Credit”]. ***If you decide to include any new column name not listed here, update the above list so others know to use it in the future. If not done, filtered data may contain redundant columns.***
 
 ## All Requirements
 - [Selenium](https://pypi.org/project/selenium/)
