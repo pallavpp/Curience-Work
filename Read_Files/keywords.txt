@@ -1,2 +1,6 @@
-Spring
+fashion
+trend
+forecast
+spring
+summer
 2022
