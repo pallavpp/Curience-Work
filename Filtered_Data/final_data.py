@@ -1,6 +1,4 @@
 # standard imports
-import glob
-from typing import final
 import pandas as pd
 
 # custom imports
@@ -10,30 +8,48 @@ modules_path  = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Modu
 if modules_path not in sys.path:
     sys.path.insert(1, modules_path)
 import SaveDataAsCSV
+import re
 
-# read and store all keywords in lowercase
-keywords_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Read_Files", "keywords.txt"))
-with open(keywords_path) as file:
-    keywords = [line.strip().lower() for line in file]
+def remove_redundant_blogs(final_df):
+    pattern = re.compile(r'20\d\d') # using regex to find matches
+    for index, row in final_df.iterrows():
+        title = str(row["Blog Title"])
+        matches = pattern.finditer(title) # returns all iterators
 
-# function to find if any keyword is present in blog title
-def get_score(blog_title_lowercase):
-    score = 0
-    for keyword in keywords:
-        if keyword in blog_title_lowercase:
-            score += 1
-    return score
+        matched_years = []
+        for match in matches:
+            matched_years.append(int(str(match.group(0))))
+        
+        # deleting rows containg years from 2010-2021
+        if len(matched_years) > 0:
+            if 2022 in matched_years:
+                continue
+            else:                
+                for year in matched_years:
+                    if year >= 2010 and year <= 2021:
+                        final_df.at[index, "keyword_count"] = 0
+                        break
+        
+        # working with Blog Date column
+        blog_date = str(row["Blog Date"])
+        date_matches = pattern.finditer(blog_date)
+
+        dates = []
+        for date in date_matches:
+            dates.append(int(str(date.group(0))))
+
+        # resetting values for sorting later
+        if len(dates) > 0:
+            if dates[0] < 2021:
+                final_df.at[index, "keyword_count"] = 0
 
 # main process
 def extract(max_rows):
-    final_df = pd.DataFrame()
-    data_folder_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Data"))
+    # reading csv
+    path = os.path.abspath(os.path.join(os.path.dirname(__file__), "cumulative_data_with_keyword_count.csv"))
+    final_df = pd.read_csv(path)
 
-    for path in glob.glob(data_folder_path + "\*.csv"):
-        curr_df = pd.read_csv(path)
-        score_values = curr_df.apply(lambda x: get_score(x["Blog Title"].lower()), axis=1)
-        curr_df["row_score"] = score_values
-        final_df = pd.concat([final_df, curr_df], ignore_index=True)
+    remove_redundant_blogs(final_df)
 
     # dropping rows conatining duplicate blog links
     final_df.drop_duplicates(subset=["Blog Link"], inplace=True, ignore_index=True)
@@ -42,13 +58,13 @@ def extract(max_rows):
     final_df.fillna("", inplace=True)
 
     # sort and save cumulative data
-    final_df.sort_values(by="row_score", ascending=False, inplace=True)
-    SaveDataAsCSV.df_to_csv_in_currdir(dataframe=final_df, caller_path=__file__, csv_filename="cumulative_data_with_score.csv")
-    final_df.drop("row_score", axis=1, inplace=True)
+    final_df.sort_values(by="keyword_count", ascending=False, inplace=True)
+    final_df.reset_index
+    final_df.drop("keyword_count", axis=1, inplace=True)
 
     # saving combined data as csv
     if final_df.shape[0] > max_rows:
-        final_df = final_df.loc[:max_rows]
+        final_df = final_df.iloc[:max_rows]
     SaveDataAsCSV.df_to_csv_in_currdir(dataframe=final_df, caller_path=__file__)
 
 if __name__ == "__main__":
