@@ -22,7 +22,7 @@ def find_year_matches(regex_pattern, str_to_find_from):
 def improve_ranking(df):
     """
     Removes poor data with high score.\n
-    If year present in Blog Date, remove if < 2022, keep if 2022 present. Keywords in title increase score by 1.\n
+    If year present in Blog Date, remove if >= 2010 or <= 2021, keep if 2022 present. Keywords in title increase score by 1.\n
     Removes if Blog Date or Blog/Thumbnail Link non empty and contain year <  2021.
     \n
     Parameters:\n
