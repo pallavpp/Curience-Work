@@ -23,7 +23,7 @@ with open(keywords_path) as file:
 stopwords = nltk.corpus.stopwords.words('english')
 stopwords_with_keywords = stopwords + keywords
 
-def extract_words_from_titles(text, keywords_excluded=False):
+def extract_words_from_text(text, keywords_excluded=False):
     """
     A simple function to clean up the data. All the words that
     are not designated as a stop word is then lemmatized after
@@ -37,45 +37,63 @@ def extract_words_from_titles(text, keywords_excluded=False):
     else:
         return [wnl.lemmatize(word) for word in words if word not in stopwords]
 
-def extract_plots(df, keywords_excluded=False, max_n=3, max_rows=10):
-    plots = []
-    words = extract_words_from_titles(text="".join(str(df['Blog Title'].tolist())), keywords_excluded=keywords_excluded)
+def extract_plots(df, plot_save_path, keywords_excluded=False, max_n=3, max_rows=10):
+    words = extract_words_from_text(text="".join(str(df['Blog Title'].tolist())), keywords_excluded=keywords_excluded)
 
     for curr_n in range(1, max_n+1):
         series = (pd.Series(nltk.ngrams(words, curr_n)).value_counts())[:max_rows]
-        series.sort_values().plot.barh(width=.8, figsize=(20, 16))
+        series.sort_values().plot.barh(width=.8, figsize=(30, 15))
         if keywords_excluded:
-            plt.title(f'{max_rows} Most Frequently Occuring {curr_n}-grams, excluding keywords')
+            plt.title(f'{max_rows} Most Frequently Occuring {curr_n}-grams, Excluding Keywords')
+            plot_save_name = os.path.abspath(os.path.join(plot_save_path, f"n_{curr_n}_keywords_excluded.png"))
         else:
             plt.title(f'{max_rows} Most Frequently Occuring {curr_n}-grams')
+            plot_save_name = os.path.abspath(os.path.join(plot_save_path, f"n_{curr_n}.png"))
         plt.ylabel(f'{curr_n}-gram')
         plt.xlabel('# of Occurances')
-        plt.show()
-    return plots
+        plt.savefig(plot_save_name)
+        plt.clf()
 
 # main process
 def extract_all_plots(max_n=3, max_rows=10):
     print("Extracting all plots...")
     
+    # cumulative data
+    print("Plotting for cumulative data...")
     csv_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "cumulative_data_with_keyword_count.csv"))
     dataframe = pd.read_csv(csv_path)
-    # plots = extract_plots(df=dataframe, keywords_excluded=False, max_n=max_n, max_rows=max_rows)
-    # for curr_plot in plots:
-    #     pass
-    plots = extract_plots(df=dataframe, keywords_excluded=True, max_n=max_n, max_rows=max_rows)
-    for curr_plot in plots:
-        pass
+    save_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "Cumulative_Data"))
+    extract_plots(df=dataframe, plot_save_path=save_path, keywords_excluded=False, max_n=max_n, max_rows=max_rows)
+    extract_plots(df=dataframe, plot_save_path=save_path, keywords_excluded=True, max_n=max_n, max_rows=max_rows)
 
-    # keyword_containing_data_csv_path = ""
-    # best_data_csv_path = ""
+    # keyword containing data
+    print("Plotting for keyword containing data...")
+    csv_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "cumulative_data_with_keyword_count.csv"))
+    dataframe = pd.read_csv(csv_path)
+    last_useful_data = 0
+    for value in dataframe["keyword_count"]:
+        if value > 0:
+            last_useful_data += 1
+        else:
+            break
+    dataframe = dataframe.iloc[:last_useful_data]
+    save_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "Keyword_Containing_Data"))
+    extract_plots(df=dataframe, plot_save_path=save_path, keywords_excluded=False, max_n=max_n, max_rows=max_rows)
+    extract_plots(df=dataframe, plot_save_path=save_path, keywords_excluded=True, max_n=max_n, max_rows=max_rows)
 
-    print("All plots saved.")
+    # best data
+    print("Plotting for best data...")
+    csv_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "final_data.csv"))
+    dataframe = pd.read_csv(csv_path)
+    save_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "Best_Data"))
+    extract_plots(df=dataframe, plot_save_path=save_path, keywords_excluded=False, max_n=max_n, max_rows=max_rows)
+    extract_plots(df=dataframe, plot_save_path=save_path, keywords_excluded=True, max_n=max_n, max_rows=max_rows)
 
 if __name__ == "__main__":
     print("Processing...")
 
     # maximum n value for generating ngrams
-    maximum_n_value = 5
+    maximum_n_value = 3
 
     # how many ngrams to show
     max_rows_in_output = 20
