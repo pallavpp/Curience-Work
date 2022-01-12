@@ -21,9 +21,10 @@ def find_year_matches(regex_pattern, str_to_find_from):
 # function to remove old blogs with high keyword count
 def improve_ranking(df):
     """
-    Removes poor data with high score.\n
-    If year present in Blog Date, remove if >= 2010 or <= 2021, keep if 2022 present. Keywords in title increase score by 1.\n
-    Removes if Blog Date or Blog/Thumbnail Link non empty and contain year <  2021.
+    If year present in Blog Date - remove if >= 2010 and <= 2021, keep if 2022 present.\n
+    Keyword presence in title increases score by 1.\n
+    If Blog Date or Blog/Thumbnail Link non empty and contain year < 2021 - remove if permitted.\n
+    2022 in Blog Date/Link increases score by 1.
     \n
     Parameters:\n
     Pandas DataFrame
@@ -34,6 +35,11 @@ def improve_ranking(df):
 
     # resetting score for required rows
     for index, row in df.iterrows():
+        # flags
+        keyword_in_title_flag = False
+        year_flag = False
+        year_in_title_flag = False
+
         # removing rows containg years from 2010-2021 in title
         title = str(row["Blog Title"])
         years_matched = find_year_matches(regex_pattern=pattern, str_to_find_from=title)
@@ -45,34 +51,39 @@ def improve_ranking(df):
         if df.at[index, "Score"] == 0:
             continue
 
-        # bonus score for useful keywords
-        flag = False
-        year_flag = False
+        # bonus score for useful keywords in blog title
         if "summer" in title.lower():
-            flag = True
+            keyword_in_title_flag = True
         if "spring" in title.lower():
-            flag = True
+            keyword_in_title_flag = True
         if 2022 in years_matched:
-            flag = True
-            year_flag = True
-        
-        if flag:
-            df.at[index, "Score"] = df.at[index, "Score"] + 1
-        if year_flag:
-            continue
+            keyword_in_title_flag = True
+            year_in_title_flag = True
         
         # removing blogs older than 2021 or with blog/thumbnail link containing years less than 2021
         blog_date = str(row["Blog Date"])
         blog_link = str(row["Blog Link"])
         thumbnail_link = str(row["Thumbnail Link"])
-        years_matched = find_year_matches(regex_pattern=pattern, str_to_find_from=blog_date)
-        years_matched.extend(find_year_matches(regex_pattern=pattern, str_to_find_from=blog_link))
-        years_matched.extend(find_year_matches(regex_pattern=pattern, str_to_find_from=thumbnail_link))
+        blog_date_years_matched = find_year_matches(regex_pattern=pattern, str_to_find_from=blog_date)
+        blog_link_years_matched = find_year_matches(regex_pattern=pattern, str_to_find_from=blog_link)
+        thumbnail_link_years_matched = find_year_matches(regex_pattern=pattern, str_to_find_from=thumbnail_link)
 
-        for year in years_matched:
-            if year < 2021:
+        for year in (blog_date_years_matched + blog_link_years_matched + thumbnail_link_years_matched):
+            if year_in_title_flag == False and year < 2021:
                 df.at[index, "Score"] = 0
                 break
+        if df.at[index, "Score"] == 0:
+            continue
+
+        # bonus score for year in blog link
+        if 2022 in (blog_date_years_matched + blog_link_years_matched):
+            year_flag = True
+
+        # bonus scores
+        if keyword_in_title_flag:
+            df.at[index, "Score"] = df.at[index, "Score"] + 1
+        if year_flag:
+            df.at[index, "Score"] = df.at[index, "Score"] + 1
 
 # main process
 def extract(max_rows):

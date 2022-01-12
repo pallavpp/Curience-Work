@@ -19,8 +19,8 @@ Pallav and Alokeveer's Work.
 - `Filtered_Data` folder contains filtering scripts and sorted, cumulated and filtered data.
     - _Filtered_Data/cumulative_data_with_keyword_count.py_ reads all CSV files from `Data` folder and filters them based on keywords read from _Read_Files/keywords.txt_.
     - _Filtered_Data/final_data.py_ sorts and return top results in _cumulative_data_with_keyword_count.csv_. If required, user will have to update _max rows in output_ in the script. Criteria used to reject poor results:
-        - If year present in Blog Date - remove if >= 2010 or <= 2021, keep if 2022 present. Keywords in title increase score by 1.
-        - Remove if Blog Date or Blog/Thumbnail Link non empty and contain year <  2021.
+        - If year present in Blog Date - remove if >= 2010 and <= 2021, keep if 2022 present. Keyword presence in title increases score by 1.
+        - If Blog Date or Blog/Thumbnail Link non empty and contain year < 2021 - remove if permitted. 2022 in Blog Date/Link increases score by 1.
     - _Filtered_Data/divide_csv.py_ divides _final_data.csv_ in two parts and saves in `Analytics` folder for document analytics.
     - _Filtered_Data/title_ngrams.py_ geneates n-grams based on blog titles for all positively scored data in _cumulative_data_with_keyword_count.csv_. Plots are saved in `Ngram_Histogram_Plots` folder.
 - `Analytics` folder contains document analytics.
