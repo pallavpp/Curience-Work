@@ -21,8 +21,9 @@ Pallav and Alokeveer's Work.
     - _Filtered_Data/final_data.py_ sorts and return top results in _cumulative_data_with_keyword_count.csv_. If required, user will have to update _max rows in output_ in the script. Criteria used to reject poor results:
         - If year present in Blog Date - remove if >= 2010 and <= 2021, keep if 2022 present. Keyword presence in title increases score by 1.
         - If Blog Date or Blog/Thumbnail Link non empty and contain year < 2021 - remove if permitted. 2022 in Blog Date/Link increases score by 1.
-    - _Filtered_Data/divide_csv.py_ divides _final_data.csv_ in two parts and saves in `Analytics` folder for document analytics.
     - _Filtered_Data/title_ngrams.py_ geneates n-grams based on blog titles for all positively scored data in _cumulative_data_with_keyword_count.csv_. Plots are saved in `Ngram_Histogram_Plots` folder.
+    - _Filtered_Data/divide_csv.py_ divides _final_data.csv_ in two parts and saves in `Analytics` folder for document analytics.
+    - _Filtered_Data/recall.py_ calculates the recall score for blog links in _Read_Files/fashion_intern_forecasting_website_list.csv_ based on links present in _Filtered_Data/cumulative_data_with_keyword_count.csv_.
 - `Analytics` folder contains document analytics.
 
 ## All Requirements

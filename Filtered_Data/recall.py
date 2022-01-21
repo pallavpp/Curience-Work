@@ -4,14 +4,9 @@ import re
 
 # custom imports
 import os
-import sys
-modules_path  = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Modules"))
-if modules_path not in sys.path:
-    sys.path.insert(1, modules_path)
-import SaveDataAsCSV
 
 def calculate_recall():
-    path_of_fashion_intern_data = os.path.abspath(os.path.join(os.path.dirname(__file__), "../", "Read_Files/fashion_intern_website_list.csv"))
+    path_of_fashion_intern_data = os.path.abspath(os.path.join(os.path.dirname(__file__), "../", "Read_Files/fashion_intern_forecasting_website_list.csv"))
     path_of_cumulative_data = os.path.abspath(os.path.join(os.path.dirname(__file__), "final_data.csv"))
 
     fashion_intern_df = pd.read_csv(path_of_fashion_intern_data)
@@ -31,13 +26,9 @@ def calculate_recall():
     print("Mached blogs are:")
     for blog_link in matched_blog_links:
         print(blog_link)
-
     print(len(matched_blog_links), "blogs are maching.") 
-
 
 if __name__ == "__main__":
     print("Processing")
-
     calculate_recall()
-
     print("Finished")
