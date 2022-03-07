@@ -1,0 +1,465 @@
+NGRAMS OCCURING IN MULTIPLE BLOGS:
+
+For 1-grams:
+       ngram occurence
+0       2022         8
+1    Fashion         4
+2        Miu         4
+3   Courtesy         3
+4      Photo         3
+5      Saint         2
+6  Christian         2
+7     Images         2
+8        New         2
+9       Week         2
+
+For 2-grams:
+               ngram occurence
+0            Miu Miu         3
+1       Fashion Week         3
+2      Saint Laurent         2
+3      Louis Vuitton         2
+4       Supriya Lele         2
+5       Nensi Dojaka         2
+6       LaQuan Smith         2
+7     Photo Courtesy         2
+8        Photo Photo         2
+9   Jonathan Simkhai         2
+10             SS 22         2
+
+For 3-grams:
+                     ngram occurence
+0         Ludovic de Saint         2
+1      Maryam Nassir Zadeh         2
+2  Michael Kors Collection         2
+3        Photo Photo Photo         2
+4       Photo Courtesy ofA         2
+
+
+
+
+INDIVIDUAL BLOG ANALYSIS:
+
+For 1-grams:
+
+https://www.cosmopolitan.com/style-beauty/fashion/g38451358/2022-fashion-trends/
+Courtesy
+2022
+REVOLVE
+Dress
+Youll
+Y2K
+
+https://www.instyle.com/fashion/clothing/spring-2022-fashion-trends
+InStyle
+Fashion
+Account
+2022
+Beauty
+Meredith
+
+https://www.purewow.com/fashion/2022-fashion-trend-predictions
+Close
+Shop
+2022
+Sign
+Stories
+
+https://www.vogue.co.uk/fashion/article/fashion-trends-2022
+2022
+Fashion
+Miu
+Depop
+Wiggins
+Saint
+
+https://www.vogue.co.uk/fashion/gallery/spring-summer-2022-fashion-trends
+Miu
+Alexander
+McQueen
+Gucci
+Prada
+Veneta
+Louis
+Bottega
+Christian
+Vuitton
+Versace
+2022
+Supriya
+Fendi
+Lele
+
+https://www.harpersbazaar.com/fashion/trends/g38124524/new-york-spring-2022-fashion-trends/
+Getty
+Pictured
+Images
+New
+York
+Smith
+Week
+Harpers
+Fashion
+BAZAAR
+
+https://www.whowhatwear.com/new-york-fashion-week-spring-summer-2022/slide10
+Photo
+Courtesy
+ofA
+Nassir
+Zadeh
+Maryam
+Christian
+Simkhai
+Victor
+Jonathan
+Glemaud
+New
+2022
+
+https://www.glamourmagazine.co.uk/gallery/spring-summer-2022-fashion-trends
+LR
+Spotted
+Fashion
+Week
+Teather
+Charlie
+Elleme
+
+https://www.marieclaire.com/fashion/g37705070/spring-2022-fashion-trends/
+Trends
+Sara
+Holzman
+Claire
+Marie
+2022
+Crochet
+Spring
+Skirt
+Mini
+2020
+
+https://www.whowhatwear.com/spring-summer-fashion-trends-2022
+Photo
+2022
+Images
+Miu
+ChloA
+Balmain
+
+https://www.whowhatwear.com/paris-fashion-week-spring-summer-2022/slide25
+Photo
+Courtesy
+Miu
+Saint
+Laurent
+Loewe
+Paris
+Valentino
+Givenchy
+aA
+
+
+
+For 2-grams:
+
+https://www.cosmopolitan.com/style-beauty/fashion/g38451358/2022-fashion-trends/
+Youll Seeing
+love Promise
+Trends Youll
+Danielle Flum
+Fashion Trends
+Everywhere 2022
+Seeing Everywhere
+Dress Courtesy
+
+https://www.instyle.com/fashion/clothing/spring-2022-fashion-trends
+InStyle InStyle
+Account Account
+Read spring
+Terms Servicethis
+Laura Brown
+Privacy Policythis
+Ad Choicesthis
+Sellthis link
+
+https://www.purewow.com/fashion/2022-fashion-trend-predictions
+Shop trend
+Forgot password
+Close Close
+account Sign
+Sign today
+Dont account
+Sign PureWow
+password Create
+Connect Us
+Enter registered
+Trending Top
+PureWow get
+
+https://www.vogue.co.uk/fashion/article/fashion-trends-2022
+Saint Laurent
+Chopova Lowena
+Alice Newbold
+Ellie Pithers
+Lowena springsummer
+Navigation Menu
+notes Wiggins
+Chloe springsummer
+Jean Paul
+Laurent springsummer
+Paul Gaultier
+2022 Valentino
+
+https://www.vogue.co.uk/fashion/gallery/spring-summer-2022-fashion-trends
+Alexander McQueen
+Bottega Veneta
+Miu Miu
+Louis Vuitton
+Supriya Lele
+Christian Dior
+Dolce Gabbana
+Tom Ford
+Emilia Wickstead
+Richard Quinn
+Philosophy di
+Giorgio Armani
+Alberta Ferretti
+Nensi Dojaka
+Molly Goddard
+
+https://www.harpersbazaar.com/fashion/trends/g38124524/new-york-spring-2022-fashion-trends/
+Getty Images
+Pictured clockwise
+New York
+Fashion Week
+York Fashion
+Harpers BAZAAR
+LaQuan Smith
+Every product
+Prabal Gurung
+Standout Trends
+Trends New
+Kors Collection
+
+https://www.whowhatwear.com/new-york-fashion-week-spring-summer-2022/slide10
+Photo Courtesy
+Photo Photo
+Courtesy ofA
+Maryam Nassir
+Nassir Zadeh
+Jonathan Simkhai
+Victor Glemaud
+Courtesy Maryam
+Brandon Maxwell
+Simkhai Photo
+Zadeh Photo
+Kim Shui
+Tory Burch
+Bevza Photo
+Courtesy Brandon
+
+https://www.glamourmagazine.co.uk/gallery/spring-summer-2022-fashion-trends
+Spotted LR
+Fashion Week
+Charlie Teather
+David Koma
+Nensi Dojaka
+Yuhan Wang
+Supriya Lele
+LR Elleme
+Jonathan Simkhai
+London Fashion
+Michael Kors
+Rejina Pyo
+
+https://www.marieclaire.com/fashion/g37705070/spring-2022-fashion-trends/
+Sara Holzman
+Marie Claire
+Mini Skirt
+Marina Liao
+Spring 2022
+Trends Know
+Labor Day
+Claire US
+Cropped Cardigan
+Jewelry Trends
+Rachel Burchfield
+Kate Middleton
+
+https://www.whowhatwear.com/spring-summer-fashion-trends-2022
+Miu Miu
+LaQuan Smith
+Kwaidan Editions
+SS 22
+Proenza Schouler
+minidresses Burberry
+Paco Rabanne
+Editions Photo
+
+https://www.whowhatwear.com/paris-fashion-week-spring-summer-2022/slide25
+Photo Courtesy
+Photo Photo
+Saint Laurent
+Miu Miu
+SS 22
+Louis Vuitton
+CourrA ges
+Stella McCartney
+Lanvin Photo
+Fashion Week
+Laurent Photo
+Chanel Photo
+Loewe Louis
+
+
+
+For 3-grams:
+
+https://www.cosmopolitan.com/style-beauty/fashion/g38451358/2022-fashion-trends/
+Youll Seeing Everywhere
+Trends Youll Seeing
+Epic Fashion Trends
+products love Promise
+Fashion Trends Youll
+Seeing Everywhere 2022
+complaining Vaquera Add
+
+https://www.instyle.com/fashion/clothing/spring-2022-fashion-trends
+InStyle InStyle InStyle
+Read spring 2022s
+new tab Ad
+Privacy Policythis link
+tab California Sellthis
+modal window Web
+window Web Accessibilitythis
+Policythis link opens
+California Sellthis link
+
+https://www.purewow.com/fashion/2022-fashion-trend-predictions
+Dont account Sign
+account Sign today
+Youll Want Buy
+Already account Log
+2022 According Fashion
+Want Buy 2022
+Youll Love Stories
+Close Like See
+Sign PureWow get
+Forgot password Never
+Trends Youll Want
+Enter registered email
+Shop trend Cider
+According Fashion Editor
+Create one Dont
+
+https://www.vogue.co.uk/fashion/article/fashion-trends-2022
+Chopova Lowena springsummer
+Saint Laurent springsummer
+springsummer 2022 Chopova
+Miu springsummer 2022
+Loewe springsummer 2022
+Lowena springsummer 2022
+2022 Saint Laurent
+Jean Paul Gaultier
+2022 Valentino springsummer
+springsummer 2022 Valentino
+Valentino springsummer 2022
+2022 Chopova Lowena
+Miu Miu springsummer
+Laurent springsummer 2022
+springsummer 2022 Saint
+
+https://www.vogue.co.uk/fashion/gallery/spring-summer-2022-fashion-trends
+di Lorenzo Serafini
+de Saint Sernin
+Ludovic de Saint
+Philosophy di Lorenzo
+Preen Thornton Bregazzi
+Charles Jeffrey Loverboy
+Christopher John Rogers
+Andreas Kronthaler Vivienne
+Comme des Garcons
+Maryam Nassir Zadeh
+Jason Wu Collection
+Rocha Richard Quinn
+Kronthaler Vivienne Westwood
+Michael Kors Collection
+Simone Rocha Richard
+
+https://www.harpersbazaar.com/fashion/trends/g38124524/new-york-spring-2022-fashion-trends/
+York Fashion Week
+New York Fashion
+BAZAAR editor may
+Standout Trends New
+Trends New York
+page chosen Harpers
+Michael Kors Collection
+Six Standout Trends
+Harpers BAZAAR editor
+
+https://www.whowhatwear.com/new-york-fashion-week-spring-summer-2022/slide10
+Photo Photo Photo
+Photo Courtesy ofA
+Maryam Nassir Zadeh
+Jonathan Simkhai Photo
+Courtesy Maryam Nassir
+Photo Courtesy Maryam
+Simkhai Photo Courtesy
+Glemaud Photo Courtesy
+Photo Courtesy Christian
+Photo Courtesy Brandon
+Nassir Zadeh Photo
+Zadeh Photo Courtesy
+Courtesy Brandon Maxwell
+Victor Glemaud Photo
+Bevza Photo Courtesy
+
+https://www.glamourmagazine.co.uk/gallery/spring-summer-2022-fashion-trends
+Spotted LR Elleme
+London Fashion Week
+Charlie Teather Charlie
+Elleme SpringSummer 2022
+HIGHLIGHTER YELLOW NETTED
+OUTERWEAR BULKY BAGS
+WAISTS PLEATED SKIRTS
+Yuhan Wang David
+UNDERWEAR OUTERWEAR BULKY
+PLEATED SKIRTS LIQUID
+SUITING ACCESSORISED LEGS
+LEGS STRAP HIGHLIGHTER
+Elleme Rejina Pyo
+LOWSLUNG WAISTS PLEATED
+
+https://www.marieclaire.com/fashion/g37705070/spring-2022-fashion-trends/
+Marie Claire US
+Visit corporate site
+mum guilt Rachel
+Holzman Fashion Editor
+Gingham Cotton Shorts
+spring minis Designers
+Olivia Crochet Sweater
+Fendi white separates
+
+https://www.whowhatwear.com/spring-summer-fashion-trends-2022
+aboutA spring 2022
+New York London
+Keep scrolling forA
+wardrobesA wont arrive
+
+https://www.whowhatwear.com/paris-fashion-week-spring-summer-2022/slide25
+Photo Photo Photo
+Loewe Louis Vuitton
+ges Photo Courtesy
+Loewe Photo Courtesy
+Laurent Photo Courtesy
+Courtesy Loewe Photo
+Photo Courtesy Valentino
+CourrA ges Photo
+Photo Courtesy Loewe
+Saint Laurent Photo
+Ludovic de Saint
+suiting mirrorA LoeweA
+Photo Courtesy ofA
+might remember Cableknit
+
