@@ -1,0 +1,1116 @@
+KEYWORDS OCCURING IN MULTIPLE BLOGS (LEMMATIZE + USEFUL):
+
+For 1-grams:
+          ngram occurence
+0           buy        20
+1       fashion        17
+2         dress        17
+3        summer        13
+4         trend        13
+5       charlie        12
+6       teather        12
+7       account        11
+8        window        10
+9           tab        10
+10         link        10
+11     meredith        10
+12         open        10
+13      instyle        10
+14        naked        10
+15          new        10
+16        story         8
+17         join         8
+18        email         7
+19    celebrity         7
+20     password         7
+21        close         7
+22    fullerton         7
+23   collection         6
+24   netaporter         6
+25         shop         6
+26         midi         6
+27    instagram         6
+28       forgot         6
+29    alexandra         6
+30          com         6
+31       spring         6
+32       recipe         6
+33         asos         6
+34         save         5
+35       beauty         5
+36      content         5
+37          top         5
+38     designer         5
+39       please         5
+40         maxi         4
+41         mini         4
+42       floral         4
+43       sleeve         4
+44         sale         4
+45        brand         4
+46         code         4
+47     discount         4
+48        modal         4
+49         best         4
+50        share         3
+51         zara         3
+52        loewe         3
+53        label         3
+54      spotted         3
+55        color         3
+56       sandal         3
+57         wear         3
+58         lace         3
+59      spencer         3
+60       london         3
+61      gallery         3
+62        shade         3
+63           uk         3
+64         mark         3
+65      garment         3
+66       bikini         3
+67      trouser         3
+68         wrap         3
+69        enter         2
+70      checked         2
+71      purewow         2
+72         faux         2
+73           hm         2
+74         jean         2
+75       jacket         2
+76        saint         2
+77     lockdown         2
+78     trending         2
+79      leather         2
+80       sophie         2
+81          hue         2
+82           im         2
+83      cockett         2
+84         pair         2
+85          dad         2
+86         real         2
+87       bianca         2
+88      sneaker         2
+89        mango         2
+90       bottom         2
+91     swimwear         2
+92      vintage         2
+93     swimsuit         2
+94      shirred         2
+95       ballet         2
+96       modern         2
+97         well         2
+98       kitten         2
+99         dior         2
+100    dressing         2
+101      detail         2
+102      cruise         2
+103    shoulder         2
+104         bag         2
+105       vogue         2
+106   valentino         2
+107      season         2
+108       green         2
+109      affirm         2
+110     eloquii         2
+111     payment         2
+112     cropped         2
+113        year         2
+114  selfridges         2
+115       satin         2
+116       linen         2
+117      search         2
+118          fb         2
+119   oversized         2
+120        look         2
+121    clothing         2
+122         men         2
+123     striped         2
+124      colour         2
+125        rule         2
+126     similar         2
+127       india         2
+
+For 2-grams:
+                  ngram occurence
+0       charlie teather        12
+1             link open        10
+2               new tab        10
+3              tab link        10
+4       instyle instyle        10
+5           naked dress        10
+6       account account        10
+7          modal window        10
+8            open modal        10
+9              open new        10
+10           midi dress         7
+11      forgot password         7
+12          close close         7
+13  alexandra fullerton         6
+14              buy buy         5
+15            save shop         5
+16    instagram content         4
+17      teather charlie         4
+18        discount code         4
+19          story youll         3
+20           dress asos         3
+21            dress buy         3
+22         summer dress         3
+23          high street         3
+24         trending top         3
+25        fashion brand         3
+26          dress mango         3
+27          dress story         3
+28         fashion week         3
+29        never created         3
+30    content instagram         3
+31            flip flop         3
+32             crop top         3
+33         mark spencer         3
+34  fullerton alexandra         3
+35             buy best         3
+36           photo view         3
+37       ad choicesthis         3
+38         faux leather         2
+39            pick best         2
+40          shirt dress         2
+41           dress zara         2
+42          editor pick         2
+43       fashion editor         2
+44        bianca london         2
+45       sophie cockett         2
+46           recipe box         2
+47           mini dress         2
+48        summer outfit         2
+49        story partner         2
+50          video watch         2
+51        abby hepworth         2
+52     fashion industry         2
+53           floral buy         2
+54           maxi dress         2
+55           window web         2
+56          kitten heel         2
+57          color block         2
+58        bold shoulder         2
+59     designer fashion         2
+60       spring fashion         2
+61         dress summer         2
+62            shop best         2
+63     dress netaporter         2
+64       netaporter com         2
+65        asos discount         2
+66            asos save         2
+67         dress floral         2
+68         floral dress         2
+69          linen dress         2
+70             tab term         2
+71               tab ad         2
+72         trend summer         2
+73        louis vuitton         2
+74  california sellthis         2
+75     dress zimmermann         2
+
+For 3-grams:
+                            ngram occurence
+0                    open new tab        10
+1                    new tab link        10
+2                   tab link open        10
+3                 link open modal        10
+4               open modal window        10
+5         instyle instyle instyle        10
+6                   link open new        10
+7     accessibilitythis link open         8
+8                    new tab term         7
+9            policythis link open         6
+10             love story partner         6
+11               naked dress time         6
+12            password create one         6
+13            ad choicesthis link         6
+14         password never created         6
+15           tab term servicethis         5
+16               story youll love         5
+17             trending top story         5
+18               youll love story         5
+19          forgot password never         5
+20                 close like see         5
+21         never created password         5
+22                     new tab ad         5
+23     web accessibilitythis link         5
+24               modal window web         5
+25        created password create         4
+26         enter registered email         4
+27          servicethis link open         4
+28             please log account         4
+29                    buy buy buy         4
+30        privacy policythis link         4
+31        charlie teather charlie         4
+32          term servicethis link         4
+33        teather charlie teather         4
+34   window web accessibilitythis         3
+35                 asos save shop         3
+36             photo view gallery         3
+37             gallery photo view         3
+38          choicesthis link open         3
+39             new tab california         3
+40  alexandra fullerton alexandra         3
+41  fullerton alexandra fullerton         3
+42                  com save shop         3
+43            dress asos discount         3
+44      content instagram content         3
+45    instagram content instagram         3
+46             sellthis link open         3
+47       california sellthis link         3
+48             asos discount code         2
+49               editor pick best         2
+50            netaporter com save         2
+51       netaporter discount code         2
+52            fashion editor pick         2
+53      dress netaporter discount         2
+54                 save shop best         2
+55        tab california sellthis         2
+56             tab ad choicesthis         2
+57               dress floral buy         2
+58        navigation menu fashion         2
+
+
+
+
+KEYWORDS OCCURING IN MULTIPLE BLOGS (USEFUL):
+
+For 1-grams:
+           ngram occurence
+0            buy        20
+1        fashion        17
+2          dress        14
+3        teather        11
+4        charlie        11
+5         summer        11
+6        account        11
+7           join        10
+8         window        10
+9           link        10
+10         naked        10
+11         opens        10
+12           new        10
+13       instyle        10
+14           tab        10
+15      meredith        10
+16       stories         8
+17     fullerton         7
+18       dresses         7
+19         email         7
+20      password         7
+21         close         7
+22           com         6
+23          shop         6
+24          asos         6
+25    netaporter         6
+26        spring         6
+27        forgot         6
+28     instagram         6
+29          midi         6
+30     alexandra         5
+31       content         5
+32         modal         5
+33        please         5
+34          save         5
+35        beauty         5
+36          best         4
+37        trends         4
+38          maxi         4
+39          mini         4
+40      discount         4
+41            fb         4
+42        floral         4
+43         codes         4
+44           top         4
+45          sale         4
+46         brand         3
+47          wear         3
+48          wrap         3
+49          zara         3
+50    collection         3
+51      trousers         3
+52        shorts         3
+53       spotted         3
+54         marks         3
+55         trend         3
+56     designers         3
+57       gallery         3
+58      designer         3
+59          crop         3
+60       checked         2
+61        ballet         2
+62    highstreet         2
+63       sandals         2
+64      lockdown         2
+65       cockett         2
+66          real         2
+67          faux         2
+68        sophie         2
+69       leather         2
+70        bianca         2
+71         india         2
+72         enter         2
+73       vintage         2
+74       purewow         2
+75        jacket         2
+76      trending         2
+77      sneakers         2
+78            im         2
+79          says         2
+80          lace         2
+81           dad         2
+82        bottom         2
+83      platform         2
+84      swimwear         2
+85        bikini         2
+86            hm         2
+87       spencer         2
+88         jeans         2
+89      searches         2
+90        sleeve         2
+91        cruise         2
+92       eloquii         2
+93        affirm         2
+94        london         2
+95         green         2
+96       seasons         2
+97     valentino         2
+98         vogue         2
+99      dressing         2
+100      cropped         2
+101  collections         2
+102         dior         2
+103         part         2
+104         heel         2
+105       kitten         2
+106         well         2
+107        think         2
+108       modern         2
+109   selfridges         2
+110        satin         2
+111        linen         2
+112          bag         2
+113      similar         2
+114        shade         2
+115       shades         2
+116       colour         2
+117       cutout         2
+118     garments         2
+119     clothing         2
+120        loewe         2
+121       colors         2
+122        color         2
+123    oversized         2
+124        label         2
+125       brands         2
+126      shirred         2
+127           uk         2
+
+For 2-grams:
+                     ngram occurence
+0          charlie teather        12
+1               link opens        10
+2                  new tab        10
+3                 tab link        10
+4          instyle instyle        10
+5            naked dresses        10
+6          account account        10
+7              opens modal        10
+8             modal window        10
+9                opens new        10
+10              midi dress         7
+11             close close         7
+12         forgot password         7
+13     alexandra fullerton         6
+14                 buy buy         5
+15               save shop         5
+16              glamour uk         4
+17       instagram content         4
+18         teather charlie         4
+19          discount codes         4
+20  accessibilitythis link         3
+21               dress buy         3
+22       content instagram         3
+23           dress stories         3
+24            dresses asos         3
+25           marks spencer         3
+26          tab california         3
+27                buy best         3
+28              create one         3
+29             photos view         3
+30             high street         3
+31        fashion industry         3
+32            fashion week         3
+33     fullerton alexandra         3
+34        enter registered         2
+35            sign purewow         2
+36        stories partners         2
+37               asos save         2
+38        dress zimmermann         2
+39           saint laurent         2
+40                like see         2
+41          fashion editor         2
+42              connect us         2
+43              mini dress         2
+44              flip flops         2
+45          sophie cockett         2
+46           abby hepworth         2
+47           bianca london         2
+48            faux leather         2
+49             linen dress         2
+50         fashion editors         2
+51               shop best         2
+52             kitten heel         2
+53             color block         2
+54              window web         2
+55        designer fashion         2
+56                crop top         2
+57          spring fashion         2
+58          dresses summer         2
+59                com save         2
+60              dress zara         2
+61          netaporter com         2
+62            floral dress         2
+63                  tab ad         2
+64           louis vuitton         2
+65          summer dresses         2
+66              maxi dress         2
+67             shirt dress         2
+68           asos discount         2
+
+For 3-grams:
+                            ngram occurence
+0                   opens new tab        10
+1                  link opens new        10
+2                    new tab link        10
+3                  tab link opens        10
+4              opens modal window        10
+5                link opens modal        10
+6         instyle instyle instyle        10
+7          servicethis link opens         8
+8    accessibilitythis link opens         8
+9        california sellthis link         7
+10            password create one         6
+11             youll love stories         6
+12         enter registered email         6
+13        privacy policythis link         5
+14        created password create         5
+15         password never created         5
+16          love stories partners         5
+17             stories youll love         5
+18            sellthis link opens         5
+19               modal window web         5
+20             naked dresses time         5
+21     web accessibilitythis link         5
+22         never created password         5
+23         terms servicethis link         5
+24             please log account         5
+25                     new tab ad         4
+26                 close like see         4
+27                    buy buy buy         4
+28   window web accessibilitythis         4
+29          forgot password never         4
+30            asos discount codes         4
+31        charlie teather charlie         4
+32        teather charlie teather         4
+33                 asos save shop         4
+34                  new tab terms         4
+35            ad choicesthis link         4
+36         choicesthis link opens         4
+37        tab california sellthis         4
+38                  com save shop         4
+39             tab ad choicesthis         4
+40  fullerton alexandra fullerton         3
+41            gallery photos view         3
+42            photos view gallery         3
+43  alexandra fullerton alexandra         3
+44           trending top stories         3
+45             new tab california         3
+46            netaporter com save         3
+47    instagram content instagram         3
+48      content instagram content         3
+49          dresses asos discount         3
+50                 save shop best         2
+51    dresses netaporter discount         2
+52      netaporter discount codes         2
+53          policythis link opens         2
+54        navigation menu fashion         2
+
+
+
+
+KEYWORDS OCCURING IN MULTIPLE BLOGS (LEMMATIZE):
+
+For 1-grams:
+          ngram occurence
+0           buy        19
+1       fashion        17
+2         dress        17
+3       account        17
+4       charlie        13
+5       teather        13
+6         trend        13
+7        summer        11
+8          link        10
+9      meredith        10
+10       change        10
+11          tab        10
+12       window        10
+13      instyle        10
+14          new        10
+15         open        10
+16        naked        10
+17         shop         9
+18        close         7
+19     password         7
+20        email         7
+21      purewow         7
+22       beauty         7
+23    fullerton         7
+24    celebrity         6
+25         join         6
+26         asos         6
+27      content         6
+28    instagram         6
+29         midi         6
+30           uk         6
+31       spring         6
+32          com         6
+33   netaporter         5
+34     designer         5
+35   originates         5
+36   collection         5
+37         sign         5
+38          log         5
+39     discount         5
+40    alexandra         5
+41         sale         4
+42       sandal         4
+43       forgot         4
+44         mini         4
+45          top         4
+46       viewed         4
+47         maxi         4
+48       recipe         4
+49        brand         4
+50       floral         4
+51         code         4
+52         best         4
+53         save         4
+54       sleeve         3
+55          say         3
+56         look         3
+57         also         3
+58         site         3
+59        loewe         3
+60        label         3
+61      spotted         3
+62         wrap         3
+63      garment         3
+64         zara         3
+65         lace         3
+66      trouser         3
+67       bikini         3
+68         mark         3
+69      spencer         3
+70         wear         3
+71       ballet         2
+72      checked         2
+73     swimsuit         2
+74         faux         2
+75      leather         2
+76        saint         2
+77           hm         2
+78      vintage         2
+79       sophie         2
+80      cockett         2
+81         shoe         2
+82      sneaker         2
+83      gallery         2
+84           im         2
+85        story         2
+86       bottom         2
+87          dad         2
+88     swimwear         2
+89        mango         2
+90          hue         2
+91         fast         2
+92         real         2
+93      ruffled         2
+94      cropped         2
+95          bag         2
+96       affirm         2
+97        green         2
+98         seen         2
+99       london         2
+100      season         2
+101   valentino         2
+102      cruise         2
+103     similar         2
+104    dressing         2
+105        dior         2
+106      kitten         2
+107     already         2
+108         may         2
+109        well         2
+110     eloquii         2
+111     payment         2
+112  selfridges         2
+113       satin         2
+114       linen         2
+115     shirred         2
+116      search         2
+117       award         2
+118       color         2
+119        even         2
+120      agency         2
+121        shes         2
+122    gonzalez         2
+123    clothing         2
+124         men         2
+125      colour         2
+126       shade         2
+127       india         2
+
+For 2-grams:
+                     ngram occurence
+0          charlie teather        14
+1                link open        10
+2                  new tab        10
+3                 tab link        10
+4          instyle instyle        10
+5              naked dress        10
+6             modal window        10
+7          account account        10
+8               open modal        10
+9                 open new        10
+10              midi dress         7
+11         forgot password         7
+12             close close         7
+13            dont account         6
+14     alexandra fullerton         6
+15            account sign         6
+16              sign today         6
+17                 buy buy         5
+18            sign purewow         5
+19               save shop         5
+20           discount code         4
+21         teather charlie         4
+22       instagram content         4
+23            content also         4
+24             also viewed         4
+25             viewed site         4
+26         site originates         4
+27       content instagram         3
+28             dress mango         3
+29            mark spencer         3
+30               dress buy         3
+31            summer dress         3
+32                com shop         3
+33           fashion brand         3
+34            fashion week         3
+35                crop top         3
+36              photo view         3
+37                buy best         3
+38     fullerton alexandra         3
+39             high street         3
+40             dress story         3
+41              dress asos         3
+42                dress hm         2
+43           bold shoulder         2
+44             color block         2
+45             kitten heel         2
+46        dress zimmermann         2
+47           fashion trend         2
+48        created password         2
+49           summer outfit         2
+50           bianca london         2
+51          sophie cockett         2
+52               flip flop         2
+53            fast fashion         2
+54           abby hepworth         2
+55              mini dress         2
+56            faux leather         2
+57               pick best         2
+58               jacket hm         2
+59              please log         2
+60        dress netaporter         2
+61          fashion editor         2
+62             editor pick         2
+63               shop best         2
+64           asos discount         2
+65               asos save         2
+66            dress floral         2
+67            floral dress         2
+68             linen dress         2
+69              floral buy         2
+70            dress summer         2
+71        designer fashion         2
+72             laura brown         2
+73  accessibilitythis link         2
+74            trend summer         2
+75           louis vuitton         2
+76              maxi dress         2
+77          netaporter com         2
+78             shirt dress         2
+79              dress zara         2
+80        fashion industry         2
+
+For 3-grams:
+                            ngram occurence
+0                    open new tab        10
+1                   tab link open        10
+2                    new tab link        10
+3                 link open modal        10
+4               open modal window        10
+5         instyle instyle instyle        10
+6                   link open new        10
+7        california sellthis link         7
+8              sellthis link open         7
+9              account sign today         7
+10              dont account sign         7
+11        privacy policythis link         6
+12            already account log         5
+13            content also viewed         5
+14    accessibilitythis link open         5
+15               also viewed site         5
+16         right reserved instyle         5
+17                     new tab ad         4
+18               one dont account         4
+19               youll love story         4
+20                 close like see         4
+21               sign purewow get         4
+22             love story partner         4
+23   window web accessibilitythis         4
+24        charlie teather charlie         4
+25         viewed site originates         4
+26          term servicethis link         4
+27        teather charlie teather         4
+28                   new tab term         4
+29                    buy buy buy         4
+30          servicethis link open         4
+31               modal window web         4
+32                create one dont         3
+33          choicesthis link open         3
+34         never created password         3
+35         enter registered email         3
+36        tab california sellthis         3
+37  alexandra fullerton alexandra         3
+38            password create one         3
+39         password never created         3
+40      content instagram content         3
+41    instagram content instagram         3
+42  fullerton alexandra fullerton         3
+43             tab ad choicesthis         3
+44            dress asos discount         3
+45            close dialog window         3
+46     web accessibilitythis link         3
+47           policythis link open         3
+48          forgot password never         3
+49             photo view gallery         3
+50             gallery photo view         3
+51             trending top story         3
+52        created password create         3
+53             asos discount code         3
+54             please log account         3
+55               story youll love         2
+56             new tab california         2
+57               naked dress time         2
+58               editor pick best         2
+59            fashion editor pick         2
+60            ad choicesthis link         2
+61               dress floral buy         2
+62                 asos save shop         2
+63       netaporter discount code         2
+64            netaporter com save         2
+65                  com save shop         2
+66                 save shop best         2
+67           tab term servicethis         2
+68        navigation menu fashion         2
+
+
+
+
+KEYWORDS OCCURING IN MULTIPLE BLOGS:
+
+For 1-grams:
+           ngram occurence
+0            buy        20
+1        account        17
+2        fashion        17
+3          dress        14
+4        teather        12
+5        charlie        12
+6         summer        10
+7         change        10
+8       meredith        10
+9          opens        10
+10        window        10
+11          link        10
+12         naked        10
+13           new        10
+14       instyle        10
+15           tab        10
+16          shop         9
+17     fullerton         7
+18       dresses         7
+19         email         7
+20       purewow         7
+21      password         7
+22         close         7
+23        beauty         7
+24          asos         6
+25     instagram         6
+26        spring         6
+27          join         6
+28           com         6
+29       content         6
+30          midi         6
+31    originates         5
+32        forgot         5
+33          sign         5
+34           log         5
+35      discount         5
+36     alexandra         5
+37    netaporter         5
+38          maxi         4
+39          mini         4
+40        viewed         4
+41            uk         4
+42         codes         4
+43        trends         4
+44        floral         4
+45          save         4
+46         brand         4
+47          sale         4
+48           top         4
+49          best         4
+50          site         3
+51         marks         3
+52      trousers         3
+53          zara         3
+54          wrap         3
+55       sandals         3
+56         trend         3
+57          wear         3
+58      designer         3
+59          also         3
+60       spotted         3
+61     designers         3
+62      platform         2
+63        bikini         2
+64        jacket         2
+65       cockett         2
+66       vintage         2
+67        ballet         2
+68      garments         2
+69          faux         2
+70       checked         2
+71    collection         2
+72          fast         2
+73    highstreet         2
+74       leather         2
+75          real         2
+76        bianca         2
+77       stories         2
+78        thanks         2
+79            im         2
+80      swimwear         2
+81        bottom         2
+82       spencer         2
+83            hm         2
+84       gallery         2
+85          says         2
+86      sneakers         2
+87          lace         2
+88           dad         2
+89        sophie         2
+90       shirred         2
+91       cropped         2
+92          dior         2
+93         green         2
+94        london         2
+95          seen         2
+96       seasons         2
+97     valentino         2
+98        cruise         2
+99      dressing         2
+100  collections         2
+101      similar         2
+102         heel         2
+103           fb         2
+104        modal         2
+105       kitten         2
+106      already         2
+107          may         2
+108         well         2
+109       affirm         2
+110      eloquii         2
+111       modern         2
+112   selfridges         2
+113        shade         2
+114       shades         2
+115       colour         2
+116     clothing         2
+117     gonzalez         2
+118        loewe         2
+119         shes         2
+120       agency         2
+121         even         2
+122        color         2
+123    oversized         2
+124    celebrity         2
+125     searches         2
+126        linen         2
+127        satin         2
+128        india         2
+
+For 2-grams:
+                     ngram occurence
+0          charlie teather        14
+1               link opens        10
+2             modal window        10
+3          account account        10
+4              opens modal        10
+5                opens new        10
+6            naked dresses        10
+7          instyle instyle        10
+8                 tab link        10
+9                  new tab        10
+10             close close         7
+11         forgot password         7
+12              midi dress         7
+13            dont account         6
+14            account sign         6
+15     alexandra fullerton         6
+16              sign today         6
+17            sign purewow         6
+18               save shop         5
+19                 buy buy         5
+20             also viewed         4
+21          discount codes         4
+22         site originates         4
+23             viewed site         4
+24            content also         4
+25         teather charlie         4
+26       instagram content         4
+27                com shop         3
+28               dress buy         3
+29           marks spencer         3
+30       content instagram         3
+31             high street         3
+32           dress stories         3
+33            dresses asos         3
+34                buy best         3
+35     fullerton alexandra         3
+36            fashion week         3
+37             photos view         3
+38          fashion editor         2
+39            love stories         2
+40           asos discount         2
+41      india largechevron         2
+42        dress zimmermann         2
+43           saint laurent         2
+44        stories partners         2
+45                dress hm         2
+46              flip flops         2
+47            fast fashion         2
+48           abby hepworth         2
+49              mini dress         2
+50            faux leather         2
+51          sophie cockett         2
+52        fashion industry         2
+53           bianca london         2
+54          fashion brands         2
+55         fashion editors         2
+56          netaporter com         2
+57             kitten heel         2
+58             color block         2
+59  accessibilitythis link         2
+60        designer fashion         2
+61                crop top         2
+62          dresses summer         2
+63               shop best         2
+64                com save         2
+65            floral dress         2
+66              dress zara         2
+67             linen dress         2
+68        reserved instyle         2
+69       terms servicethis         2
+70           louis vuitton         2
+71            close dialog         2
+72          summer dresses         2
+73              maxi dress         2
+74             shirt dress         2
+75               asos save         2
+
+For 3-grams:
+                            ngram occurence
+0                   opens new tab        10
+1                  tab link opens        10
+2                    new tab link        10
+3                link opens modal        10
+4              opens modal window        10
+5         instyle instyle instyle        10
+6                  link opens new        10
+7    accessibilitythis link opens         8
+8               dont account sign         7
+9              account sign today         7
+10        privacy policythis link         6
+11                  new tab terms         6
+12          tab terms servicethis         5
+13               also viewed site         5
+14            content also viewed         5
+15       california sellthis link         5
+16          policythis link opens         5
+17             tab ad choicesthis         5
+18        rights reserved instyle         5
+19          forgot password never         4
+20         enter registered email         4
+21            already account log         4
+22          love stories partners         4
+23             stories youll love         4
+24               sign purewow get         4
+25           trending top stories         4
+26        teather charlie teather         4
+27        charlie teather charlie         4
+28             youll love stories         4
+29                    buy buy buy         4
+30         viewed site originates         4
+31                 asos save shop         4
+32               modal window web         4
+33            sellthis link opens         4
+34                     new tab ad         4
+35          dresses asos discount         3
+36                 close like see         3
+37            photos view gallery         3
+38            gallery photos view         3
+39            close dialog window         3
+40                create one dont         3
+41        created password create         3
+42            ad choicesthis link         3
+43   window web accessibilitythis         3
+44            password create one         3
+45         password never created         3
+46            asos discount codes         3
+47             new tab california         3
+48  fullerton alexandra fullerton         3
+49         servicethis link opens         3
+50      netaporter discount codes         3
+51            netaporter com save         3
+52                  com save shop         3
+53  alexandra fullerton alexandra         3
+54        tab california sellthis         3
+55         terms servicethis link         3
+56      content instagram content         3
+57    instagram content instagram         3
+58     web accessibilitythis link         2
+59         never created password         2
+60             please log account         2
+61         choicesthis link opens         2
+62               one dont account         2
+63                 save shop best         2
+64        navigation menu fashion         2
+

@@ -78,8 +78,8 @@ LEMMATIZE:
 20        jacket       summer wedding              buy zara summer
 21           top         dress summer             month affirm buy
 22        resort           square toe      buy postlockdown summer
-23         dress              new tab               affirm buy buy
-24           tab             open new           dress mark spencer
+23         dress             open new               affirm buy buy
+24           tab              new tab           dress mark spencer
 25       trouser         spring photo      site originates content
 26            lr         buy milkmaid      originates content also
 27        spring           spotted lr               buy best biker
@@ -90,8 +90,8 @@ LEMMATIZE:
 32        padded        house slipper                best crop top
 33           dad              top buy         string bikini bottom
 34           toe     buy postlockdown             fancy dad sandal
-35        sandal          summer zara           month affirm month
-36          dior             buy zara          affirm month affirm
+35        sandal             buy zara           month affirm month
+36          dior          summer zara          affirm month affirm
 37       instyle          love island           empire waist dress
 38           mom           dad sandal           best modest summer
 39        colour           affirm buy             also viewed site
