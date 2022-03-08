@@ -1,0 +1,255 @@
+BLOGWISE TOP KEYWORDS USING TF-IDF (LEMMATIZE + USEFUL):
+
+https://www.cosmopolitan.com/style-beauty/fashion/g38451358/2022-fashion-trends/
+          1-gram             2-gram                        3-gram
+0       courtesy     dress courtesy       youll seeing everywhere
+1        revolve      danielle flum            trend youll seeing
+2        perfect       youll seeing           fashion trend youll
+3          dress  seeing everywhere  event statementmaking cutout
+4        eloquii      dress eloquii       cardigan green courtesy
+5            bra     victor virgile           perfect party dress
+6         fringe         dress made                 lace bra trim
+7           look  effortlessly cool         perfect spring summer
+8         cutout       lowrise jean    perfect staying partyready
+9          black            bra top         cardigan like easiest
+10         party        trend youll           perfect next bougie
+11          crop           crop top           cardis lowrise jean
+12         youll      fashion trend   carolina herrera puffsleeve
+13       virgile    sparkly perfect          trend perfect spring
+14      intermix      look stunning            knit dress eloquii
+15      danielle         look throw             central park west
+16  effortlessly         wear plain        trend brings abundance
+17        floral        dress think                 kate low rise
+18            em       sparkle step           perfect option epic
+19        sleeve        bag jewelry            perfect gateway yk
+
+https://www.instyle.com/fashion/clothing/spring-2022-fashion-trends
+       1-gram                  2-gram                        3-gram
+0         tab               link open                  open new tab
+1        link                 new tab                 link open new
+2        open                open new                  new tab link
+3     instyle                tab link                 tab link open
+4         new         instyle instyle             open modal window
+5     account             naked dress       instyle instyle instyle
+6       naked         account account               link open modal
+7      window             read spring            tab ad choicesthis
+8    meredith            modal window       tab california sellthis
+9       dress              open modal                    new tab ad
+10  celebrity  accessibilitythis link              modal window web
+11       join             kitten heel      california sellthis link
+12    already        choicesthis link            new tab california
+13      trend   web accessibilitythis              naked dress time
+14    fashion           sellthis link         term servicethis link
+15     makeup        servicethis link          tab term servicethis
+16      first          ad choicesthis                  new tab term
+17      modal      privacy policythis   accessibilitythis link open
+18         fb         policythis link  window web accessibilitythis
+19    explore             laura brown         choicesthis link open
+
+https://www.purewow.com/fashion/2022-fashion-trend-predictions
+      1-gram              2-gram                    3-gram
+0      close          shop trend       password create one
+1      trend     forgot password            close like see
+2   password         close close     buy according fashion
+3      email          mini skirt            youll want buy
+4        top         log account     forgot password never
+5       pant       account close        want buy according
+6      story  lifestyle category  according fashion editor
+7       shop          youll love          trend youll want
+8      skirt            like see    never created password
+9      share   according fashion        love story partner
+10    recipe            want buy          youll love story
+11    forgot           top story        trending top story
+12    fringe        jacket skirt           shop trend asos
+13   account     password create    enter registered email
+14    blazer          create one          shop trend cider
+15      like    registered email          story youll love
+16      sign      password never        please log account
+17    please          please log   created password create
+18      asos       story partner    password never created
+19     enter   password required           plain white tee
+
+https://www.vogue.co.uk/fashion/article/fashion-trends-2022
+          1-gram                  2-gram                               3-gram
+0   springsummer           alice newbold  springsummer valentino springsummer
+1          depop            depop seller                 miu miu springsummer
+2        wiggins          chopova lowena                   jean paul gaultier
+3        fashion           ellie pithers           chloe springsummer chopova
+4        vintage         kaha archivesix           miu springsummer valentino
+5         seller               jean paul           springsummer saint laurent
+6            miu        miu springsummer          chopova lowena springsummer
+7            say            note wiggins           saint laurent springsummer
+8          chloe      chloe springsummer             loewe springsummer saint
+9         lowena  springsummer valentino          springsummer chopova lowena
+10        office     lowena springsummer              navigation menu fashion
+11       chopova      springsummer saint              continues wiggins trend
+12      gaultier    springsummer chopova         predicted rise craftsmanship
+13         power           match fashion            concurs jonathan anderson
+14       newbold    laurent springsummer                   conde nast fashion
+15          kaha               going get                preppy school uniform
+16         piece             back office                  kaha also expecting
+17         loewe  valentino springsummer                 johnson already sell
+18         ellie           paul gaultier               practice consider year
+19       britain      loewe springsummer            predicts moschino versace
+
+https://www.vogue.co.uk/fashion/gallery/spring-summer-2022-fashion-trends
+        1-gram             2-gram                       3-gram
+0      mcqueen  alexander mcqueen          di lorenzo serafini
+1          miu     bottega veneta        philosophy di lorenzo
+2    alexander      louis vuitton              de saint sernin
+3        gucci            miu miu             ludovic de saint
+4        prada       supriya lele         simone rocha richard
+5       veneta     christian dior          rocha richard quinn
+6      bottega      dolce gabbana  sportmax altuzarra brunello
+7        louis           tom ford               miu miu chanel
+8      vuitton      richard quinn           miu miu philosophy
+9       armani      molly goddard         back gucci alexander
+10     richard   alberta ferretti          rodarte lanvin paco
+11       fendi   lorenzo serafini         rogers coperni coach
+12  balenciaga     giorgio armani                miu miu saint
+13     supriya      philosophy di     burberry altuzarra louis
+14        lele         di lorenzo      margiela versace rejina
+15     missoni   emilia wickstead    burberry christopher kane
+16        etro           max mara      marant christopher john
+17      hermes       saint sernin         mara valentino petar
+18     gabbana         ludovic de             burch paul smith
+19     halpern           de saint              mara tory burch
+
+https://www.harpersbazaar.com/fashion/trends/g38124524/new-york-spring-2022-fashion-trends/
+       1-gram              2-gram                            3-gram
+0    pictured  pictured clockwise                six standout trend
+1   clockwise         getty image                 york fashion week
+2       getty        six standout                  new york fashion
+3      bikini      standout trend                standout trend new
+4       image        york fashion                    trend new york
+5         six            new york            michael kor collection
+6     gingham        laquan smith                 game right paired
+7    standout          bikini top                 bikini life getty
+8        week       harper bazaar                  top sweet trench
+9        york         kerry pieri                bikini top gingham
+10     laquan        fashion week                  bikini top might
+11     bazaar            come new              courtesy bikini life
+12    leaning           trend new  onesizefitsall approach ladylike
+13      kerry      kor collection               image going gingham
+14      pieri         naked dress                  gown many worked
+15       fare       prabal gurung           approach ladylike dress
+16     harper         michael kor       pictured clockwise carolina
+17        new    leaning allblack      pictured clockwise christian
+18      dress       gingham check           pictured clockwise left
+19      smith       root designer         pictured clockwise maryam
+
+https://www.whowhatwear.com/new-york-fashion-week-spring-summer-2022/slide10
+       1-gram              2-gram                    3-gram
+0       photo      photo courtesy         photo photo photo
+1    courtesy         photo photo        photo courtesy ofa
+2         ofa        courtesy ofa     photo courtesy maryam
+3      victor      victor glemaud    simkhai photo courtesy
+4       bevza    jonathan simkhai    jonathan simkhai photo
+5     glemaud       simkhai photo    courtesy maryam nassir
+6     simkhai     courtesy maryam       maryam nassir zadeh
+7      nassir        nassir zadeh      bevza photo courtesy
+8    jonathan       maryam nassir     brandon maxwell photo
+9      maryam    courtesy brandon      zadeh photo courtesy
+10      zadeh  courtesy christian        nassir zadeh photo
+11  christian       glemaud photo  courtesy brandon maxwell
+12      staud       maxwell photo    glemaud photo courtesy
+13       shui         staud photo      victor glemaud photo
+14     runway            kim shui    photo courtesy brandon
+15        tie         zadeh photo  photo courtesy christian
+16      cowan         bevza photo    photo courtesy proenza
+17        kim     christian cowan      staud photo courtesy
+18    maxwell     brandon maxwell    maxwell photo courtesy
+19    brandon          tory burch          tory burch bevza
+
+https://www.glamourmagazine.co.uk/gallery/spring-summer-2022-fashion-trends
+       1-gram            2-gram                      3-gram
+0          lr        spotted lr         london fashion week
+1     spotted       next season           spotted lr elleme
+2        well   charlie teather             next season see
+3     charlie      fashion week          netted knit cutout
+4     teather    lowslung waist           knit cutout hyper
+5      season        david koma        ultramini mini white
+6     fashion       super sheer         outerwear bulky bag
+7      elleme         lr elleme  white suiting accessorised
+8       super         whole lot            yuhan wang david
+9        next        season see      lowslung waist pleated
+10         uk        yuhan wang          yellow netted knit
+11       week    london fashion         waist pleated skirt
+12     summer      nensi dojaka    strap highlighter yellow
+13     winter     pleated skirt     charlie teather charlie
+14   wardrobe      supriya lele   underwear outerwear bulky
+15   lowslung          tom ford       super sheer ultramini
+16  outerwear        rejina pyo            lr elleme rejina
+17      whole  jonathan simkhai    suiting accessorised leg
+18       koma     waist pleated           elleme rejina pyo
+19      david         skirt may        pleated skirt liquid
+
+https://www.marieclaire.com/fashion/g37705070/spring-2022-fashion-trends/
+      1-gram             2-gram                      3-gram
+0    crochet       marie claire             white labor day
+1        bra         mini skirt             might also like
+2      marie       sara holzman            cold hot fashion
+3      trend         trend know        gingham cotton short
+4      skirt         piece like     oversized grandpa style
+5    gingham   cropped cardigan  oversized sweater kneehigh
+6     claire         might also         boot keep itsybitsy
+7     spring        white labor           rio crochet denim
+8   cardigan        marina liao                st roche nan
+9      white          also like          gingham crochet le
+10    runway          labor day           liao marie claire
+11      mini        le cardigan  lighthearted print texture
+12   holzman  allwhite ensemble       standout film taylore
+13      sara      jewelry trend          gingham got sporty
+14      know       spring trend          gingham sleeper pj
+15       top    fuller coverage        detail present theme
+16    latest       frill detail   detail cardgian jacquemus
+17   wearing        basis white            sprung know sara
+18  allwhite           look bra        like gingham crochet
+19      liao       wale company   digital publisher england
+
+https://www.whowhatwear.com/spring-summer-fashion-trends-2022
+        1-gram               2-gram                           3-gram
+0        photo          runway show           hair meanwhile olivier
+1        image      kwaidan edition              amount skin showing
+2        chloa          early aught            burberry suiting made
+3       runway          time around         one dominant interesting
+4       spring         laquan smith            designer got littleaa
+5        trend              miu miu            belly chain miniskirt
+6         show         suit crimped                  anda paris last
+7     designer  anniversary balmain  spring corresponding collection
+8       draped          future word             seemed agree looking
+9       arrive            way ready               top lowrise bottom
+10  collection     panty inflicting                  remain top mind
+11      chanel          peter saint                 belt draped onto
+12     balmain          term amount                 never soon start
+13      season          one popular               know abouta spring
+14         miu      supermodel turn            showing layer present
+15         top       bottom dipping               design time around
+16     popular          future plan                 still remain top
+17   showcased        edition photo            designer seemed agree
+18      future         could easily     meanwhile olivier rousteings
+19  guaranteed    period guaranteed            olivier rousteings th
+
+https://www.whowhatwear.com/paris-fashion-week-spring-summer-2022/slide25
+       1-gram              2-gram                    3-gram
+0       photo         photo photo         photo photo photo
+1    courtesy      photo courtesy        louis vuitton acne
+2         miu        fashion week       saint laurent photo
+3     fashion           courra ge      photo courtesy loewe
+4    givenchy       saint laurent  courtesy valentino photo
+5       saint             miu miu         ge photo courtesy
+6   valentino         acne studio      courtesy loewe photo
+7       loewe       louis vuitton    laurent photo courtesy
+8        week    stella mccartney  photo courtesy valentino
+9    designer        lanvin photo       loewe louis vuitton
+10       maxi     valentino photo           courra ge photo
+11     courra  valentino givenchy      loewe photo courtesy
+12         ge       laurent photo       vuitton acne studio
+13    laurent      courtesy loewe        fashion week photo
+14         aa        chanel photo          week photo photo
+15     lanvin            ge photo          ludovic de saint
+16     studio        vuitton acne      photo season usually
+17       nina  courtesy valentino            top pant skirt
+18     stella           dior nina           piece point let
+19    vuitton      givenchy photo          city light place
+

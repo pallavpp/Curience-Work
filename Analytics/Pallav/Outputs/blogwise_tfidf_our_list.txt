@@ -1,0 +1,1174 @@
+BLOGWISE TOP KEYWORDS USING TF-IDF:
+
+https://www.instyle.com/fashion/clothing/best-2022-fashion-trends
+           1-gram             2-gram                        3-gram
+0           opens         link opens                 opens new tab
+1            link          opens new                link opens new
+2             tab            new tab            think well wearing
+3         instyle     stylists think           stylists think well
+4        stylists       well wearing         well wearing stylists
+5             new         think well        wearing stylists think
+6           think   wearing stylists       forecast fashion trends
+7        forecast   forecast fashion                tab link opens
+8         wearing           tab link                  new tab link
+9         fashion    instyle instyle              link opens modal
+10        bandier     fashion trends            opens modal window
+11          naked      naked dresses       instyle instyle instyle
+12         worked       modal window     linkedin forecast fashion
+13           well        opens modal              modal window web
+14         window    account account       privacy policythis link
+15        account         top trends           close dialog window
+16       meredith            us feel                 new tab terms
+17         trends      closet worked       rights reserved instyle
+18         change  linkedin forecast  accessibilitythis link opens
+19  monochromatic      terms fashion            tab ad choicesthis
+
+https://www.instyle.com/fashion/clothing/spring-2022-fashion-trends
+      1-gram                  2-gram                        3-gram
+0      opens              link opens                link opens new
+1       link                 new tab                 opens new tab
+2        tab               opens new                tab link opens
+3    instyle                tab link                  new tab link
+4        new         instyle instyle              link opens modal
+5      naked           naked dresses            opens modal window
+6     spring             read spring       instyle instyle instyle
+7     window           spring trends             spring trends may
+8    account            modal window            trends may already
+9   meredith             opens modal        choicesthis link opens
+10       may         account account         policythis link opens
+11    change            getting even              modal window web
+12    beauty             may already  accessibilitythis link opens
+13   already              trends may           ad choicesthis link
+14      join         already sitting           sellthis link opens
+15   fashion          already closet         tab terms servicethis
+16    kitten             naked dress  window web accessibilitythis
+17     modal             kitten heel      california sellthis link
+18        fb             color block                    new tab ad
+19      heel  accessibilitythis link            new tab california
+
+https://www.glamourmagazine.co.uk/article/resort-2022-fashion-trends
+         1-gram               2-gram                           3-gram
+0        resort  alexandra fullerton         spotted alberta ferretti
+1       spotted   resort collections              di lorenzo serafini
+2     fullerton     alberta ferretti            philosophy di lorenzo
+3     alexandra           di lorenzo    fullerton alexandra fullerton
+4   collections      spotted alberta    alexandra fullerton alexandra
+5         suits     goddess dressing       joyful contrast lockeddown
+6          dior         spotted dior  wardrobe originally collections
+7       fashion        resort cruise              mood fashion always
+8      ferretti        philosophy di         mood prescriptive trends
+9       alberta         shows resort           stadium athens spotted
+10     dressing     lorenzo serafini               mood sexy dressing
+11      colours        bold shoulder               moods weve spotted
+12         mood      charlie teather               right point corona
+13           di     designer fashion          staged show panathenaic
+14     serafini  fullerton alexandra              joggers ever bolder
+15      lorenzo        details ideal          fashion classics theyre
+16      details        confused late             wardrobe best trends
+17       cruise      balmain versace                ricci least ready
+18      goddess           neon tones          balmain versace another
+19     designer          uplift mood         moving shoulders whether
+
+https://www.vogue.in/fashion/gallery/from-egg-shell-heels-to-demon-basketball-bags-the-9-wildest-accessories-of-spring-summer-2022
+          1-gram               2-gram  \
+0        bonnets         diving masks   
+1          totes       richard quinns   
+2           lamb          little lamb   
+3        richard          mary little   
+4   springsummer           josh smith   
+5           ears         simone rocha   
+6        wildest            real bite   
+7         quinns       stilettos chet   
+8      beguiling     ecodriven diving   
+9          bambi      basketball bags   
+10     moschinos  burberrys beguiling   
+11          josh              los sea   
+12           egg      totes burberrys   
+13       cracked         ears botters   
+14       botters             lamb bag   
+15        diving       jewellery real   
+16         vogue          sea anemone   
+17     burberrys          nail polish   
+18          mary       moschinos mary   
+19     stilettos     demon basketball   
+
+                                       3-gram  
+0                            mary little lamb  
+1                       pieces loewes cracked  
+2                   totes burberrys beguiling  
+3                      ears botters ecodriven  
+4                             los sea anemone  
+5   schiaparellis weatherappropriate headwear  
+6                       demon basketball bags  
+7                              josh smith art  
+8                   burberrys beguiling bambi  
+9                            smith art pieces  
+10                          art pieces loewes  
+11                       beguiling bambi ears  
+12                      cracked egg stilettos  
+13                        givenchy josh smith  
+14                        jewellery real bite  
+15                     diving masks moschinos  
+16                       masks moschinos mary  
+17                richard quinns delightfully  
+18                     simone rocha jewellery  
+19                       bonnets simone rocha  
+
+https://www.glamourmagazine.co.uk/gallery/spring-summer-2021-fashion-trends
+       1-gram               2-gram                         3-gram
+0          lr           spotted lr     bold shoulders unashamedly
+1     spotted      charlie teather  shoulders unashamedly fuchsia
+2        well        isabel marant          sheer gowns bralettes
+3     fashion         paco rabanne           gabriela hearst well
+4     teather        sparkle shine       fuchsia widelegs fashion
+5     charlie         fashion week                would look like
+6      marant         acne studios              backs sheer gowns
+7      isabel      gabriela hearst          monochrome open backs
+8      chanel      monochrome open           aesthetic spotted lr
+9     netting     widelegs fashion         waist floss monochrome
+10    rabanne  unashamedly fuchsia          floss monochrome open
+11      floss     floss monochrome          sparkle shine cutouts
+12       paco   september heatwave               open backs sheer
+13  valentino        shine cutouts         netting bold shoulders
+14     trends      cutouts netting               spotted lr ports
+15      backs          backs sheer        gowns bralettes sparkle
+16    fuchsia           open backs          shine cutouts netting
+17    sparkle          hearst well           spotted lr valentino
+18    seasons         fashion face             fashion face masks
+19      fendi    bralettes sparkle        bralettes sparkle shine
+
+https://www.glamourmagazine.co.uk/gallery/london-fashion-week-spring-summer-2021-fashion-trends
+         1-gram               2-gram                  3-gram
+0      victoria       london fashion     london fashion week
+1         molly        molly goddard       top slouchy satin
+2       beckham         fashion week       week well wearing
+3       goddard     victoria beckham    slouchy satin shades
+4       fashion     emilia wickstead    green lowslung denim
+5          week         shades green        crop top slouchy
+6          seen  annabelle spranklen       fashion week well
+7        london             crop top    lowslung denim regal
+8     annabelle            week well      fashion east molly
+9     wickstead          denim regal    denim regal romantic
+10     lowslung        slouchy satin      satin shades green
+11       emilia       green lowslung   shades green lowslung
+12    spranklen        seen victoria        far removed girl
+13    designers           east molly  romantic topics london
+14       showed        steer towards  spotted london fashion
+15        green         satin shades     molly goddard preen
+16        erdem          top slouchy         way far removed
+17          far       regal romantic     molly goddard erdem
+18  collections       lowslung denim      keep looking ahead
+19       trends        looking ahead       far cry throwaway
+
+https://www.purewow.com/fashion/spring-fashion-trends-affirm
+      1-gram           2-gram                  3-gram
+0     affirm     month affirm        month affirm buy
+1      month       affirm buy          affirm buy buy
+2        buy     affirm month     affirm month affirm
+3     loafer          buy buy      month affirm month
+4       cole      beyond yoga    hann modern classics
+5       hann        cole hann        cole hann modern
+6     adidas  classics loafer  modern classics loafer
+7       yoga      hann modern       eloquii tie front
+8    eloquii  modern classics     loafer month affirm
+9     beyond       buy beyond           buy cole hann
+10  password       buy adidas         buy buy eloquii
+11  classics        shop look          buy buy beyond
+12    modern         buy cole         buy beyond yoga
+13   account     loafer month          buy buy adidas
+14    spring      buy eloquii        loafer cole hann
+15   purewow      eloquii tie   classics loafer month
+16      crew        tie front    classics loafer cole
+17     email      loafer cole            buy buy cole
+18     close  forgot password      account sign today
+19      luxe      close close       dont account sign
+
+https://www.glamourmagazine.co.uk/gallery/best-slip-dresses
+        1-gram               2-gram                       3-gram
+0         slip            best slip            best slip dresses
+1      dresses         slip dresses          slip dresses summer
+2         best       dresses summer                buy best slip
+3       summer             buy best               shop best slip
+4   netaporter            shop best               save shop best
+5          buy            save shop      slip dresses netaporter
+6        dress       discount codes  dresses netaporter discount
+7         save   dresses netaporter                com save shop
+8         shop             com save          netaporter com save
+9   selfridges  netaporter discount    netaporter discount codes
+10       codes       netaporter com      slip dresses selfridges
+11    discount           slip dress    selfridges discount codes
+12        asos      selfridges save         selfridges save shop
+13      length   dresses selfridges  dresses selfridges discount
+14         com  selfridges discount            slip dresses asos
+15        maxi           midi dress        dresses asos discount
+16        mini         dresses asos               asos save shop
+17        midi      recycled fabric          asos discount codes
+18       satin          mini length           summer maxi length
+19      fabric            lace trim             length best slip
+
+https://www.glamourmagazine.co.uk/gallery/milkmaid-dresses-fashion-trend
+      1-gram             2-gram                  3-gram
+0   milkmaid     milkmaid dress      buy milkmaid dress
+1      dress       buy milkmaid     milkmaid dress mini
+2        buy         dress mini  milkmaid dress gingham
+3     floral      dress gingham   milkmaid dress floral
+4    gingham       dress floral      milkmaid dress red
+5      linen      dress stories          dress mini buy
+6    shirred          dress red        dress floral buy
+7       mini       floral dress  dress gingham milkmaid
+8    charlie           mini buy       dress gingham buy
+9   buttonup    charlie teather  gingham milkmaid dress
+10   teather   gingham milkmaid       mini buy milkmaid
+11  anglaise    floral milkmaid     dress mini milkmaid
+12  broderie  broderie anglaise   dress floral milkmaid
+13   smocked      gingham dress     floral buy milkmaid
+14    ruched      mini milkmaid    gingham buy milkmaid
+15    purple   milkmaid dresses     mini milkmaid dress
+16       red        gingham buy   floral milkmaid dress
+17   dresses        linen dress    floral dress stories
+18     cream      smocked dress        red buy milkmaid
+19    petite         floral buy  milkmaid dress printed
+
+https://www.glamourmagazine.co.uk/article/fashion-brands-to-know-2022
+           1-gram             2-gram                         3-gram
+0         content    charlie teather         viewed site originates
+1         teather  instagram content               also viewed site
+2         charlie        viewed site            content also viewed
+3        searches    site originates           teather content also
+4          viewed        also viewed        charlie teather content
+5      originates       content also        breakout fashion brands
+6         fashion         start year              year content also
+7           skims     searches brand        charlie teather charlie
+8       instagram     sagal mohammed        teather charlie teather
+9            site       year content           teather view gallery
+10           year     celebrity fans           charlie teather view
+11           also    teather content         photos charlie teather
+12          sagal        bella hadid         gallery photos charlie
+13       mohammed   breakout fashion  instagram content christopher
+14          bella     fashion brands               since start year
+15          brand    teather charlie             start year content
+16      celebrity       teather view          fashion awards london
+17  collaboration     photos charlie        christopher john rogers
+18       breakout      awards london           money sagal mohammed
+19            dua      michaela coel            jourdan dunn sophie
+
+https://www.instyle.com/fashion/clothing/80s-fashion
+       1-gram                  2-gram                        3-gram
+0       opens              link opens                link opens new
+1        link               opens new                 opens new tab
+2         tab                 new tab                  new tab link
+3     instyle                tab link                tab link opens
+4         new         instyle instyle       instyle instyle instyle
+5     fashion           naked dresses            opens modal window
+6       naked         account account              link opens modal
+7      window            modal window       fashion fashion fashion
+8     account             opens modal           sellthis link opens
+9    meredith         fashion fashion            tab ad choicesthis
+10   bodysuit            angeles says       tab california sellthis
+11     change           shoulder pads         policythis link opens
+12      jaide            julia guerra                    new tab ad
+13     beauty         rights reserved         tab terms servicethis
+14       join        reserved instyle  accessibilitythis link opens
+15  celebrity               tab terms            new tab california
+16    angeles       terms servicethis      california sellthis link
+17  oversized           sellthis link       privacy policythis link
+18         fb          tab california        servicethis link opens
+19      modal  accessibilitythis link                 new tab terms
+
+https://www.instyle.com/fashion/clothing/colorblocking-trend-spring-2022
+           1-gram                2-gram                        3-gram
+0            link            link opens                link opens new
+1           opens             opens new                 opens new tab
+2             tab               new tab             block color block
+3         instyle           color block             color block color
+4             new           block color                  new tab link
+5           block              tab link                tab link opens
+6           color       instyle instyle              link opens modal
+7   colorblocking   colorblocking trend       instyle instyle instyle
+8          spring            two colors            opens modal window
+9           naked         naked dresses          clothes closet patbo
+10         window       account account        easily recreate spring
+11        account          modal window           trend using clothes
+12       meredith           opens modal          using clothes closet
+13         colors           colors like  accessibilitythis link opens
+14         change         combining two           close dialog window
+15     colorblock          closet patbo       tab california sellthis
+16         beauty            pink green    web accessibilitythis link
+17           join       easily recreate         tab terms servicethis
+18            may       recreate spring        terms servicethis link
+19       twotoned  spring colorblocking        servicethis link opens
+
+https://www.instyle.com/fashion/clothing/best-summer-2021-fashion-trends-in-your-closet
+        1-gram            2-gram                        3-gram
+0        opens        link opens                 opens new tab
+1         link         opens new                link opens new
+2          tab           new tab          trends summer trends
+3      instyle     trends summer          summer trends summer
+4          new     summer trends                tab link opens
+5       summer          tab link                  new tab link
+6         wear   instyle instyle              link opens modal
+7        naked     naked dresses       instyle instyle instyle
+8       window   account account            opens modal window
+9      account      modal window       privacy policythis link
+10      trends       opens modal  accessibilitythis link opens
+11    meredith      puff sleeves                    new tab ad
+12         use  oversized shirts            new tab california
+13     fashion         feel free       rights reserved instyle
+14      change  large sunglasses        terms servicethis link
+15        even    wear oversized                 new tab terms
+16  sunglasses        summer use  window web accessibilitythis
+17       scarf           use one              modal window web
+18   oversized           go full      california sellthis link
+19      beauty    straps strings        choicesthis link opens
+
+https://www.vogue.in/fashion/gallery/meet-the-10-breakout-models-of-spring-2022
+          1-gram                2-gram                        3-gram
+0     highlights            age agency      highlights louis vuitton
+1       hometown     season highlights       season highlights louis
+2         agency   management hometown   supreme management hometown
+3            age         louis vuitton               greta hofer jan
+4         season           greta hofer              age agency women
+5         models           jan baiboon            emhoff greta hofer
+6          prada      highlights louis         beyonce ambrose devyn
+7     management      america gonzalez           agency img hometown
+8           cruz            shows like              cruz ella emhoff
+9        ambrose       beyonce ambrose     agency society management
+10        emhoff           lucy rosiek     agency supreme management
+11        runway  quannah chasinghorse       agency women management
+12          shes         majesty amare  california season highlights
+13  chasinghorse          devyn garcia            age agency society
+14        rosiek           ella emhoff         notable models season
+15         hofer        janelle okwodu           jan baiboon majesty
+16       baiboon             lina cruz         baiboon majesty amare
+17         loewe      proenza schouler                lina cruz ella
+18      gonzalez       doctors theater      aspiring doctors theater
+19      presence          emhoff greta           louis vuitton loewe
+
+https://thevou.com/fashion/egyptian-clothing/
+       1-gram              2-gram                         3-gram
+0    egyptian   egyptian clothing     egyptian fashion designers
+1    discover    egyptian fashion                malak el ezzawy
+2    clothing  egyptian designers          best egyptian fashion
+3       egypt   fashion designers      tailoring expresses sharp
+4     fashion   egyptian designer          new egyptian clothing
+5   designers    fashion designer      egyptian fashion designer
+6    designer         maison yeya           neon colors egyptian
+7     designs        zaam designs  traditional egyptian clothing
+8   creations     clothing styles       colors egyptian clothing
+9       brand       fashion brand             yellow neon colors
+10  egyptians       local fashion       egyptian clothing styles
+11      cairo            malak el          expresses sharp edges
+12       yeya        diva designs                    vou vou vou
+13     unique       best egyptian             paris fashion week
+14      gowns     modern egyptian           bodies kinds elegant
+15       wear         neon colors    boasting sleek construction
+16         el           el ezzawy             bodies also unlike
+17    okhtein        fashion week          find relevant outfits
+18   cultural             vou vou              head yet uncommon
+19     modern           sara onsi        jenner okhtein becoming
+
+https://www.instyle.com/fashion/clothing/empire-waist-dress-trend
+         1-gram               2-gram                        3-gram
+0         opens           link opens                 opens new tab
+1          link              new tab                link opens new
+2           tab            opens new          empire waist dresses
+3       instyle        waist dresses          dresses empire waist
+4        empire         empire waist          waist dresses empire
+5           new       dresses empire                tab link opens
+6         waist             com shop                  new tab link
+7       dresses             tab link            opens modal window
+8           com      instyle instyle       instyle instyle instyle
+9         dress  empirewaist dresses              link opens modal
+10         shop        naked dresses         policythis link opens
+11        naked          opens modal           sellthis link opens
+12  empirewaist      account account           ad choicesthis link
+13   bridgerton         modal window       privacy policythis link
+14       window    terms servicethis    web accessibilitythis link
+15      account       ad choicesthis              modal window web
+16     meredith     choicesthis link  accessibilitythis link opens
+17       change         close dialog            tab ad choicesthis
+18       beauty  california sellthis         tab terms servicethis
+19         join     reserved instyle                 new tab terms
+
+https://www.glamourmagazine.co.uk/gallery/what-to-wear-after-lockdown
+          1-gram               2-gram                       3-gram
+0   postlockdown  postlockdown summer  postlockdown summer dresses
+1         summer       summer dresses      buy postlockdown summer
+2        dresses     buy postlockdown        summer dresses floral
+3          dress       dresses floral          summer dresses wrap
+4            buy           wrap dress       summer dresses shirred
+5         floral           maxi dress           dresses wrap dress
+6           maxi         dresses wrap  dresses floral postlockdown
+7        shirred      dresses shirred       dress buy postlockdown
+8           midi      charlie teather   floral postlockdown summer
+9           wrap            dress buy           dresses floral buy
+10       teather    maxi postlockdown    dress postlockdown summer
+11       charlie           black maxi        maxi buy postlockdown
+12         tunic   dress postlockdown            dress asos design
+13       ruffled          floral slip     maxi postlockdown summer
+14   puffsleeved           white maxi      floral buy postlockdown
+15   oneshoulder  floral postlockdown         summer dresses tunic
+16      openback           midi dress       summer dresses ruffled
+17           tea           dress asos          dresses floral slip
+18        cutout             maxi buy           summer dresses tea
+19          zara          asos design          summer dresses tank
+
+https://www.glamourmagazine.co.uk/article/new-colour-clash-rules
+           1-gram                 2-gram                       3-gram
+0         content      content instagram    content instagram content
+1          colour           content also  instagram content instagram
+2      originates            viewed site          content also viewed
+3          viewed        site originates       viewed site originates
+4            seen      instagram content             also viewed site
+5       instagram            also viewed           wear colour summer
+6          shades            colour wear             ways wear colour
+7            site            bold colour       site originates choose
+8      unexpected          colour summer                new ways wear
+9            tone      originates choose       tone creative director
+10           also            wear colour        plenty time favourite
+11          rules         warmer weather            colour summer new
+12          shade              ways wear             nono shades next
+13           bold    alexandra fullerton                wear head toe
+14        similar               new ways   colour wardrobe tracksuits
+15      fullerton        charlie teather           colour wear colder
+16           pink         optimum impact             colour wear head
+17           wear  originates consistent        unlike classic combos
+18  tamumcpherson        originates dial            colour wheel pink
+19        fashion       originates green  oliviaandalice content also
+
+https://www.glamourmagazine.co.uk/gallery/best-crop-tops
+         1-gram            2-gram                 3-gram
+0          crop          crop top           crop top buy
+1           top           top buy         best crop tops
+2          tops         crop tops          buy best crop
+3           buy         best crop          crop tops buy
+4       cropped       sleeve crop         black crop top
+5        sleeve        black crop        sleeve crop top
+6          best          tops buy         linen crop top
+7       crochet          buy best           top buy best
+8       content        linen crop          crop top best
+9         linen    cropped tshirt           crop top bra
+10    fullerton          top best   sustainable crop top
+11       tshirt    netaporter com  best sustainable crop
+12   selfridges  sustainable crop        white crop tops
+13         wrap         made crop          wrap crop top
+14    instagram  sustainably made        brown crop tops
+15       floral      crochet crop  sustainably made crop
+16        tummy          cami top       crochet crop top
+17  sustainably         buy black        floral crop top
+18          les      around tummy       strappy crop top
+19        black         wrap crop         buy black crop
+
+https://www.glamourmagazine.co.uk/gallery/marks-and-spencer-sale
+         1-gram             2-gram                    3-gram
+0       spencer      marks spencer        marks spencer sale
+1         marks       spencer sale       dress marks spencer
+2          sale        dress marks         buy marks spencer
+3         dress          buy marks           dress buy marks
+4           buy          dress buy       spencer sale floral
+5        floral        sale floral     sale cropped trousers
+6       cropped   cropped trousers      spencer sale cropped
+7      trousers       sale cropped         sale floral dress
+8       charlie       floral dress    trousers marks spencer
+9       teather     trousers marks        floral dress marks
+10        vneck    charlie teather          midi dress marks
+11        shirt     polkadot skirt      spencer sale checked
+12       ballet  embroidered dress    cropped trousers marks
+13     polkadot      striped shirt  spencer sale embroidered
+14      striped        summer sale      blazer marks spencer
+15  embroidered        shift dress       shirt marks spencer
+16      checked       tiered dress       spencer sale ballet
+17       summer        shirt dress      polkadot skirt marks
+18        pumps         midi dress          sale vneck dress
+19        shift         sale shirt         sale tiered dress
+
+https://www.glamourmagazine.co.uk/gallery/zara-summer-2021-collection
+        1-gram             2-gram                      3-gram
+0         zara        zara summer             zara summer buy
+1       summer         summer buy          summer zara summer
+2          buy        summer zara             summer buy zara
+3      charlie           buy zara             buy zara summer
+4      teather         dress zara            zara summer zara
+5         epic    charlie teather           best pieces zaras
+6      strappy         zaras epic           editors pick best
+7         midi       pieces zaras        fashion editors pick
+8     splithem       editors pick           pieces zaras epic
+9        vinyl       sandals zara            pick best pieces
+10       zaras         zara vinyl             midi dress zara
+11       dress      arent allowed     charlie teather charlie
+12     allowed  summer collection     teather charlie teather
+13  collection        best pieces       new summer collection
+14  asymmetric    fashion editors         dress zara splithem
+15     sandals          pick best         safely meet friends
+16    leggings    teather charlie      collection zara summer
+17     editors        high street  collective lack enthusiasm
+18       arent         midi dress   really brilliant timeless
+19  highstreet   slightly subtler    bralettes cutout blazers
+
+https://www.purewow.com/fashion/editors-spring-picks-email
+      1-gram                2-gram                   3-gram
+0   password           close close       account sign today
+1    account       forgot password        dont account sign
+2    purewow          dont account    fashion editors picks
+3      email          sign purewow      best spring fashion
+4      close            sign today       editors picks best
+5        btw          account sign       spring fashion btw
+6       sign           fashion btw        picks best spring
+7        log            picks best         fashion btw sale
+8     forgot              btw sale   never created password
+9      dress         editors picks     trending top stories
+10    spring           best spring           close like see
+11    thanks       fashion editors         sign purewow get
+12    please        spring fashion   password never created
+13      sale      stories partners      password create one
+14    agolde              like see       stories youll love
+15     enter            create one      already account log
+16   already          love stories         one dont account
+17     jeans            close like    forgot password never
+18       box              one dont   enter registered email
+19      tory  lifestyle categories  created password create
+
+https://www.instyle.com/fashion/clothing/skort-fashion-trend-outfit-ideas
+      1-gram               2-gram                        3-gram
+0       link           link opens                link opens new
+1      opens              new tab                 opens new tab
+2        tab            opens new                  new tab link
+3    instyle             tab link                tab link opens
+4      skort      instyle instyle       instyle instyle instyle
+5        new        naked dresses              link opens modal
+6   gonzalez        tells instyle            opens modal window
+7     skorts         modal window            skort rich history
+8         im      account account        gonzalez tells instyle
+9      naked          opens modal       rights reserved instyle
+10    window        gonzalez says  window web accessibilitythis
+11   account               im old                 new tab terms
+12   fashion  originally designed       privacy policythis link
+13  meredith           skort rich      california sellthis link
+14      says         skort outfit         policythis link opens
+15    shorts            diy coord           close dialog window
+16    change           trend back  accessibilitythis link opens
+17    beauty         rich history           ad choicesthis link
+18      join      wardrobe staple                    new tab ad
+19       tee         cant believe            naked dresses time
+
+https://www.glamourmagazine.co.uk/gallery/spring-summer-2021-shoe-trends
+       1-gram             2-gram                 3-gram
+0      padded        padded flip       padded flip flop
+1      ballet      house slipper       fancy dad sandal
+2        flip          flip flop     ballet flat ballet
+3         dad         dad sandal    house slipper house
+4        clog          fancy dad      padded flip flops
+5     slipper        ballet flat       dad sandal fancy
+6        flop       sandal fancy  slipper house slipper
+7       house        flat ballet       sandal fancy dad
+8         buy  platform platform       flop padded flip
+9      sandal          clog clog       flat ballet flat
+10   platform        flop padded       flip flop padded
+11       flat      slipper house          buy fancy dad
+12      fancy         flip flops      house slipper buy
+13   pictured       buy platform         dad sandal buy
+14   slippers           flat buy        buy ballet flat
+15      flops           flop buy          flip flop buy
+16      clogs         buy ballet        ballet flat buy
+17    spotted          buy fancy      buy house slipper
+18  platforms          buy house       sandal buy fancy
+19      flats        slipper buy        flop buy padded
+
+https://www.glamourmagazine.co.uk/article/made-to-order-fashion
+            1-gram               2-gram                         3-gram
+0            order  alexandra fullerton            content also viewed
+1        fullerton           made order               also viewed site
+2        alexandra    instagram content         viewed site originates
+3          content          viewed site               wild folk studio
+4             made      site originates  alexandra fullerton alexandra
+5        instagram         content also  fullerton alexandra fullerton
+6         garments          also viewed          impact fashion planet
+7      madetoorder          mia layzell               enter made order
+8         unfolded           never even           works brand customer
+9          bespoke          folk studio       corsets scrunchies drops
+10      originates          mary benson                june th content
+11          viewed            wild folk               shop youre lucky
+12         fashion  fullerton alexandra            cost planet garment
+13        shoppers      garment workers          already vintage quilt
+14           brand         fast fashion     collars corsets scrunchies
+15         vintage          high street             wastage cut carbon
+16            fast     switching habits          workers shoppers pick
+17  sustainability          date molbys           environment day cant
+18            folk      improving lives             workers high quest
+19         layzell           enter made    fullerton world environment
+
+https://www.purewow.com/fashion/summer-color-trends
+      1-gram            2-gram                   3-gram
+0   password        shop trend         top color trends
+1        top         top color        dont account sign
+2      dress       bright pink       account sign today
+3    account      color trends         mix match summer
+4      color   forgot password         color trends mix
+5    purewow       close close          shop trend asos
+6        hue      dont account         trends mix match
+7      email      account sign      password create one
+8      close      sign purewow    forgot password never
+9       sage        sign today   password never created
+10    shades        trends mix           close like see
+11      hues        trend asos       stories youll love
+12      sign      match summer       please log account
+13    summer         much like      already account log
+14     green        sage green         sign purewow get
+15    forgot         mix match    love stories partners
+16       log     abby hepworth          create one dont
+17    yellow      love stories       youll love stories
+18   eloquii  stories partners   enter registered email
+19      pops   cities editions  created password create
+
+https://www.instyle.com/fashion/clothing/lurex-swimwear-fashion-trend
+      1-gram           2-gram                        3-gram
+0      opens       link opens                 opens new tab
+1       link          new tab                link opens new
+2      lurex        opens new       swimwear lurex swimwear
+3        tab   lurex swimwear          lurex swimwear lurex
+4    instyle   swimwear lurex                  new tab link
+5     bikini         com shop                tab link opens
+6   swimwear         tab link              link opens modal
+7        new  instyle instyle            opens modal window
+8        com    naked dresses       instyle instyle instyle
+9       shop  account account            mytheresa com shop
+10     naked     modal window                  com shop top
+11    window      opens modal            tab ad choicesthis
+12   account       com bottom         policythis link opens
+13  meredith       bikini top       tab california sellthis
+14  swimsuit     avery matera       rights reserved instyle
+15    change         shop top           sellthis link opens
+16    bottom    mytheresa com  accessibilitythis link opens
+17    beauty    andieswim com         tab terms servicethis
+18      join   swimsuit trend                 new tab terms
+19       top     close dialog      california sellthis link
+
+https://www.glamourmagazine.co.uk/gallery/and-other-stories-summer-sale
+        1-gram              2-gram                     3-gram
+0          buy             buy buy                buy buy buy
+1      stories       dress stories         midi dress stories
+2        dress          mini dress         mini dress stories
+3         midi          midi dress       editor adding basket
+4     lockdown   platform sneakers      fashion editor adding
+5         mini       adding basket        gallery photos view
+6       basket       editor adding        photos view gallery
+7      superga  stories puffsleeve            title goto high
+8   puffsleeve    jumpsuit stories      utility shirt stories
+9      utility       utility shirt          fans stories read
+10    jumpsuit     charlie teather         spent first couple
+11       aware      fashion editor         high street stores
+12     teather         high street          high street store
+13        wrap         photos view       front wardrobe ought
+14     charlie          store epic    outfits minute lockdown
+15        sale            us comes    hugely impressive dress
+16    sneakers          aware soon        mirror show outfits
+17     gallery            day week     switched back somewhat
+18    platform      dress offering        required put actual
+19  highstreet           aka midis  dresses hugely impressive
+
+https://www.purewow.com/fashion/square-toe-sandals
+      1-gram           2-gram                  3-gram
+0    sandals       square toe      square toe sandals
+1     slides      toe sandals      account sign today
+2     square      square toes       dont account sign
+3        buy  forgot password     pairs trendy square
+4        toe      close close       trendy square toe
+5   password     account sign       toe sandals stock
+6      mules       sign today    sandals stock summer
+7       toes     sign purewow  enter registered email
+8    account     dont account          close like see
+9    purewow         buy like   love stories partners
+10     email    trendy square  never created password
+11     close    sandals stock    trending top stories
+12      heel     stock summer      stories youll love
+13    alohas     pairs trendy      please log account
+14      sign      easy slides        one dont account
+15    kitten       hot summer      youll love stories
+16       log      kitten heel     already account log
+17    forgot    abby hepworth        sign purewow get
+18    simple       flip flops         create one dont
+19     heels    account close   forgot password never
+
+https://www.glamourmagazine.co.uk/article/juno-dawson-meat-market-extract
+     1-gram              2-gram                         3-gram
+0    laurel         laurel says           fashion industry era
+1      jana        another look           industry era timesup
+2       tom       bianca london    underbelly fashion industry
+3       hes           kate moss         expose dark underbelly
+4        im    fashion industry          another look shoulder
+5      shes           behind us              era timesup metoo
+6       man       timesup metoo        dark underbelly fashion
+7    smiles  underbelly fashion              smiles slips hand
+8     voice        industry era  smiles sympathetically honest
+9      tall         theyve gone              smiles teeth like
+10     says         tell laurel             sure followed take
+11  parents         expose dark                 dog heat never
+12     juno         era timesup                went loo laurel
+13    right          clara keys                  went ahead us
+14     card          jana novak             supposed look like
+15     moss        juno dawsons            train car screamers
+16    swarm          tom carney         done modelling repeats
+17   bianca     dark underbelly             aretoo bloody tall
+18       oh          tom smiles               smiles kate moss
+19   agency       look shoulder      superstardom shes scouted
+
+https://www.purewow.com/fashion/summer-vacation-packing-essentials
+          1-gram                 2-gram                        3-gram
+0         affirm              mo affirm                 low mo affirm
+1             mo                 low mo  interestfree payments affirm
+2            low        summer vacation               operandi low mo
+3      krystalyn        payments affirm             moda operandi low
+4          beach         says krystalyn                 real real low
+5       password           operandi low                   real low mo
+6            buy  interestfree payments            account sign today
+7        account          moda operandi             dont account sign
+8       payments           bathing suit    neiman marcus interestfree
+9        payment          neiman marcus          essentials need last
+10          real               real low       ontrend essentials need
+11       purewow     ontrend essentials          last summer vacation
+12         email              real real           summer vacation pay
+13         close               pay time                mo affirm like
+14      vacation        forgot password             vacation pay time
+15        matter            close close              need last summer
+16       ontrend             sign today  marcus interestfree payments
+17        neiman           sign purewow               pay time affirm
+18  interestfree           account sign         love stories partners
+19        marcus           dont account           password create one
+
+https://www.instyle.com/fashion/clothing/side-tie-string-bikini-bottom-trend
+        1-gram             2-gram                    3-gram
+0        opens         link opens             opens new tab
+1         link            new tab            link opens new
+2          tab          opens new  tarzanlike string bikini
+3       bikini      string bikini  summer tarzanlike string
+4      instyle  tarzanlike string     divisive trend summer
+5       string     divisive trend   trend summer tarzanlike
+6   tarzanlike  summer tarzanlike     string bikini bottoms
+7     divisive       trend summer   bikini bottoms divisive
+8          new     bikini bottoms    bottoms divisive trend
+9       bottom   bottoms divisive            tab link opens
+10     bottoms           com shop              new tab link
+11         com           tab link      string bikini bottom
+12       naked      bikini bottom          com shop revolve
+13        shop    instyle instyle          revolve com shop
+14      window        revolve com          shop revolve com
+15       trend       shop revolve          link opens modal
+16     account      naked dresses   instyle instyle instyle
+17    meredith    account account        opens modal window
+18      summer        opens modal    servicethis link opens
+19      change       modal window   rights reserved instyle
+
+https://www.purewow.com/fashion/spring-shoe-trends
+      1-gram            2-gram                  3-gram
+0   password      shop similar     shop similar styles
+1     styles    similar styles      spring shoe trends
+2    similar       spring shoe       dont account sign
+3    account     chain details      account sign today
+4      chain  loeffler randall         trends cant get
+5    purewow   forgot password     like coterie member
+6       like       close close    chunky sandals chain
+7      email       shoe trends     details spring shoe
+8      close    chunky sandals        shoe trends cant
+9     chunky      dont account   sandals chain details
+10      sign        sign today    chain details spring
+11   sandals      account sign         cant get enough
+12    spring      sign purewow      youll love stories
+13   randall     sandals chain    trending top stories
+14  loeffler       jw anderson         create one dont
+15      shoe      like coterie   forgot password never
+16    forgot    coterie member  enter registered email
+17       log  sarah stiefvater     already account log
+18      shop       trends cant      stories youll love
+19    thanks    details spring  password never created
+
+https://www.glamourmagazine.co.uk/article/neon-bikini-uk-trend
+       1-gram                2-gram                       3-gram
+0        neon           love island       teather sophie cockett
+1      island        teather sophie       charlie teather sophie
+2   islanders        oriana findlay     sophie cockett alexandra
+3      oriana     cockett alexandra  cockett alexandra fullerton
+4     findlay        sophie cockett         search every seconds
+5    swimwear          neon bikinis          summer trend thanks
+6     cockett         every seconds           love island oriana
+7      sophie          search every          love island serving
+8        love         neon swimwear             love island site
+9        ebay   alexandra fullerton         love island swimwear
+10      every          every single         bikinis content also
+11    seconds       charlie teather        coined islander lucie
+12  alexandra           saw yewande        bikini luckily anyone
+13  fullerton  fainthearted vibrant         like coachella shine
+14   searches       coachella shine      phrases coined islander
+15    serving             past week           featuring word bev
+16    teather      fashion swimwear      originates first images
+17     search           pastel high              week alone ebay
+18    charlie       seasons fashion          high street serving
+19    bikinis             amber amy            green snake print
+
+https://www.glamourmagazine.co.uk/gallery/hm-spring-sale
+       1-gram                  2-gram                       3-gram
+0          hm                 buy buy                  buy buy buy
+1         buy               jumper hm        faux leather trousers
+2      jumper             cardigan hm          leather trousers hm
+3        sale            hm cableknit          photos view gallery
+4    cardigan             trousers hm          gallery photos view
+5   cableknit               jacket hm     hm offtheshoulder jumper
+6     leather        leather trousers         spent confined sofas
+7        faux            faux leather      plastered across social
+8       sales         charlie teather  little overwhelming whether
+9     teather           youre looking            wise keep reading
+10    charlie                dress hm       statementcollar top hm
+11    gallery             photos view          pressure pick right
+12     jacket          avoid anything          scrolled every item
+13       real          partial easing        wearing sixinch heels
+14   discount            entirely way            grey faux leather
+15       dont  tracksuits reemergence       bit chaotic freeforall
+16   anything     matching tracksuits   pubs restaurants reopening
+17         uk           pressure pick            spend last twelve
+18       even      preparation minute    wales little overwhelming
+19   trousers        literally stores           green vneck jumper
+
+https://www.instyle.com/fashion/clothing/the-summer-3-fashion-rule-is-the-seasons-best-outfit-idea
+      1-gram           2-gram                   3-gram
+0      opens       link opens            opens new tab
+1       link          new tab           link opens new
+2        tab        opens new             new tab link
+3    instyle         tab link           tab link opens
+4        new      outfit idea       summer outfit idea
+5     outfit    summer outfit      idea answer seasons
+6    dilemma  instyle instyle   answer seasons biggest
+7     summer    summer summer  biggest fashion dilemma
+8      naked      idea answer  seasons biggest fashion
+9     window  fashion dilemma       outfit idea answer
+10   seasons   answer seasons   fashion dilemma summer
+11   account  seasons biggest       opens modal window
+12     dress  biggest fashion  instyle instyle instyle
+13  meredith   dilemma summer         link opens modal
+14   fashion    naked dresses     summer summer summer
+15    answer      opens modal     summer summer outfit
+16      pair  account account    dilemma summer summer
+17    change     modal window       tab ad choicesthis
+18      rule       time break   terms servicethis link
+19      idea      summer rule  privacy policythis link
+
+https://www.glamourmagazine.co.uk/gallery/bra-accentuation-trend-ss20
+          1-gram                2-gram                       3-gram
+0       bralette               buy buy                  buy buy buy
+1   accentuation    accentuation trend       bra accentuation trend
+2            buy      bra accentuation            top stitch detail
+3          trend        sophie cockett           stitch detail asos
+4            bra            top stitch          gallery photos view
+5         stitch           detail asos          photos view gallery
+6        cockett         stitch detail          contrast stitch top
+7         sophie      bralette stories          sleeve textured top
+8          sheer   underwear outerwear       layering trend musttry
+9           asos           photos view           pieces high street
+10          racy      obsessed showing             outfit whole lot
+11          rock          make beeline               much case wear
+12       bandeau             asos want  sheer embroidered underwire
+13           top           britain bra         tshirts slip dresses
+14     outerwear            bra blazer           even dropped sheer
+15      obsessed       concealing lace         sheer layering trend
+16     detailing  underneath oversized            sheer mesh blouse
+17     underwear          look embrace             obvious way rock
+18          lace     tomorrow obsessed             sun starts shine
+19       stories         bandeau youre     topics shopping lingerie
+
+https://www.glamourmagazine.co.uk/article/net-a-porter-global-trends
+         1-gram               2-gram                   3-gram
+0           buy              buy bag            bag loewe buy
+1       charlie            buy dress            buy bag loewe
+2           bag      charlie teather        saint laurent buy
+3       teather            loewe buy     buy dress zimmermann
+4         dress            bag loewe          loewe buy dress
+5       fashion          laurent buy     dress zimmermann buy
+6      designer        saint laurent       bottega veneta buy
+7         loewe            chloe buy  charlie teather charlie
+8       laurent       designer items  teather charlie teather
+9         saint            hong kong      buy ibizan shoppers
+10    amsterdam           buy jacket        title comes reach
+11    vancouver           veneta buy          buy glamour uks
+12         hong       zimmermann buy  social platforms answer
+13         kong     designer fashion            buy gown reem
+14     timeless            style set        wealth new styles
+15      staples  fashion influencers        laurent buy dress
+16  influencers     dress zimmermann      laurent buy glamour
+17    embracing       bottega veneta            bag gucci buy
+18       sydney      teather charlie         buy heavy prints
+19        miami       fashion editor  colours summer splashed
+
+https://www.vogue.in/fashion/content/i-want-to-emphasise-the-beauty-of-the-country-maria-grazia-chiuri-on-hosting-diors-cruise-2022-collection-in-athens
+        1-gram               2-gram                    3-gram
+0       chiuri         around world       maria grazia chiuri
+1         dior    cruise collection     want emphasise beauty
+2        speak            elis kiss        women around world
+3       greece         women around  emphasise beauty country
+4       cruise       want emphasise   navigation menu fashion
+5   collection           point view            day going back
+6       athens         maria grazia      members team visited
+7         kiss       beauty country       athens show follows
+8        diors        grazia chiuri    serious homework began
+9         elis           took place         took place athens
+10     chiuris     emphasise beauty           took place team
+11   different   india largechevron       really part culture
+12       greek         menu fashion    mantra nigerian author
+13       world     moment monastery         starting debut ss
+14       place           delphi via     starters done serious
+15       india       arrived athens     walk acropolis turned
+16       italy  developed elaborate          day trust chiuri
+17       maria       moment fashion      course also personal
+18   acropolis         fashion elis      snake goddess minoan
+19   emphasise        ss collection     done serious homework
+
+https://www.vogue.in/fashion/content/here-are-the-seven-finalists-competing-for-the-2022-international-woolmark-prize
+          1-gram                  2-gram                           3-gram
+0          prize          woolmark prize           mmusomaxwell peter rui
+1      finalists            jordan dalah                   peter rui sual
+2       woolmark              chloe chou     international woolmark prize
+3      lagerfeld          karl lagerfeld         dalah mmusomaxwell peter
+4           karl             merino wool        jordan dalah mmusomaxwell
+5         jordan               sual nash             egonlab jordan dalah
+6           chou            rahul mishra                    rui sual nash
+7          dalah                rui sual               yves saint laurent
+8   mmusomaxwell  international woolmark         alhuwalia egonlab jordan
+9       finalist      mmusomaxwell peter          navigation menu fashion
+10       egonlab               peter rui           prize ahluwalia united
+11            au      dalah mmusomaxwell  history recognising celebrating
+12    innovation              yves saint              followed suket dhir
+13          nash       alhuwalia egonlab      priya ahluwalia londonbased
+14           rui          giorgio armani       menswear designer nigerian
+15        merino         seven finalists                  prize also read
+16         india          united kingdom             prize followed suket
+17         award          egonlab jordan        menswear ruchika sachdeva
+18         peter      capsule collection                prize one fashion
+19          wool      india largechevron                 prize receive au
+
+https://www.glamourmagazine.co.uk/article/sexy-fashion-trend
+            1-gram               2-gram                         3-gram
+0            liane        sexy dressing  fullerton alexandra fullerton
+1        fullerton  alexandra fullerton  alexandra fullerton alexandra
+2        alexandra        anna moeslein            black dresses nensi
+3             sexy           chloe laws             sexy dresses worth
+4             laws   matchesfashion com          really refreshing see
+5         moeslein              june st           several seasons seen
+6         dressing         nensi dojaka       styles customers amazing
+7             body          girl summer             styles closer body
+8            trend  fullerton alexandra       sexier dresses celebrate
+9   matchesfashion          skinny girl       sexier silhouette coming
+10       designers     pressuring chloe        sexiest trend everybody
+11            anna           body liane    generation customer styling
+12         fashion          body fitted        wiggens head womenswear
+13       interpret        body positive       designers starting offer
+14          sexier           names know             sexy dressing back
+15     socialising      pattern cutting              designers set way
+16         dresses       seriously cant            sexy dressing bring
+17              uk       starting offer        sexy dressing britbased
+18           chloe           skin trend            sexy dressing liane
+19              st             back tbh             closer body fitted
+
+https://www.purewow.com/fashion/mom-and-dad-fashion-trends
+       1-gram             2-gram                        3-gram
+0         dad        dad fashion               mom dad fashion
+1         mom            mom dad           buy available sizes
+2    password      buy available           available sizes buy
+3     fashion    available sizes            account sign today
+4     account          mom jeans             dont account sign
+5      people          sizes buy  therapists trend forecasters
+6   available    forgot password          fashion right talked
+7       sizes        close close        trend forecasters find
+8        feel       sign purewow             dad fashion right
+9     purewow       dont account             buy buy available
+10      email         sign today       right talked therapists
+11      close       account sign       talked therapists trend
+12       sign           sizes xs                 mom jeans dad
+13   thinking       right talked            available sizes xs
+14       time   forecasters find           sizes buy available
+15       want    millennials gen            youll love stories
+16        log     want perceived         love stories partners
+17   sneakers   pleated trousers          trending top stories
+18     forgot          jeans dad              sign purewow get
+19        buy  talked therapists       created password create
+
+https://www.glamourmagazine.co.uk/gallery/zebra-print-trousers
+        1-gram               2-gram                        3-gram
+0        zebra          zebra print          zebra print trousers
+1     trousers       print trousers               buy zebra print
+2        print            buy zebra               save shop zebra
+3          buy    reclaimed vintage           shop zebra trousers
+4    reclaimed       zebra trousers      print trousers reclaimed
+5   zebraprint           shop zebra    trousers reclaimed vintage
+6    fullerton            save shop           zebra trousers asos
+7      vintage   trousers reclaimed     trousers urban outfitters
+8       upside  alexandra fullerton           trousers ami amalia
+9          com        marks spencer           print trousers sara
+10        asos           ami amalia       trousers sara battaglia
+11      khaite            com zebra        trousers isabel marant
+12  netaporter     trousers stories  trousers netaporter discount
+13   alexandra       trousers stine     zebra trousers netaporter
+14       marks        trousers sara        trousers asos discount
+15     spencer    maison essentiele           trousers stine goya
+16        shop         native youth                 com save shop
+17  essentiele  trousers netaporter           netaporter com save
+18  redemption      trousers isabel                asos save shop
+19    athletix     trousers halpern     netaporter discount codes
+
+https://www.vogue.in/fashion/content/pantones-2022-colour-of-the-year-very-peri-embraces-strangeness
+        1-gram              2-gram                       3-gram
+0       spring        spring photo           haute couture fall
+1        photo        couture fall            fior gorunway com
+2        haute        gorunway com        filippo fior gorunway
+3     gorunway       haute couture        spring photo courtesy
+4     courtesy      photo courtesy           couture fall photo
+5       colour        filippo fior              iris van herpen
+6         fall       fior gorunway      valentino haute couture
+7      couture          fall photo      spring photo alessandro
+8         fior    photo alessandro           photo filippo fior
+9      pantone         colour year         lucioni gorunway com
+10         com          van herpen         spring photo filippo
+11     filippo     valentino haute       gorunway com valentino
+12   valentino         mens spring           louis vuitton mens
+13        peri            iris van     photo alessandro lucioni
+14        mens       photo filippo          fall photo courtesy
+15       shade      pantone colour     pantone colour institute
+16      herpen        tomo koizumi  alessandro lucioni gorunway
+17        xuly            xuly bet          vuitton mens spring
+18     koizumi       louis vuitton     balenciaga haute couture
+19  alessandro  alessandro lucioni          com valentino haute
+
+https://thevou.com/fashion/sustainable-fashion/
+           1-gram                     2-gram                         3-gram
+0     sustainable        sustainable fashion   examples sustainable fashion
+1         fashion       sustainable clothing     sustainable fashion brands
+2         ethical               fast fashion    sustainable clothing brands
+3        clothing         working conditions  sustainable fashion important
+4          brands                 fair trade       best sustainable fashion
+5       materials            clothing brands   sustainable fashion examples
+6   manufacturing             organic cotton      vegan crueltyfree fashion
+7           vegan           fashion industry            dark academia light
+8           water       examples sustainable        safe working conditions
+9            fair             fashion brands           fair trade certified
+10       upcycled             clothing brand        academia light academia
+11    environment            ethical fashion            makes fashion brand
+12           fast                 fair wages       sustainable fashion best
+13         animal           upcycled fashion  achieving sustainable fashion
+14    ecofriendly           best sustainable      fashion brand sustainable
+15  environmental          fashion important      cottagecore dark academia
+16       examples             social justice      light academia aesthetics
+17          brand     comparison sustainable               without ado best
+18       garments             animal leather    example sustainable fashion
+19        organic  sustainable manufacturing      facet sustainable fashion
+
+https://www.glamourmagazine.co.uk/article/bec-and-bridge-fashion-label-kim-kardashian
+        1-gram              2-gram                       3-gram
+0      content  originates content      site originates content
+1   originates   content instagram      originates content also
+2       viewed        content also  instagram content instagram
+3    instagram   instagram content    content instagram content
+4          bec     site originates          content also viewed
+5       bridge         viewed site       viewed site originates
+6         site         also viewed             also viewed site
+7         also          bec bridge           success bec bridge
+8      teather     charlie teather      charlie teather charlie
+9      charlie       bianca london      teather charlie teather
+10       girls         success bec              say pair brands
+11      bianca   millie mackintosh      elyse knowles instagram
+12     success      kim kardashian      everyone kim kardashian
+13       label     teather charlie      site originates fashion
+14      aussie        given recent                game say pair
+15      millie   available certain    clothes sisterhood bianca
+16  mackintosh            la label       brands website growing
+17      london     bridget yorston    topics shopping instagram
+18          uk     growing glowing         cooler summer theres
+19    launched      delish clothes            hadid even millie
+
+https://www.glamourmagazine.co.uk/gallery/top-20-biker-jackets
+        1-gram              2-gram                       3-gram
+0        biker       biker jackets           best biker jackets
+1      jackets          best biker               buy best biker
+2       jacket        biker jacket              save shop biker
+3         best            buy best           shop biker jackets
+4          buy          shop biker         leather biker jacket
+5      leather       leather biker           biker jackets asos
+6         asos           save shop        jackets asos discount
+7         faux        jackets asos     biker jackets netaporter
+8         save        faux leather             biker jackets hm
+9         shop      discount codes           faux leather biker
+10    discount          jackets hm  jackets netaporter discount
+11       codes  jackets netaporter          asos discount codes
+12       suede       asos discount               asos save shop
+13  netaporter    urban outfitters                com save shop
+14       marks           asos save          netaporter com save
+15       oasis        karen millen    netaporter discount codes
+16        raey       saint laurent          jackets free people
+17    deadwood       marks spencer   biker jackets stradivarius
+18  outfitters         free people         biker jackets simply
+19       urban            com save        biker jackets topshop
+
+https://www.glamourmagazine.co.uk/gallery/best-modest-summer-dresses
+         1-gram             2-gram                       3-gram
+0        modest      modest summer        modest summer dresses
+1       dresses     summer dresses           best modest summer
+2        summer        best modest             shop best modest
+3          asos         buy modest               save shop best
+4          maxi          shop best            buy modest summer
+5         dress          save shop          summer dresses asos
+6       content         maxi dress        modest summer outfits
+7           buy     summer outfits        dresses asos discount
+8          save         dresses uk    summer dresses netaporter
+9          shop       dresses asos              dresses uk asos
+10        codes     discount codes            summer dresses uk
+11     discount           asos buy              asos buy modest
+12         best      casual modest        diane von furstenberg
+13   netaporter    von furstenberg         casual modest summer
+14  furstenberg        asos modest  instagram content instagram
+15           uk            uk asos          asos discount codes
+16    instagram          asos save    content instagram content
+17        diane  content instagram               asos save shop
+18        arket      asos discount          content also viewed
+19   originates          diane von             also viewed site
+
+https://www.glamourmagazine.co.uk/gallery/summer-wedding-guest-dresses
+        1-gram              2-gram                    3-gram
+0        guest       wedding guest     wedding guest dresses
+1      wedding       guest dresses      summer wedding guest
+2       summer      summer wedding       wedding guest dress
+3      dresses         guest dress         guest dresses buy
+4        dress         dresses buy       shop summer wedding
+5          buy         shop summer          save shop summer
+6         asos           save shop           guest dress buy
+7         save          buy summer       best summer wedding
+8         shop           dress buy        guest dress summer
+9        codes      discount codes        guest dresses asos
+10    discount         best summer          dress buy summer
+11        midi        dress summer        dresses buy summer
+12       satin        dresses asos       asos summer wedding
+13  bridesmaid          midi dress      formal wedding guest
+14  netaporter         asos summer      guest dresses summer
+15        maxi      formal wedding     guest dresses sleeves
+16      formal     dresses sleeves           dress asos save
+17     sleeves      dresses summer        buy summer wedding
+18       river  bridesmaid dresses     dresses asos discount
+19        lace    dress netaporter  guest dresses netaporter
+
+https://www.glamourmagazine.co.uk/gallery/summer-dresses-with-sleeves
+          1-gram                2-gram                       3-gram
+0            buy               buy buy                  buy buy buy
+1          dress           dress mango          linen dress sleeper
+2   puffedsleeve            midi dress          collared mini dress
+3           midi              dress hm            look right thanks
+4         tiedye         dress stories   demanding think thoroughly
+5       collared    puffedsleeve dress        deserving good months
+6           arms         collared mini       ruffled dress vampires
+7          mango            mini dress        mini dress zimmermann
+8        frilled           linen dress              mini dress zara
+9     ribbedknit         dress sleeper        knitted dress sezanne
+10            hm      dress zimmermann      wearing swimwear garden
+11       sleeper           shirt dress      weather nigh impossible
+12       checked       charlie teather        mind actually illegal
+13          mini            dress zara            weather turns one
+14       teather          dresses snap       saints ribbedknit maxi
+15        couple            rejina pyo     extra silhouettes puffed
+16    zimmermann        britain summer  despite influencers wearing
+17       charlie        sunshine thats        midi dress zimmermann
+18          zara  everything inbetween            midi dress rejina
+19        belted       waterproof bags         arms whatever reason
+
