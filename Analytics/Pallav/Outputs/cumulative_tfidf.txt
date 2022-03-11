@@ -1,0 +1,54 @@
+KEYWORDS FROM CUMULATIVE SCORING:
+
+         1-gram               2-gram                       3-gram
+0          crop         biker jacket          zebra print trouser
+1      milkmaid       milkmaid dress            mark spencer sale
+2          zara         month affirm          wedding guest dress
+3         biker         mark spencer          modest summer dress
+4         zebra        modest summer        lockdown summer dress
+5        affirm          zebra print         post lockdown summer
+6      egyptian  sustainable fashion            slip dress summer
+7          slip      lockdown summer            dress summer 2021
+8         guest          zara summer         summer wedding guest
+9       spencer          guest dress             zara summer 2021
+10         post           slip dress             2021 zara summer
+11       modest        print trouser             summer 2021 zara
+12         mark            2021 zara           empire waist dress
+13      content        post lockdown            spring 2022 photo
+14  sustainable          spring 2022             padded flip flop
+15         link             link tab                     20 20 20
+16      wedding        wedding guest    originates content viewed
+17       laurel         dress summer    viewed originates content
+18     lockdown         spencer sale           dress mark spencer
+19       resort       summer wedding           haute couture fall
+20       jacket           square toe            couture fall 2021
+21          tab         summer dress    content instagram content
+22        dress         empire waist  instagram content instagram
+23        lurex   originates content         lurex swimwear lurex
+24      trouser          summer 2021      swimwear lurex swimwear
+25          dad                20 20            block color block
+26     finalist          waist dress            color block color
+27       empire        string bikini            summer 2021 trend
+28           51          padded flip          trend summer tarzan
+29      slipper          love island        divisive trend summer
+30       padded            crop crop         summer tarzan string
+31       sandal    content instagram         tarzan string bikini
+32          toe        house slipper    content viewed originates
+33         dior           2022 photo         leather biker jacket
+34          mom    egyptian clothing              save shop biker
+35       colour       lurex swimwear            shop biker jacket
+36         sale           dad sandal         stylist wearing 2022
+37           80     season highlight              mom dad fashion
+38       spring       content viewed           dress empire waist
+39      fashion    instagram content           waist dress empire
+40           41    viewed originates            trend summer 2021
+41           20              mom dad             fancy dad sandal
+42     bralette          ballet flat           spring summer 2022
+43         neon       divisive trend          milkmaid dress mini
+44      charlie      charlie teather         2022 stylist wearing
+45   originates            flip flop         wearing 2022 stylist
+46       viewed     egyptian fashion            2021 trend summer
+47           31           2021 trend           shop modest summer
+48      instyle            fall 2021             save shop modest
+49       ballet         couture fall        bikini divisive trend
+

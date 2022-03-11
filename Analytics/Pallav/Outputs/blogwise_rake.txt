@@ -1,0 +1,1414 @@
+KEYWORDS OCCURING IN MULTIPLE BLOGS:
+
+1-gram:
+            keyword occurence
+0             story        29
+1              wear        23
+2             trend        22
+3                wa        22
+4              sell        22
+5           wearing        20
+6          wardrobe        18
+7              worn        17
+8              time        16
+9            summer        15
+10            style        13
+11             wave        12
+12       understand        11
+13            trick        11
+14           viewed        11
+15    wwwinstylecom        10
+16      trailblazer        10
+17             shop         9
+18          product         8
+19         thanksim         7
+20           spring         7
+21           street         7
+22         straight         6
+23            touch         6
+24      subscribing         6
+25            white         6
+26         surprise         6
+27         trending         6
+28             talk         5
+29          wedding         5
+30            wrong         5
+31            woman         5
+32        terrified         5
+33             week         5
+34             save         4
+35           season         4
+36       tracksuits         4
+37             view         4
+38            throw         4
+39          talking         4
+40            start         4
+41         sticking         4
+42            shirt         4
+43              set         3
+44          stretch         3
+45         shopping         3
+46             yeah         3
+47              tab         3
+48            worth         3
+49          trouser         3
+50            stand         3
+51             walk         3
+52            waist         3
+53       originates         3
+54            topic         3
+55            piece         3
+56         swimsuit         3
+57             sign         3
+58             size         3
+59             tone         3
+60          weather         3
+61           plenty         3
+62             wary         3
+63           sleeve         3
+64          waisted         3
+65        underwear         3
+66          wrapped         3
+67          started         3
+68        tracksuit         3
+69             told         3
+70        whimsical         3
+71             tick         2
+72          shopper         2
+73           trendy         2
+74            stuff         2
+75         wasteful         2
+76           tiktok         2
+77          trainer         2
+78           return         2
+79      smorgasbord         2
+80            stock         2
+81             real         2
+82      unappealing         2
+83          waiting         2
+84       surprising         2
+85        signature         2
+86              ton         2
+87          walking         2
+88             stay         2
+89             wrap         2
+90              sun         2
+91           reason         2
+92          totally         2
+93      uncertainty         2
+94              tap         2
+95             town         2
+96           porter         2
+97            reach         2
+98             snap         2
+99         spending         2
+100          vision         2
+101          search         2
+102          upside         2
+103           water         2
+104            trip         2
+105       universal         2
+106         version         2
+107            type         2
+108            skin         2
+109        sunshine         2
+110            team         2
+111          taught         2
+112          tucked         2
+113         vibrant         2
+114           video         2
+115         serving         2
+116          thrill         2
+117           theme         2
+118           steer         2
+119           shade         2
+120  unsurprisingly         2
+121       upgrading         2
+122       subscribe         2
+123        required         2
+124          sandal         2
+125           spent         2
+126          winter         2
+127            vibe         2
+128       versatile         2
+129             tie         2
+130            tend         2
+131         styling         2
+132     understated         2
+133            suit         2
+134        occasion         2
+135           vogue         2
+136          staple         2
+137           worry         2
+138           voice         2
+139             vou         2
+140        stiletto         2
+141            zoom         2
+142          yellow         2
+143           sport         2
+144         variety         2
+145        thrilled         2
+146          unique         2
+147      university         2
+148      thankfully         2
+149            true         2
+150            wore         2
+
+2-gram:
+                         keyword occurence
+0         independently selected        17
+1                    time beauty        10
+2                 tab california        10
+3                    tab instyle        10
+4                       tab term        10
+5            wwwinstylecom close        10
+6             valentinos couture        10
+7           wardrobe malfunction        10
+8                   wear upgrade        10
+9                 sydney sweeney        10
+10               surprising snub         9
+11             stylist lifestyle         8
+12                     taste bud         7
+13                term condition         7
+14               charlie teather         7
+15                story trending         6
+16                    storm reid         5
+17                   summer 2021         5
+18                trending share         5
+19                     star sign         4
+20                portercom save         4
+21                fashion editor         4
+22                 social medium         4
+23                   perma trend         4
+24                  summer dress         4
+25                     style set         4
+26                 shopping list         3
+27              fashion director         3
+28                     share pin         3
+29          affiliate commission         3
+30              registered email         3
+31                    slip dress         3
+32                  purewow sign         2
+33               shapewear piece         2
+34             trend forecasting         2
+35                sophie cockett         2
+36                street fashion         2
+37                topic shopping         2
+38               urban outfitter         2
+39                  summer trend         2
+40              super flattering         2
+41                waisted bikini         2
+42                   spring 2022         2
+43              summer subscribe         2
+44               summer wardrobe         2
+45                  winter month         2
+46              servicethis link         2
+47                   white shirt         2
+48                pleated sleeve         2
+49               statement piece         2
+50                  trouser suit         2
+51                    super easy         2
+52                    vou search         2
+53               waisted trouser         2
+54              victoria beckham         2
+55        universally flattering         2
+56                  simone rocha         2
+57                 wfh sweatsuit         2
+58                   sporty kick         2
+59               selfridges save         2
+60  instagram alexandrafullerton         2
+
+3-gram:
+                      keyword occurence
+0                                    23
+1     signature fashion color        10
+2            time naked dress        10
+3       tab login sweepstakes        10
+4       tab copyright instyle        10
+5          sweat proof makeup        10
+6    skin undertone celebrity        10
+7          yeah grunge makeup        10
+8             red carpet feat        10
+9           rated body shaper        10
+10    problematic zodiac sign         9
+11      purewow recipe recipe         7
+12           recipe box close         7
+13        valid email address         7
+14    password required enter         7
+15          recipe box forgot         7
+16  naomi campbell appearance         6
+17        mere presence break         5
+18          york fashion week         5
+19       facebook close close         4
+20       perfect summer dress         4
+21       laura brown shopping         3
+22      lister jennifer lopez         3
+23          soled dad sneaker         2
+24        twisted halter neck         2
+25        message print print         2
+26        fashion editor pick         2
+27    street shopping fashion         2
+28            spring 22 trend         2
+29       season hottest trend         2
+30           wide leg trouser         2
+31           summer 2021 wear         2
+32            silk slip dress         2
+33          york london milan         2
+34    specific styling choice         2
+35       porter discount code         2
+
+
+
+
+INDIVIDUAL BLOG ANALYSIS:
+
+https://www.instyle.com/fashion/clothing/best-2022-fashion-trends
+                1-gram                2-gram                    3-gram
+0                 yeah   wwwinstylecom close         york fashion week
+1        wwwinstylecom         woman wearing        yeah grunge makeup
+2                wrong           white shirt       vibrant color print
+3                 worn          wear upgrade          time naked dress
+4              workout        wardrobe reset   tennis inspired fashion
+5              wearing  wardrobe malfunction     tab login sweepstakes
+6                 wear            wa hanging     tab copyright instyle
+7                 wave    valentinos couture        sweat proof makeup
+8             wardrobe             trend hit           spring 22 trend
+9                   wa     trend forecasting  skin undertone celebrity
+10              vision         timeless root           silk slip dress
+11             version           time beauty   signature fashion color
+12          understand      tech fluorescent    shoulder pleated skirt
+13                type               team ha   shailene woodley follow
+14               trick              tab term           red carpet feat
+15              trendy           tab instyle         rated body shaper
+16            trending        tab california   problematic zodiac sign
+17               trend        sydney sweeney     perfect silk layering
+18         trailblazer       surprising snub  perfect oversized button
+19  tiffbrisenostylist     stylist lifestyle        perfect base layer
+
+https://www.instyle.com/fashion/clothing/spring-2022-fashion-trends
+           1-gram                2-gram                     3-gram
+0            yeah           y2k fashion          york london milan
+1   wwwinstylecom   wwwinstylecom close          york fashion week
+2            worn          wear upgrade         yeah grunge makeup
+3         wearing  wardrobe malfunction         true fashion lover
+4            wear    valentinos couture         toned piece popped
+5            wave           time beauty           time naked dress
+6        wardrobe            teeny tiny      tab login sweepstakes
+7              wa              tab term      tab copyright instyle
+8      understand           tab instyle         sweat proof makeup
+9           trick        tab california          spring 2022 trend
+10       trending        sydney sweeney    specific styling choice
+11          trend       surprising snub   skin undertone celebrity
+12    trailblazer     stylist lifestyle    signature fashion color
+13       tracking            storm reid          red carpet worthy
+14           told             spring 22            red carpet feat
+15           time           spring 2022          rated body shaper
+16      terrified           sizing stay    problematic zodiac sign
+17           tame       shapewear piece            neon dress read
+18        talking            sexy slice  naomi campbell appearance
+19           talk      servicethis link         missing limb break
+
+https://www.glamourmagazine.co.uk/article/resort-2022-fashion-trends
+               1-gram                2-gram                       3-gram
+0           whimsical              wide leg           winter sun holiday
+1                 wfh   wardrobe originally          true blue treatment
+2             wearing          trouser suit       tight short silhouette
+3                wear  traditional february    slow development shifting
+4            wardrobe          tailoring ha        pre spring collection
+5             waisted            sweet puff         louis vuitton chanel
+6             versace    sustainable choice             key street style
+7               valid            super rich            heart grow fonder
+8      understatement            status quo             gallery 12 photo
+9                trim           skirt dress           fashion term bring
+10              trend         resort fringe          fashion calendar ha
+11            trainer         resort cruise     fabric physically uplift
+12  tracksuitsspotted     resort collection        dior alberta ferretti
+13          tracksuit    prescriptive trend           david koma balmain
+14              throw            power heel     costume statement adding
+15             switch           perma trend  classic athletic silhouette
+16              swish   panathenaic stadium         bolder colour slogan
+17         surprising            nina ricci        biggest fashion trend
+18               suit             neon tone      alberta ferretti lanvin
+19              story          mood fashion                             
+
+https://www.vogue.in/fashion/gallery/from-egg-shell-heels-to-demon-basketball-bags-the-9-wildest-accessories-of-spring-summer-2022
+          1-gram               2-gram                        3-gram
+0        wrapped    wildest accessory             york fashion week
+1         wilson     vogue minimalist  wildest accessory guaranteed
+2        wedding   understated scroll            spring summer 2022
+3             wa         umbrella hat        simone rocha jewellery
+4          vogue    tiktok phenomenon         scuba headgear teamed
+5           tide    splash symbolised            milk carton clutch
+6        talking          soap bottle      memory lane transforming
+7          swing  smartest investment          loewe model teetered
+8          stole       secret craving               key campy motif
+9       stiletto   ruffled confection           human skin inspired
+10      simulate         riotous romp   haute orthodontic accessory
+11      silicone        richard quinn           grim reaper hoodies
+12          sell          peep bonnet             gold hoop earring
+13      security            pack tote        framing ornate earring
+14        season      oddly beguiling      exquisitely crafted heel
+15         scott        nursery rhyme            ear riccardo tisci
+16  schiaparelli          nail polish          demon basketball bag
+17       sadness              mood wa            delivered le latex
+18         reset     matthew williams       daniel roseberry paired
+19    replicates          kenny named     cabin baggage restriction
+
+https://www.glamourmagazine.co.uk/gallery/spring-summer-2021-fashion-trends
+        1-gram                2-gram                      3-gram
+0         zoom            zone ready     valentino isabel marant
+1         wide              wrap opt  valentino alberta ferretti
+2        white           white piece         trend ha reappeared
+3      wearing     waterproof jacket        sun seemingly packed
+4     wardrobe       waisted trouser    summer 2021s incarnation
+5           wa      victoria beckham     subtle billowing fabric
+6         view        varying degree              ss21 runway wa
+7         vest         unusual trend      sportmax louis vuitton
+8      variety      trusty tracksuit     special night inspotted
+9      unusual        trend conjured            short hot summer
+10       trend  traditional cleavage     sexy pyjama alternative
+11   tracksuit              tom ford             semi naive hope
+12       throw     thornton bregazzi        season trouser shape
+13    throttle       thinking nature   relaxed affair admittedly
+14    thrilled             stay true         quick mirror selfie
+15  thankfully             star sign  proposed fashion landscape
+16     texture           spring bare            port 1961 chanel
+17   tentative            slip dress    philosophy isabel marant
+18        tend          simone rocha        perfect summer dress
+19      taught            sheer gown       leg decolletage waist
+
+https://www.glamourmagazine.co.uk/gallery/london-fashion-week-spring-summer-2021-fashion-trends
+         1-gram                  2-gram                         3-gram
+0         write              weird time            turbulent time head
+1       wearing          wardrobe brand  thornton bregazzis collection
+2   wearability           waisted skirt                spring 2021 hit
+3       visitor         waist dominated              slung denim regal
+4         video           vintage denim               simone rochas wa
+5         trend        victoria beckham             silk printed dress
+6          time         versatile piece             satiny slouch feel
+7     tightened           trouser shape                satin fern heel
+8        thrill       throwaway fashion             real life audience
+9         theme  thornton bregazziwhile            monogrammed silk vb
+10         tend        sumptuous fabric          model donning organza
+11      teaming         sharp tailoring      measure surrounding covid
+12        story           ruffled dress            london fashion week
+13     sticking           ruffle popped           knitted bralet style
+14        steer        romantic country            emerald green skirt
+15       spring          recycled trend                   bora aksu wa
+16      spotted       physical attendee         biggest roller coaster
+17        shade              park bench              actor erykah badu
+18         sell             mossy shade                   90 girl band
+19       season           molly goddard                               
+
+https://www.purewow.com/fashion/spring-fashion-trends-affirm
+         1-gram               2-gram                      3-gram
+0          worn        wfh sweatsuit           yoga luxe lounger
+1        weekly      updated version          version ha evolved
+2      wardrobe       trending share         valid email address
+3     upgrading       term condition     spring investment piece
+4       upgrade  tempting trendslike        spring fashion trend
+5    unshakable            taste bud       spring fashion elicit
+6         trend    super comfortable           soled dad sneaker
+7      thanksim     structured grown        sleek backless slide
+8   subscribing       story trending        shopping list loafer
+9     subscribe      spring shopping                 share 8 pin
+10     stretchy         spring frock           recipe box forgot
+11     straight       spring florals            recipe box close
+12        story          spring 2021       purewow recipe recipe
+13     sticking          sporty kick     password required enter
+14      started           shoe trend             outfit ha risen
+15     sporting       service affirm       matching dainty daisy
+16        split        select affirm         fresh balmy weather
+17        spent        resident loan        facebook close close
+18      spandex     registered email  eligibility payment option
+19         sole         purewow sign            dorky shoe style
+
+https://www.glamourmagazine.co.uk/gallery/best-slip-dresses
+       1-gram                  2-gram                     3-gram
+0    wishlist         wardrobe scroll          yellow 50 topshop
+1      winter          trainer sandal  sustainability slip dress
+2       white   traditional petticoat          summer slip dress
+3        wear          totally unique           summer 2021 wear
+4        vibe       totally transform     summer 2021 seasonless
+5   versatile          totally grungy           summer 2021 mini
+6         van             summer 2021           summer 2021 maxi
+7   underwear               star sign          summer 2021 cross
+8        tick              slip dress   selfridges discount code
+9      summer         selfridges save            red carpet fave
+10    styling         recycled fabric        personal style read
+11      style          portercom save       perfect summer dress
+12    stretch        perpetually chic            mini slip dress
+13      story             perma trend         huge fashion trend
+14       slip               lace trim       fashion option layer
+15      slide  independently selected        dark coloured satin
+16    sinuous          hailey kendall           cold chunky boot
+17       shop        fashion director              bias cut silk
+18      shirt               easy fuss                           
+19       sexy              duty style                           
+
+https://www.glamourmagazine.co.uk/gallery/milkmaid-dresses-fashion-trend
+        1-gram                  2-gram                  3-gram
+0         worn      unofficial sponsor    milkmaid dress white
+1    whittling  universally flattering  milkmaid dress shirred
+2     wardrobe      transitional piece  milkmaid dress ruffled
+3       viewed     sweetheart neckline   milkmaid dress ruched
+4         told              super cute      milkmaid dress red
+5        throw         summer dressing   milkmaid dress purple
+6       summer            story button  milkmaid dress printed
+7        style           spectrum fear     milkmaid dress pink
+8       street        simplest formula   milkmaid dress petite
+9        story           shopping list     milkmaid dress mini
+10         spf           shirred waist     milkmaid dress midi
+11        sell        selfridge button     milkmaid dress maxi
+12  seamlessly       seemingly endless    milkmaid dress linen
+13      sandal          milkmaid dress       milkmaid dress ha
+14    requires               maxi slip  milkmaid dress gingham
+15    required  independently selected   milkmaid dress floral
+16   referring         incredibly chic    milkmaid dress cream
+17      pronto               gown silk   milkmaid dress button
+18     product        flattering style     milkmaid dress blue
+19     popular          fashion editor    milkmaid dress black
+
+https://www.glamourmagazine.co.uk/article/fashion-brands-to-know-2022
+            1-gram                2-gram                         3-gram
+0             wore          view gallery               view gallery kim
+1           winner        tiktokking gen              swimwear style wa
+2             wear     talking searching    sustainability slow fashion
+3               wa  super instagrammable                 skim ha teamed
+4           viewed   successful business             runner jumping 164
+5             view         sophie turner      provoking topic providing
+6   unsurprisingly         social medium              party ready piece
+7        triumphed          skim dressed        nostalgia heavy fashion
+8           target           skim collab            night fashion award
+9          tapping    shapewear solution        midriff flossing accent
+10        surprise        september 2020            michaela coel opted
+11    subsequently        sagal mohammed            marc jacob launched
+12       struggled              rise dua           major award ceremony
+13           story            reed piece  mainstream fashion powerhouse
+14           start    pivot dramatically             label increased 49
+15         sneaker         pelvic cutout             jumped 49 compared
+16        shopping          outfit loved          jewelry brand missoma
+17             set   nodaleto attracting          hottest woman product
+18         serving          nensi dojaka             harry style search
+19            sell           music video          gender fluid approach
+
+https://www.instyle.com/fashion/clothing/80s-fashion
+           1-gram                2-gram                     3-gram
+0   wwwinstylecom   wwwinstylecom close         yeah grunge makeup
+1            worn          wear upgrade           wide leg trouser
+2           woman  wardrobe malfunction    timeless fashion lesson
+3         wearing    valentinos couture        time period pushing
+4            wear              toe pump           time naked dress
+5            wave           time beauty        tapered puff sleeve
+6        wardrobe              tab term      tab login sweepstakes
+7              wa           tab instyle      tab copyright instyle
+8         vibrant        tab california         sweat proof makeup
+9      understand        sydney sweeney     sleek foundation piece
+10          tulle        sweater moment   skin undertone celebrity
+11        tucking       surprising snub    signature fashion color
+12         tucked     stylist lifestyle       secret fashion trend
+13          trick      style preference       royalty teresa jaide
+14          trend            storm reid            red carpet feat
+15    trailblazer           stay intact          rated body shaper
+16           time  signature turtleneck    problematic zodiac sign
+17      tightness       shapewear piece  naomi campbell appearance
+18      terrified      servicethis link          mini skirt decked
+19           talk           sequin pair        mere presence break
+
+https://www.instyle.com/fashion/clothing/colorblocking-trend-spring-2022
+           1-gram                2-gram                    3-gram
+0            yeah           york london         york fashion week
+1   wwwinstylecom   wwwinstylecom close        yeah grunge makeup
+2            worn            white shoe        toned cutout dress
+3         wearing          wearing pink          time naked dress
+4            wear          wear upgrade     tab login sweepstakes
+5            wave  wardrobe malfunction     tab copyright instyle
+6        wardrobe       versatile print        sweat proof makeup
+7              wa    valentinos couture      spring shopping list
+8    unexpectedly  underrated accessory           spring 22 trend
+9      understand           toned trend          spring 22 option
+10          twist           toned piece          spring 2022 feel
+11          trick           time beauty   specific styling choice
+12       trending            teal shirt         solid piece coach
+13          trend              tab term  skin undertone celebrity
+14    trailblazer           tab instyle   signature fashion color
+15           time        tab california        sexy cutout design
+16            tie        sydney sweeney      season hottest trend
+17      terrified       surprising snub        red patbo embraced
+18           talk           subtle pink           red carpet feat
+19            tab     stylist lifestyle         rated body shaper
+
+https://www.instyle.com/fashion/clothing/best-summer-2021-fashion-trends-in-your-closet
+           1-gram                2-gram                    3-gram
+0             y2k   wwwinstylecom close        yeah grunge makeup
+1   wwwinstylecom          wear upgrade          wear puff sleeve
+2           worth            wear strap      wear oversized shirt
+3            worn            wear scarf           wear mini skirt
+4       whimsical             wear crop  voluminous blanket dress
+5         wearing             wear boot       twisted halter neck
+6            wear  wardrobe malfunction          time naked dress
+7            wave    wardrobe essential     tab login sweepstakes
+8              wa    valentinos couture     tab copyright instyle
+9           viral           ugly sandal        sweat proof makeup
+10    understated  typically considered        summer outfit idea
+11     understand           time beauty          summer 2021 wear
+12         tucked             tiktok ha          summer 2021 grab
+13           true         tamara mellon     statement earring opt
+14        trouser              tab term  skin undertone celebrity
+15          trick           tab instyle   signature fashion color
+16       trending        tab california          sexy 00s fashion
+17          trend        sydney sweeney           red carpet feat
+18    transformed      swimsuit coverup         rated body shaper
+19    trailblazer       surprising snub   problematic zodiac sign
+
+https://www.vogue.in/fashion/gallery/meet-the-10-breakout-models-of-spring-2022
+          1-gram             2-gram                          3-gram
+0          wowed  youthful elegance           zealander lucy rosiek
+1        wedding  worth remembering               york london milan
+2           wave           walk key          venezuelan rising star
+3             wa         wa walking             sydney fashion week
+4          vogue        wa destined            star studded tribute
+5        virtual       vogue italia                  spring 2022 wa
+6    versatility    victoria secret          spring 2022 collection
+7      venezuela   valentino lanvin              sir curtly ambrose
+8     university      theater major            season emhoff walked
+9         unique     stylish surfer          proenza schoulers jack
+10  transforming    stylish student              prada hofer proved
+11         touch     striking shade              music biggest star
+12         toast      stellar debut            moment majesty amare
+13        summer      social medium                  modeling wa le
+14       success    singular beauty    international travel allowed
+15         style      sibling heard  international crossover moment
+16         stand    serene presence       impressiveshe count brand
+17         sport     season biggest        factory proenza schouler
+18        splash        sample size         custom stella mccartney
+19      speaking      runway moment            cricket icon beyonce
+
+https://thevou.com/fashion/egyptian-clothing/
+      1-gram           2-gram                         3-gram
+0      zahan      zaam design           zaam design workshop
+1     yellow          yeya ha              york fashion week
+2      worse   woman egyptian             woman velvet abaya
+3       worn    woman couture    woman silhouette suffocated
+4      woman      western cut               winter 2022 trip
+5      weird  western country              wear light fabric
+6    wearing       wear hijab   traditional element discover
+7       wear    wear clothing  traditional egyptian clothing
+8       wave     wa nominated      tracksuits adult egyptian
+9       walk       vou search      sustainable sneaker brand
+10      wait   vintage finish      sturdy gold embellishment
+11     waist    vibrant color        striking color speaking
+12        wa   vaporous linen                  storm hana wa
+13       vou     unique style         special discover fresh
+14     voice   unique display           sneaker ethically 10
+15      view  turban skullcap            single color outfit
+16  uniquely  true definition            short sleeved shirt
+17    unique        trip save       renown egyptian designer
+18  uncommon     trend setter          printed pattern trend
+19      type         trend 20     polished craft constructed
+
+https://www.instyle.com/fashion/clothing/empire-waist-dress-trend
+           1-gram                  2-gram                         3-gram
+0   wwwinstylecom     wwwinstylecom close             yeah grunge makeup
+1            worn              wow moment       warmer weather condition
+2         wearing              woman wore               time naked dress
+3            wave            wear upgrade          tab login sweepstakes
+4              wa    wardrobe malfunction          tab copyright instyle
+5       virtually      valentinos couture             sweat proof makeup
+6      understand  universally flattering       skin undertone celebrity
+7           trick              trend shop        signature fashion color
+8           trend           trend putting              regency era style
+9     trailblazer             time beauty                red carpet feat
+10      terrified                tab term              rated body shaper
+11           talk             tab instyle        problematic zodiac sign
+12            tab          tab california          prince harry parallel
+13         summer          sydney sweeney  naturally fashion influencers
+14         subtle         surprising snub      naomi campbell appearance
+15        subject              super easy            mere presence break
+16          style       stylist lifestyle                  maxi 90 style
+17       straight         stunning outfit          lister jennifer lopez
+18      statement              storm reid           laura brown shopping
+19          start         square neckline            kim kardashian west
+
+https://www.glamourmagazine.co.uk/gallery/what-to-wear-after-lockdown
+        1-gram                  2-gram                       3-gram
+0        worry             utter dread          wardrobe block fear
+1         worn          ultimate throw  trivial worry rediscovering
+2         wing                 talk ha         perfect summer dress
+3     wardrobe         summer combined       obvious health anxiety
+4       viewed               star sign    fashion editor recommends
+5        touch              spend time  collective tentative effort
+6   thankfully       simplest addition                             
+7    suffering            shoulder cut                             
+8        story        sartorial matter                             
+9       staple            public space                             
+10    slipping            portrait cut                             
+11    shoulder  independently selected                             
+12       sense         global pandemic                             
+13        sell            gentle nudge                             
+14      rotaro       elasticated waist                             
+15     riddled          easiest season                             
+16     product             dark tunnel                             
+17  originates        collective sense                             
+18    occasion         charlie teather                             
+19       month          arrival albeit                             
+
+https://www.glamourmagazine.co.uk/article/new-colour-clash-rules
+        1-gram                  2-gram                      3-gram
+0       yellow           winner winner            wear lairy shade
+1        white             white shirt        warmer weather mixed
+2      wearing       wfh staycationing     unexpected colour clash
+3         wear             wear colour              sweet blue bag
+4         wary  unexpected mixlavender         summer colour combo
+5     wardrobe        unexpected bonus          proven mood lifter
+6           wa            tonal sunset             pale colour pop
+7       viewed           toe including         pale citrus sherbet
+8   tracksuits      tamumcpherson read       neon highlighter tone
+9         time     surprise appearance             ideal baby step
+10  taramays25             summer 2021            fresh light tone
+11  surprising         statement piece       freedom fashion lewks
+12    sunshine            spent plenty         favourite blue jean
+13    summerit             sound weird   fashion insider favourite
+14      summer            sorbet shade            dark brown shade
+15       style             shade break            cool toned dress
+16       story               red clash    colour clashing rulebook
+17       stand        palette cleanser  choose carefully accessory
+18    spectrum         orange ensemble         chic black ensemble
+19   spearmint          optimum impact           carrier bag extra
+
+https://www.glamourmagazine.co.uk/gallery/best-crop-tops
+         1-gram            2-gram                   3-gram
+0       wrapped         wrap crop     y2k inspired madness
+1        volume        white crop        waist linen short
+2        viewed   waisted trouser        summer dress crop
+3         tummy       tiny sliver       story crochet cami
+4       trickle  sustainable crop   selfridges ribbed crop
+5       trainer     summer scroll       puffed sleeve crop
+6          team     street joined     major fashion moment
+7   sustainably      strappy crop      indigo 2599 topshop
+8          suit       sleeve crop  cotton blend halterneck
+9         style  sleek silhouette           bra black crop
+10        story      short sandal      body skimming style
+11      started        saint crop        blouse style crop
+12     spending        ready crop      ab revealing moment
+13         skin    pleated sleeve            195 cult gaia
+14         sits   oversize blazer                         
+15    signature     official crop                         
+16         shop     natural match                         
+17        shirt        linen crop                         
+18         sell    kendall jenner                         
+19   selfridges  individual style                         
+
+https://www.glamourmagazine.co.uk/gallery/marks-and-spencer-sale
+         1-gram                   2-gram                   3-gram
+0        window            varying stage     wearing real clothes
+1          week             summer dress        trend ballet flat
+2      wardrobe              summer 2021     summer wardrobe fear
+3       waiting           suddenly start       summer sale season
+4   unappealing         subsequent stage        pedicure kit bear
+5       trouser            shopping list        mark spencer sale
+6         topic              sale season  charlie teather serving
+7        summer       recommend shopping      casual summer dress
+8        street               neck dress           18 month spent
+9         story   independently selected                         
+10        start          floral swimsuit                         
+11      special              fashion fan                         
+12        sound           fashion editor                         
+13         sell           family wedding                         
+14   satisfying            equal measure                         
+15     remember             epic bargain                         
+16         real         discounted price                         
+17   purchasing  comfortable lightweight                         
+18      product          charlie teather                         
+19        piece       british staycation                         
+
+https://www.glamourmagazine.co.uk/gallery/zara-summer-2021-collection
+         1-gram                         2-gram                          3-gram
+0      wardrobe                     zaras epic                zara summer 2021
+1    tracksuits                 wear launching  thankfully everyones favourite
+2     tracksuit  uncharacteristically decadent         street shopping fashion
+3         topic                  shopping list                   month ha left
+4        thrill                    safely meet        indulgent loungewear hey
+5        street                     pub garden             fashion editor pick
+6         story                  plate serving              fair weather piece
+7   smorgasbord                matching hoodie       brilliant timeless staple
+8        served                    lost memory                                
+9          sell               lockdown uniform                                
+10    selection         independently selected                                
+11    seemingly                 fashion editor                                
+12      roadmap                   dusty orange                                
+13       return                  dramatic maxi                                
+14         real             contemporary twist                                
+15      product                collective lack                                
+16          pit                charlie teather                                
+17        piece                charlie chooses                                
+18     penchant                      bar swoon                                
+19     occasion           affiliate commission                                
+
+https://www.purewow.com/fashion/editors-spring-picks-email
+         1-gram                 2-gram                   3-gram
+0          wear         trending share      valid email address
+1        trendy         thigh skimming       spring fashion btw
+2      thanksim         term condition        recipe box forgot
+3      swimsuit              taste bud         recipe box close
+4        summer         story trending    purewow recipe recipe
+5   subscribing  sleeveless turtleneck  password required enter
+6      straight            shirt dress     instantly add polish
+7         story           sandal enter    heel totally walkable
+8        spring         sale subscribe     flattering waist tie
+9          song       registered email      fashion editor pick
+10         sign           purewow sign     facebook close close
+11   sharingnow            purewow fan         basic black tank
+12         save         privacy policy       agolde pinch waist
+13       sandal        password create      account close close
+14         sale         password close            10 slip dress
+15         saks         partner manage                         
+16       remove      including legging                         
+17         rely            hate pretty                         
+18      reading            family sale                         
+19         read               dress ha                         
+
+https://www.instyle.com/fashion/clothing/skort-fashion-trend-outfit-ideas
+           1-gram                2-gram                    3-gram
+0             zip             yoga pant        yeah grunge makeup
+1   wwwinstylecom   wwwinstylecom close          woman ankle gasp
+2            worn          woman fumble      true wardrobe staple
+3       wonderful           woman dress          time naked dress
+4           whove          wear upgrade     tab login sweepstakes
+5         weekend  wardrobe malfunction     tab copyright instyle
+6         wearing     vegetable fashion        sweat proof makeup
+7            wear     vega specializing   stylist krista gonzalez
+8            wave    valentinos couture  skin undertone celebrity
+9              wa               tye dye         simple shoe trick
+10          video             tube sock   signature fashion color
+11     university     traditional skirt          short aka skorts
+12    understated     traditional short      season hottest trend
+13     understand      timeless pairing    romantic silk camisole
+14          trick           time beauty           red carpet feat
+15          trend              tab term         rated body shaper
+16    trailblazer           tab instyle   problematic zodiac sign
+17           told        tab california    pinstripe skort styled
+18           time         symbolic item      original clip posted
+19         tiktok        sydney sweeney    nostalgia head stylist
+
+https://www.glamourmagazine.co.uk/gallery/spring-summer-2021-shoe-trends
+         1-gram                  2-gram                            3-gram
+0       whisper             whove spent    uncomfortable stiletto luckily
+1        viewed              wa spotted                summer staple shoe
+2   undoubtedly        undeniable trend        platform instagram content
+3         trend             summer 2021              perfect summer dress
+4       tempted           stompy staple                  padded flip flop
+5         tempt               star sign                  major shoe trend
+6   technically             ss21 runway                key footwear trend
+7        summer        softer squishier  instagram charlieteather spotted
+8         style   season unsurprisingly             house slipper country
+9         story           season scroll         fashion forefront tempted
+10     stiletto            sandal trend                  fancy dad sandal
+11        sight          sandal aplenty            eighteen month wearing
+12         sigh         reigned supreme                     dad sandal wa
+13         shop          printed fabric  conveniently prioritised comfort
+14         sell             platform wa                  closed toe arena
+15         rife             pair broken               classic ballet pump
+16       return            nitty gritty                  buyer alike fell
+17    reopening          le intimidated                                  
+18       relief                jason wu                                  
+19      putting  independently selected                                  
+
+https://www.glamourmagazine.co.uk/article/made-to-order-fashion
+         1-gram                 2-gram                       3-gram
+0      wasteful          vintage quilt             wild folk studio
+1      wardrobe            unsold item             wardrobe 30 time
+2       waiting            unfolded 30      vintage branded garment
+3            wa            true labour            view gallery asda
+4       vintage       trialling create           street ha cottoned
+5        viewed              trend led      signature bohemian vibe
+6      unfolded              trend doe         scrunchies drop sell
+7   transparent    sustainable shopper        reduce fabric wastage
+8        tiktok              style sin            pre loved fashion
+9         stuff           street price      label instagram content
+10        story   storeover production       garment worker shopper
+11     stepping            sound fancy          cottage core appeal
+12         sold       shop consciously      business model focusing
+13         size        shameful secret  brilliant independent brand
+14       single      repairing wearing       brand customer service
+15      shopper           ralph lauren  alexandra fullerton wearing
+16         shop  profit sustainability                             
+17        shake       planet switching                             
+18          set       patchwork jacket                             
+19         sell               mary mum                             
+
+https://www.purewow.com/fashion/summer-color-trends
+         1-gram              2-gram                      3-gram
+0         worth        winter month  wonderfully vibrant season
+1          worn          white gold         warm undertone shop
+2         woman     voluminous midi        vivid handbag paired
+3          wear         vibrant pop         valid email address
+4         trick      trending share        trend wednesday girl
+5         trend      term condition             size maxi dress
+6           toe           taste bud           recipe box forgot
+7          time  superbright yellow            recipe box close
+8      thanksim     summer wardrobe       purewow recipe recipe
+9         super    summer subscribe     password required enter
+10       summer         summer heat            pale springy hue
+11  subscribing        summer enter          neutral hued short
+12        style       subdued shade           light brown shade
+13     straight     structured suit       instagram reveals lot
+14        story      story trending           gold jewelry shop
+15     sticking    steadily growing            flowy maxi dress
+16        stand      spotlight shop        facebook close close
+17       spring        splurge pair          eye catching shade
+18      slowing           skin tone            casual jean shop
+19         sign           share pin             brand dress 319
+
+https://www.instyle.com/fashion/clothing/lurex-swimwear-fashion-trend
+           1-gram                2-gram                     3-gram
+0            yarn   wwwinstylecom close         yeah grunge makeup
+1           yacht          wear upgrade           time naked dress
+2   wwwinstylecom  wardrobe malfunction      tab login sweepstakes
+3           woven    valentinos couture      tab copyright instyle
+4            worn               true 70         sweat proof makeup
+5         wearing           tiny bikini         sporty tank bikini
+6            wave           time beauty   skin undertone celebrity
+7         waisted       textured manner       simple black maillot
+8              wa              tab term    signature fashion color
+9       variation           tab instyle    shoulder swimsuit share
+10        uniform        tab california            red carpet feat
+11     understand        sydney sweeney          rated body shaper
+12          trick   swimwear collection    problematic zodiac sign
+13     translated       surprising snub       piece swimsuit hunza
+14    trailblazer           summer shop        piece french bikini
+15         thread     stylist lifestyle  naomi campbell appearance
+16      terrified       sturdy material        mere presence break
+17           talk             studio 54       lurex swimsuit trend
+18            tab     string silhouette      lister jennifer lopez
+19       swimsuit            storm reid       laura brown shopping
+
+https://www.glamourmagazine.co.uk/gallery/and-other-stories-summer-sale
+            1-gram                   2-gram                        3-gram
+0             week              winter coat         utility shirt reduced
+1             wear         unofficial title      superga platform sneaker
+2         wardrobe             street store               street store ha
+3   unsurprisingly               story read       street shopping fashion
+4            trust         shopping impulse             story summer sale
+5       tracksuits               quick sell          story 75floral print
+6            topic            month basking                    flat 75 29
+7             time          minute lockdown  coronavirus induced lockdown
+8         switched   independently selected         2020 summer aesthetic
+9           street                 hump day                              
+10           story           hallway mirror                              
+11        stopping  government announcement                              
+12           spent           fashion editor                              
+13        shopping               epic dress                              
+14          settle              chunky boot                              
+15            sell          charlie teather                              
+16          season                basket 41                              
+17            save                 aka midi                              
+18        required     affiliate commission                              
+19        replaced           actual clothes                              
+
+https://www.purewow.com/fashion/square-toe-sandals
+         1-gram                2-gram                         3-gram
+0         wrong           woven slide          woven fisherman style
+1       wearing         woven leather              win win situation
+2          wear           white print            valid email address
+3      wardrobe              toe lend         thicker block combined
+4          vibe        term condition                  super fun pop
+5     venturing             taste bud              summer 2021 enter
+6    understand       summer wardrobe              square toe sandal
+7      trending      summer subscribe                square toe pump
+8         train              summer 1               slinky flip flop
+9         touch        story trending              sleek shift dress
+10          ton            square toe         simple metallic sandal
+11     thanksim            sleek mule             simple kitten heel
+12      support          simple slide              recipe box forgot
+13       summer           simple mule               recipe box close
+14  subscribing             share pin                reading 20 pair
+15       strong          sandal offer          purewow recipe recipe
+16     straight     rhinestone galore  podiatrist approved territory
+17        story      registered email                plain flip flop
+18        stock  reformation clothing        password required enter
+19         stay          rachel green             matching boxer set
+
+https://www.glamourmagazine.co.uk/article/juno-dawson-meat-market-extract
+          1-gram           2-gram                         3-gram
+0        youfive       yeah enjoy             topic book fashion
+1          wrong       wide berth               tome meat market
+2        worried        walk fast            time laurel pretend
+3          white      voice shade            thorpe fucking park
+4        wearing       voice drop            summer read country
+5           wary        train car        skanky bastard honestly
+6        walking         tom step               school trip fuck
+7           walk        tom smile              school ha brought
+8          waist       tom carney            represent clara key
+9             wa    timely expose             office laurel sort
+10         vouch       tidal wave          modelling agency hold
+11         voice      thumb trace        model management agency
+12         visit      thorpe park                 love clara key
+13  unsuccessful       theme park                  loo laurel ha
+14       tugging  swearlaurel nod            listen tom saystake
+15         treat       swarm pelt                jana jana novak
+16         trash      summer read                hot dog mustard
+17      touching    stealth gross  heelshe smile sympathetically
+18          tone  spanish tourist     hawaiian tropic candyfloss
+19           tom       shout crap              grin jana frankly
+
+https://www.purewow.com/fashion/summer-vacation-packing-essentials
+         1-gram                2-gram                   3-gram
+0         wrong           worn thrown    white ergonomic slide
+1          worn       window shopping      valid email address
+2       weather        waisted bikini  upcycled silk scrunchie
+3       waisted      versatile sarong             time win win
+4     universal        trending share       tax payment option
+5     underwear       trend essential    subtle metallic sheen
+6       tripand            town bonus       shop select affirm
+7          trip          touring town              share 4 pin
+8         trend          tone trainer  return affirm financing
+9     traveling         therecan feel     retro runner sneaker
+10       travel        term condition        recipe box forgot
+11        touch             taste bud         recipe box close
+12         time   sustainable fashion               rag bone 4
+13     thanksim  surprisingly elegant    purewow recipe recipe
+14     swimsuit      super flattering  password required enter
+15     surprise            super easy       neutral shade wear
+16    sunscreen       summer vacation          neiman marcus 4
+17       summer          summer trend      mom krystalyn laura
+18     suitcase        suitcase check      memory foam footbed
+19  subscribing         stylish flair             kid sand toy
+
+https://www.instyle.com/fashion/clothing/side-tie-string-bikini-bottom-trend
+           1-gram                2-gram                     3-gram
+0   wwwinstylecom   wwwinstylecom close         yeah grunge makeup
+1           wrong          wear upgrade        vintage period belt
+2            worn  wardrobe malfunction      vibrant color pattern
+3       wondering    valentinos couture        twisted halter neck
+4         wearing       vacation season           time naked dress
+5            wear       urban outfitter        thong string bikini
+6            wave          totally sold      tab login sweepstakes
+7           water           time beauty      tab copyright instyle
+8              wa          tiktok video         sweat proof makeup
+9         variety             tie style   skin undertone celebrity
+10         upside       throwback trend    signature fashion color
+11          unsee              tab term            red carpet feat
+12     understand           tab instyle          rated body shaper
+13          trick        tab california    problematic zodiac sign
+14       triangle        sydney sweeney  naomi campbell appearance
+15       trending       surprising snub        message print print
+16          trend         superdown liv        mere presence break
+17    trailblazer          super cheeky        lover friend fajima
+18            ton     stylist lifestyle      lister jennifer lopez
+19           time         string bikini       laura brown shopping
+
+https://www.purewow.com/fashion/spring-shoe-trends
+         1-gram              2-gram                        3-gram
+0        winter       wfh sweatsuit                waist mom jean
+1       version       wear converse          vintage vibe lacoste
+2    vaccinated         thicker sol           valid email address
+3     upgrading      term condition               uber comfy kick
+4         trend           taste bud         stella mccartney wear
+5         touch   tailored separate            spring summer 2021
+6       thinare         sweat short             spring shoe trend
+7      thanksim          strap pair             soled dad sneaker
+8   subscribing      story trending               silk slip dress
+9     subscribe   spring collection        showcased style paired
+10      stylish     spotted wearing             recipe box forgot
+11        style         sporty kick              recipe box close
+12    structure    slide espadrille       quarantine pod continue
+13    strolling  sleeker silhouette         purewow recipe recipe
+14     straight    simply strutting  practical footwear including
+15        story        simone rocha       password required enter
+16        stick           share pin         museum meeting friend
+17      stepped      september shop    multiple runway collection
+18       spring         salon slide         mule chain linksthick
+19         sock       rooftop drink         majorly mixed feeling
+
+https://www.glamourmagazine.co.uk/article/neon-bikini-uk-trend
+          1-gram               2-gram                   3-gram
+0           week        yewande amber        vibrant colour ha
+1          villa             word bev     sporting neon bikini
+2         viewed         summer trend      including molly mae
+3         street    single kardashian   fashion swimwear lewks
+4          story   single incarnation    fashion pack drooling
+5       shortage        phrase coined   coachella shine bright
+6        serving       oriana findlay  clothing item featuring
+7        selling        notable trend                         
+8           sell        neon swimwear                         
+9         search          neon bikini                         
+10        plenty          love island                         
+11        pastel       islander lucie                         
+12    originates    influencers alike                         
+13     multitude   favourite islander                         
+14  largechevron       endless season                         
+15      islander      charlie teather                         
+16         image  alexandra fullerton                         
+17           hue         313 increase                         
+18        hoping             1 search                         
+19       glamour                                              
+
+https://www.glamourmagazine.co.uk/gallery/hm-spring-sale
+       1-gram                  2-gram                       3-gram
+0        wise           wardrobe fear          week partial easing
+1     wearing          topic shopping  stock notification switched
+2        wale             street sale     savviest shopper luckily
+3   viability             spring sale               real life feel
+4       trawl          spent confined          reading sale season
+5       touch           social medium            hard earned penny
+6        time      social interaction    awaited salon appointment
+7    surprise                 sale 20         3807 discounted item
+8       story    restaurant reopening                             
+9       store        relentless swarm                             
+10   sticking                real gem                             
+11    started               pronto 20                             
+12     spruce               pour cook                             
+13      spend           post lockdown                             
+14       sofa       personal wardrobe                             
+15    society     matching tracksuits                             
+16       snap  independently selected                             
+17     smidge               inch heel                             
+18       sell     figuratively online                             
+19   scrolled    favourite loungewear                             
+
+https://www.instyle.com/fashion/clothing/the-summer-3-fashion-rule-is-the-seasons-best-outfit-idea
+           1-gram                  2-gram                        3-gram
+0   wwwinstylecom     wwwinstylecom close            yeah grunge makeup
+1            wrap            wear upgrade              time naked dress
+2           worry    wardrobe malfunction         tab login sweepstakes
+3            worn            vibrant pair         tab copyright instyle
+4       whimsical      valentinos couture            sweet floral dress
+5         weather             time beauty            sweat proof makeup
+6         wearing              tad chilly                 summer 3 rule
+7            wear                tab term  strap embellishment footwear
+8            wave             tab instyle            smart outfit trick
+9           waist          tab california      skin undertone celebrity
+10             wa          sydney sweeney       signature fashion color
+11       vacation  surprisingly versatile      season steamy reputation
+12           urge         surprising snub               red carpet feat
+13         uptick           summer staple             rated body shaper
+14     understand                summer 3       problematic zodiac sign
+15          trick       stylist lifestyle        playful fashion choice
+16    trailblazer          strappy sandal        platform metallic lace
+17           tiny              storm reid     naomi campbell appearance
+18           time           sleeved style           message print print
+19          throw             sleeve play           mere presence break
+
+https://www.glamourmagazine.co.uk/gallery/bra-accentuation-trend-ss20
+       1-gram                  2-gram                    3-gram
+0        wear          wore underwear     story contrast stitch
+1          wa                wa music         sheer mesh blouse
+2   underwear          velvet bandeau      sheer layering trend
+3       trend               sun start  sequin accentuation vest
+4    tomorrow          street fashion     exposed cup detailing
+5        tick           story leading    bra accentuation trend
+6    tendency       stitched detailed                          
+7      summer          spring country                          
+8      street          sophie cockett                          
+9       story              slip dress                          
+10  stitching         sleeve textured                          
+11     stitch                sale fyi                          
+12       stay        pretty bralettes                          
+13      shirt         pretty bralette                          
+14      shine         outerwear trend                          
+15        set                lace bra                          
+16       sell  independently selected                          
+17     season              grew tired                          
+18     rocked          draw attention                          
+19       rock         classier update                          
+
+https://www.glamourmagazine.co.uk/article/net-a-porter-global-trends
+        1-gram                    2-gram                   3-gram
+0       wealth           worn championed            robe 899 meng
+1      vibrant              winter month   porter charlie chooses
+2    versatile   unrestricted silhouette    pastel colour palette
+3    vancouver           timeless staple         kaftan 895 erdem
+4        trend           summer splashed      jacket 790 burberry
+5       tailer              summer 2021s        hong kong country
+6       sydney               summer 2021  global designer fashion
+7        story              stylish city         gallery 27 photo
+8       spoken                 style set   exclusive inspo bubble
+9       sought               style brand           dress 840 etro
+10     shopper           statement piece     dress 630 zimmermann
+11        sell           social platform    dress 1230 zimmermann
+12  restrained     sartorial inspiration         dress 1135 chloe
+13       reach       personal preference    designer item selling
+14      rarely            match separate            bag 450 loewe
+15       punch             joyful colour           bag 2150 loewe
+16     proving                 job title       bag 2100 valentino
+17     product  instagram charlieteather           bag 1670 gucci
+18       privy    independently selected           bag 1100 loewe
+19      porter            image supplied         2028 kenneth ize
+
+https://www.vogue.in/fashion/content/i-want-to-emphasise-the-beauty-of-the-country-maria-grazia-chiuri-on-hosting-diors-cruise-2022-collection-in-athens
+       1-gram                2-gram                              3-gram
+0   worldwide      woman trajectory              powerful female figure
+1   worldfrom               view ha                paris match magazine
+2       woman   understanding woman           luxury fashion powerhouse
+3     wedding     translate element                local press reported
+4        walk      traditional dish  international fashionfrom designer
+5          wa            time speak               female empowerment ha
+6     voguegr          team visited              entire western culture
+7      vision       team engagement                  diorthe photo shot
+8     viewing    started travelling                    dior ha received
+9        view         staff arrived              dior creative director
+10     unveil        southern italy           deeply personal adventure
+11  universal  sophia kokosalakifor               debut ss17 collection
+12       trip         snake goddess                    day trust chiuri
+13       town         skewered meat                 challenge greece wa
+14       time         shirt excerpt         article originally appeared
+15       team    savouring souvlaki                                    
+16     taught       recurring theme                                    
+17    talking          puglia italy                                    
+18     talent  presentwill continue                                    
+19      study   mythologised island                                    
+
+https://www.vogue.in/fashion/content/here-are-the-seven-finalists-competing-for-the-2022-international-woolmark-prize
+             1-gram                   2-gram                          3-gram
+0               win         woolmark company       winner receiving au100000
+1           wedding               wa created                   usa rui china
+2             total          thinking design  traditional technique courtesy
+3             theme           textile design                tim blank editor
+4         supported               suket dhir         sustainable practice ha
+5             stock            social medium                   rui sual nash
+6        showcasing           simple mission            prestigious award ha
+7              sell    rewarding outstanding       menswear ruchika sachdeva
+8   revolutionising  recognising celebrating            match fashion ssense
+9            region         receive au200000            karl lagerfeld award
+10        recurring        program education              iwp retail partner
+11          program          priya ahluwalia    international woolmark prize
+12            prize       previous recipient            fashion award winner
+13           porter           namesake label         design competition task
+14             play              merino wool     brighter future shortlisted
+15      participant     mentoring initiative          australian merino wool
+16            panel            local artisan             2022 woolmark prize
+17      opportunity      industry mentorship               2014 rahul mishra
+18         nigerian          indian designer                                
+19            label           indian descent                                
+
+https://www.glamourmagazine.co.uk/article/sexy-fashion-trend
+         1-gram                        2-gram                          3-gram
+0       wrapped             womenswear belief            summer sexiest trend
+1          wear                       win win                style liane note
+2      wardrobe              super flattering           strong feminine trend
+3         trend                     style set               strong colour pop
+4    tracksuits                   social feed              skinny girl summer
+5          town                skin desperate             sexy dressing bring
+6      thrilled                 sexy dressing         nensi dojaka maximilian
+7           tbh                  sexier dress  nensi dojaka matchesfashioncom
+8           tap                   real uplift         london catwalk schedule
+9      sunshine                   perma trend              liane wiggens head
+10    succumbed           original supermodel                  june 21st read
+11      styling               michael halpern                 hot girl summer
+12        style     matchesfashioncom shopper          glamourous short tight
+13        story                   lose weight                 gallery 7 photo
+14        steer                  liane agrees               curve hugging cut
+15  socialising                     june 21st         christopher kane ashish
+16         skin               intricate strap                                
+17         size                interpret sexy                                
+18    signature  instagram alexandrafullerton                                
+19        short        independently selected                                
+
+https://www.purewow.com/fashion/mom-and-dad-fashion-trends
+         1-gram             2-gram                        3-gram
+0           xxl        wrong enter       waisted pleated trouser
+1            xl  widespread change             verywell mind add
+2         woman          wear item           valid email address
+3       wearing        wear affect              summer share pin
+4          wear            wa born  stereotypical parent fashion
+5       walking    unexpected rise          shakaila forbes bell
+6            wa     trending share             recipe box forgot
+7   uncertainty   trend forecaster              recipe box close
+8          true     term condition         purewow recipe recipe
+9         trend          taste bud       password required enter
+10      totally  surprising source      parent inspired clothing
+11         time     stressful time         midi voluminous dress
+12       thrive     story trending          mental health expert
+13      thinner        starter mom            looser dowdier cut
+14     thinking        skinny jean           legging helped blur
+15    therapist            size 25            le aggressive kick
+16     thanksim            size 14    huge balenciaga silhouette
+17         tall             size 0            feel le restricted
+18       talked       shopbop told         father figure lending
+19     surprise     robin williams          facebook close close
+
+https://www.glamourmagazine.co.uk/gallery/zebra-print-trousers
+      1-gram                        2-gram                     3-gram
+0       zhuj                 zebra trouser           zebra super easy
+1      zebra                 waist version        zebra print trouser
+2       wild                 ultimate pair        zebra print legging
+3      white                     style set           wide leg trouser
+4       wary           statement jewellery            upside doe pair
+5   wardrobe                portercom save      toffee coloured flare
+6     upside                   plain white     reclaimed vintage jean
+7    trouser                     pink lime       porter discount code
+8      trend                   perma trend  monochrome colour palette
+9       tone                    outfit pop         halperns silk pair
+10       tap                 neutral shade         friday night drink
+11      tank                   natural pal      designer version cult
+12     sunny             monochrome stripe     coherently styled lewk
+13     style                     mind obvs            brand khaite ha
+14    stripy                   major trend           bold print black
+15   stretch                 leopard print      alex fullerton follow
+16     story        keeping sustainability                           
+17    staple  instagram alexandrafullerton                           
+18    spring        independently selected                           
+19      shop               golden metallic                           
+
+https://www.vogue.in/fashion/content/pantones-2022-colour-of-the-year-very-peri-embraces-strangeness
+         1-gram              2-gram                      3-gram
+0          zoom          video game  yellow called illuminating
+1         worth      vice president         warming purple tone
+2      wellness   trend forecasting      tomo koizumi embracing
+3          week         steff yotka        tenor shifting brand
+4       wedding         spring 2022   release pantone explained
+5            wa       shade flashed   periwinkle plant offering
+6   uncertainty       saint laurent    pantone colour institute
+7        tunnel      runway reflect              lanvin chet lo
+8          tone           peri save       contrast game popular
+9       talking        peri eiseman    balenciaga louis vuitton
+10     surprise      perfect colour          2021 ultimate gray
+11     struggle      pantone colour                            
+12        sport     omicron variant                            
+13       source       louis vuitton                            
+14      signify      lilac lavender                            
+15         sign    leatrice eiseman                            
+16        shade     laurie pressman                            
+17         sell         late spring                            
+18  screenshots  india largechevron                            
+19       screen             ha root                            
+
+https://thevou.com/fashion/sustainable-fashion/
+           1-gram                  2-gram                           3-gram
+0              xx               york city              whopping 7000 liter
+1       worthless           woman aspires  wasteful manufacturing practice
+2          worker              wind solar             waste creation water
+3        wildlife  wikipedia greenwashing             vegan protect animal
+4       wikipedia         western culture             vegan leather jacket
+5         welfare            water supply             vegan clothing brand
+6            week         washing garment         upcycled fashion ensures
+7            wear          waisted bikini   understated piece highlighting
+8        waterway              vou search            total energy consumed
+9           water         viable solution             textile waste dumped
+10       wasteful           vegan fashion        textile waste decomposing
+11          waste           vacation time     sustainable fashion upcycled
+12        washing              usage wear     sustainable fashion practice
+13       wardrobe       upcycled material     sustainable fashion industry
+14           wage        upcycled fashion       sustainable fashion expert
+15            vou               uni study      sustainable fashion ethical
+16          vital             trend piece        sustainable fashion brand
+17          vegan    treated respectfully          sustainable fashion aim
+18            usa          toxic chemical           sustainable fashion 10
+19  unsustainable            total energy     sustainable clothing company
+
+https://www.glamourmagazine.co.uk/article/bec-and-bridge-fashion-label-kim-kardashian
+        1-gram                  2-gram                    3-gram
+0      wearing      strong possibility         view gallery cult
+1       viewed       millie mackintosh         sound style sense
+2     surprise              lot cooler       insta feed suddenly
+3       summer           label founded    design school striking
+4        story          kim kardashian  commercially savvy brand
+5      stocked  independently selected  bold recognisable design
+6      snapped         growing success          bec bridge piece
+7   sisterhood         glowing success      aussie fashion label
+8    showcased          global success                          
+9         shop             fickle game                          
+10        sell       dressed celebrity                          
+11        rise              design duo                          
+12      reason          delish clothes                          
+13       pulse         charlie teather                          
+14     product             chance girl                          
+15       piece           bianca london                          
+16        pair              bec bridge                          
+17  originates            aussie label                          
+18     noticed      aspirational style                          
+19     meeting    affiliate commission                          
+
+https://www.glamourmagazine.co.uk/gallery/top-20-biker-jackets
+      1-gram                  2-gram                     3-gram
+0       worn         urban outfitter           wa marlon brando
+1      white            trouser suit       versatile pale shade
+2       wear         time immemorial     trans seasonal styling
+3      taupe         talking wedding            taupe 50 simbly
+4      style    sustainability stake       summer pastel colour
+5     street          summer weather            pink sage cream
+6      story            summer dress     perpetually chic camel
+7     spring               style set       invest saint laurent
+8     simply          street fashion       faux leather version
+9       shop             sid vicious       fashion biker jacket
+10     shirt            score highly     ecru 3999 stradivarius
+11      sell          schott created       built capsule closet
+12      save        prevalent colour         black 4999 topshop
+13     saint          portercom save       biker jacket whistle
+14      rest            outfit sling     biker jacket warehouse
+15       red          obvious winner       biker jacket topshop
+16   ramones               kate moss  biker jacket stradivarius
+17  properly  independently selected        biker jacket simply
+18   product          favourite jean          biker jacket raey
+19    plenty        fashion director         biker jacket oasis
+
+https://www.glamourmagazine.co.uk/gallery/best-modest-summer-dresses
+         1-gram                  2-gram                             3-gram
+0         wrist                tie neck                summer dress saloni
+1          wrap              tie collar                 smart city wedding
+2        viewed            summer dress               sleeve swimsuit read
+3           tie            sneaky split                 sleeve smock dress
+4        ticked             sleeve asos                      sky blue silk
+5   temperature         selfridges save                 salonis maxi dress
+6           sun            prefer dress              pretty damn difficult
+7      stunning          portercom save               porter discount code
+8         story          pleated sleeve                modest summer dress
+9       soaring           pleated skirt                  modest maxi dress
+10       sleeve        orange accessory                  mixed print ideal
+11        skirt         modest swimwear  instagram alexandrafullerton maxi
+12         shop            modest dress        dress totally inappropriate
+13         sell            model height                  dreamy silk dress
+14         save           mixed gingham              diane von furstenberg
+15        reach          instagram obvs         coverage dressing modestly
+16      product  independently selected                coast discount code
+17        print         favourite dress                                   
+18       plenty        fashion director                                   
+19         pink                 edit ha                                   
+
+https://www.glamourmagazine.co.uk/gallery/summer-wedding-guest-dresses
+       1-gram                    2-gram                   3-gram
+0        wore          wedding starting     whimsical mini dress
+1        wear              wedding snap      wedding guest dress
+2   warehouse             wedding guest  summer wedding flooding
+3        tove           wedding content    online clothing store
+4       tough            ty vaccination        instagram feed rn
+5     totally            tracksuit sans   hailey bieber remember
+6        time          sweltering clime      garden party galore
+7         sun           street stalwart       factory black mini
+8      summer                 stay cool       day happy shopping
+9       style            sophie cockett      bridal lingerie set
+10     strike            sleeve country                         
+11      story      postponed invitation                         
+12   spending               porter save                         
+13     slowly           perfect balance                         
+14     sleeve  instagram sophiecockettx                         
+15       size    independently selected                         
+16   shopping        glamorous nuptials                         
+17       shop            glam practical                         
+18       sell             endless month                         
+19     search              coffee table                         
+
+https://www.glamourmagazine.co.uk/gallery/summer-dresses-with-sleeves
+         1-gram                  2-gram                        3-gram
+0          wind               upper arm          sleeved summer dress
+1       weather          topic shopping         simplest styling hack
+2        viewed            team glamour     instagram content country
+3   unappealing               sunny day  influencers wearing swimwear
+4         trend            summer dress       genuinely warm sunshine
+5          time      shoppable category                              
+6        summer           pretty baltic                              
+7         stuff         pleasant warmth                              
+8       stretch       patiently waiting                              
+9         story       overwhelming gust                              
+10        start  independently selected                              
+11       spring              fit scroll                              
+12         snap             fashion set                              
+13  smorgasbord        extra silhouette                              
+14       sleeve    emergency waterproof                              
+15         sell         eating outdoors                              
+16     scenario           cuffed flared                              
+17       reason       commerce platform                              
+18      quarter         charlie teather                              
+19       puffed            bag dressing                              
+

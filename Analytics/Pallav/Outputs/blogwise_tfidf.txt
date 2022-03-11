@@ -1,0 +1,1432 @@
+KEYWORDS OCCURING IN MULTIPLE BLOGS:
+
+1-gram:
+        keyword occurence
+0         dress        19
+1       fashion        18
+2       account        17
+3         trend        13
+4       charlie        11
+5       teather        11
+6     celebrity        10
+7        summer        10
+8           tab        10
+9        beauty        10
+10         link        10
+11       change        10
+12     meredith        10
+13       window        10
+14        naked        10
+15      instyle        10
+16         shop         9
+17       floral         7
+18    fullerton         7
+19        close         7
+20      purewow         7
+21        email         7
+22     password         7
+23         sign         6
+24         midi         6
+25         asos         6
+26    instagram         6
+27      content         6
+28    alexandra         6
+29       spring         6
+30   originates         5
+31       forgot         5
+32     designer         5
+33       recipe         5
+34          log         5
+35   collection         5
+36       viewed         5
+37           fb         5
+38        brand         4
+39         2021         4
+40         mini         4
+41     discount         4
+42         maxi         4
+43        modal         4
+44         save         4
+45         code         4
+46        loewe         4
+47       sleeve         4
+48         mark         3
+49         wear         3
+50           10         3
+51           20         3
+52      garment         3
+53         2022         3
+54        label         3
+55     lockdown         3
+56         2999         3
+57     swimsuit         3
+58         sale         3
+59       sandal         3
+60        linen         3
+61      spencer         3
+62        satin         3
+63       colour         3
+64       bikini         3
+65      explore         3
+66       season         3
+67        shade         3
+68         crop         3
+69        saint         2
+70      trouser         2
+71       ballet         2
+72      checked         2
+73           25         2
+74         knit         2
+75       sophie         2
+76      cockett         2
+77          hue         2
+78       island         2
+79         fast         2
+80       parent         2
+81         flip         2
+82       bianca         2
+83          dad         2
+84         shoe         2
+85        mango         2
+86           44         2
+87        story         2
+88     swimwear         2
+89      vintage         2
+90      shopper         2
+91         pair         2
+92     clothing         2
+93        shirt         2
+94      ruffled         2
+95    valentino         2
+96       cruise         2
+97       london         2
+98        green         2
+99       affirm         2
+100     eloquii         2
+101    dressing         2
+102     payment         2
+103        dior         2
+104  selfridges         2
+105   portercom         2
+106      porter         2
+107     shirred         2
+108          95         2
+109      kitten         2
+110     cropped         2
+111      search         2
+112       award         2
+113   oversized         2
+114       color         2
+115      agency         2
+116         bag         2
+117      design         2
+118     couture         2
+119      makeup         2
+120        wrap         2
+121        4999         2
+122        zara         2
+123     striped         2
+124        rule         2
+125       india         2
+
+2-gram:
+                keyword occurence
+0       charlie teather        14
+1              link tab        10
+2       instyle instyle        10
+3           naked dress        10
+4            link modal        10
+5          modal window        10
+6       account account        10
+7              tab link        10
+8          account sign         7
+9           close close         7
+10         sign purewow         7
+11      forgot password         7
+12           midi dress         7
+13  alexandra fullerton         6
+14       content viewed         5
+15    instagram content         5
+16    viewed originates         5
+17            save shop         5
+18       tab california         5
+19  california sellthis         4
+20        discount code         4
+21      teather charlie         4
+22   privacy policythis         4
+23        sellthis link         4
+24         fashion week         4
+25         mark spencer         3
+26     term servicethis         3
+27     choicesthis link         3
+28            asos save         3
+29        dialog window         3
+30    content instagram         3
+31      tab choicesthis         3
+32        fashion brand         3
+33          spring 2022         3
+34     fashion industry         3
+35        asos discount         3
+36  fullerton alexandra         3
+37           maxi dress         3
+38           dress asos         3
+39            flip flop         3
+40          laura brown         3
+41        abby hepworth         3
+42          summer 2021         3
+43         summer dress         3
+44        summer outfit         2
+45        bianca london         2
+46           mini dress         2
+47       sophie cockett         2
+48          shirt dress         2
+49           love story         2
+50          editor pick         2
+51       fashion editor         2
+52       trending story         2
+53          log account         2
+54         fast fashion         2
+55           4999 mango         2
+56     password created         2
+57           dress 4999         2
+58   india largechevron         2
+59         city edition         2
+60        saint laurent         2
+61           dress 2999         2
+62           photo view         2
+63             dress 95         2
+64             tab term         2
+65        haute couture         2
+66        fashion trend         2
+67          kitten heel         2
+68          color block         2
+69     servicethis link         2
+70        bold shoulder         2
+71     designer fashion         2
+72      gabriela hearst         2
+73        molly goddard         2
+74       spring fashion         2
+75           slip dress         2
+76         dress summer         2
+77         dress porter         2
+78       portercom save         2
+79      porter discount         2
+80         dress floral         2
+81         floral dress         2
+82             95 story         2
+83          linen dress         2
+84         trend summer         2
+85           dress time         2
+86        louis vuitton         2
+87   originates content         2
+
+3-gram:
+                           keyword occurence
+0                    link tab link        10
+1                link modal window        10
+2                     tab link tab        10
+3          instyle instyle instyle        10
+4         california sellthis link         9
+5   modal window accessibilitythis         8
+6              link tab california         8
+7    window accessibilitythis link         7
+8              close dialog window         7
+9              policythis link tab         7
+10      accessibilitythis link tab         7
+11            choicesthis link tab         7
+12            tab term servicethis         7
+13         privacy policythis link         7
+14         forgot password created         6
+15         password create account         6
+16              love story partner         6
+17             create account sign         6
+18          enter registered email         6
+19         created password create         6
+20       password created password         6
+21                story love story         6
+22         tab california sellthis         6
+23            link tab choicesthis         6
+24            servicethis link tab         6
+25                   link tab term         6
+26       content viewed originates         5
+27         teather charlie teather         5
+28            tab choicesthis link         5
+29           term servicethis link         5
+30                naked dress time         5
+31             portercom save shop         4
+32              asos discount code         4
+33                  asos save shop         4
+34         charlie teather charlie         4
+35     instagram content instagram         3
+36       content instagram content         3
+37   alexandra fullerton alexandra         3
+38             dress asos discount         3
+39            porter discount code         3
+40   fullerton alexandra fullerton         3
+41              photo view gallery         3
+42         navigation menu fashion         2
+43       viewed originates content         2
+44           dress porter discount         2
+45                 share pin email         2
+46             fashion editor pick         2
+47             sellthis link modal         2
+48                  dress 95 story         2
+49         christopher john rogers         2
+50              spring summer 2022         2
+51       originates content viewed         2
+
+
+
+
+INDIVIDUAL BLOG ANALYSIS:
+
+https://www.instyle.com/fashion/clothing/best-2022-fashion-trends
+           1-gram             2-gram                         3-gram
+0            link           link tab           stylist wearing 2022
+1             tab    stylist wearing           2022 stylist wearing
+2         instyle       wearing 2022           wearing 2022 stylist
+3         stylist       2022 stylist             2022 fashion trend
+4            2022      forecast 2022          forecast 2022 fashion
+5        forecast           tab link                  link tab link
+6           trend       2022 fashion                   tab link tab
+7         wearing    instyle instyle        instyle instyle instyle
+8         bandier      fashion trend              link modal window
+9         fashion        naked dress         linkedin forecast 2022
+10          naked         trend 2022        tab california sellthis
+11         window         link modal        privacy policythis link
+12        account       modal window       california sellthis link
+13       meredith    account account           tab term servicethis
+14         change      pleated skirt           tab choicesthis link
+15      celebrity      maggie winter          term servicethis link
+16         tennis  linkedin forecast           choicesthis link tab
+17  monochromatic   jennifer bandier  window accessibilitythis link
+18         beauty   trend rhinestone           link tab choicesthis
+19         closet          closet ha                  link tab term
+
+https://www.instyle.com/fashion/clothing/spring-2022-fashion-trends
+       1-gram            2-gram                          3-gram
+0        link          link tab                   link tab link
+1         tab          tab link                    tab link tab
+2     instyle       naked dress               read spring 2022s
+3       naked   instyle instyle               spring 2022 trend
+4      spring       read spring         instyle instyle instyle
+5      window      spring 2022s               link modal window
+6     account       spring 2022               kitten heel naked
+7    meredith        2022 trend               2022 trend closet
+8       trend       kitten heel                heel naked dress
+9       dress      modal window      accessibilitythis link tab
+10      2022s   account account            choicesthis link tab
+11     change        link modal             link tab california
+12     beauty        heel naked            tab choicesthis link
+13    fashion       color block            tab term servicethis
+14  celebrity      trend closet         tab california sellthis
+15     kitten    sitting closet            servicethis link tab
+16       2022    tab california  modal window accessibilitythis
+17      modal     sellthis link        california sellthis link
+18         fb  servicethis link                naked dress time
+19    explore       laura brown             close dialog window
+
+https://www.glamourmagazine.co.uk/article/resort-2022-fashion-trends
+        1-gram               2-gram                             3-gram
+0       resort  alexandra fullerton                di lorenzo serafini
+1    fullerton     alberta ferretti              philosophy di lorenzo
+2    alexandra        philosophy di      fullerton alexandra fullerton
+3         suit        resort cruise      alexandra fullerton alexandra
+4   collection     lorenzo serafini                 mood sexy dressing
+5         dior     goddess dressing               ripe revival boldest
+6      fashion    resort collection               puffer drawstring wa
+7         mood           di lorenzo          valid wardrobe originally
+8     ferretti         trend resort              floor skimming joyful
+9      alberta         trouser suit           collection body designer
+10    designer        bold shoulder                 neon tone splashed
+11       trend      charlie teather                 shape juicy colour
+12    dressing  fullerton alexandra           collar resort collection
+13          di     designer fashion              collection drop store
+14     lorenzo       divine chiffon                trainer shirt power
+15    serafini     ideal outspotted             sprinkling perma trend
+16     goddess         average grey  briefcasespotted alberta ferretti
+17      cruise          shirt power            dressing body conscious
+18      colour        conscious cut          trainer drool overspotted
+19  silhouette        confused late             dressing bold shoulder
+
+https://www.vogue.in/fashion/gallery/from-egg-shell-heels-to-demon-basketball-bags-the-9-wildest-accessories-of-spring-summer-2022
+          1-gram                2-gram                       3-gram
+0      accessory           summer 2022           spring summer 2022
+1            egg         spring summer          jewellery real bite
+2           lamb     wildest accessory   quinns delightfully frilly
+3         bonnet             mary lamb           bag richard quinns
+4        richard            josh smith            loewe cracked egg
+5           tote             art piece         cracked egg stiletto
+6            ear           diving mask  richard quinns delightfully
+7            bag           cracked egg               josh smith art
+8          loewe        richard quinns        diving mask moschinos
+9   schiaparelli          simone rocha          moschinos mary lamb
+10        diving     talking accessory     burberry beguiling bambi
+11       wildest         frilly bonnet         frilly bonnet simone
+12     beguiling           botters eco       real bite schiaparelli
+13        quinns        jewellery real       simone rocha jewellery
+14     moschinos      demon basketball              art piece loewe
+15         bambi  schiaparelli weather          piece loewe cracked
+16          josh         bonnet simone           botters eco driven
+17       botters         tote burberry      tote burberry beguiling
+18       cracked         loewe cracked            stiletto chet los
+19         vogue          umbrella hat           driven diving mask
+
+https://www.glamourmagazine.co.uk/gallery/spring-summer-2021-fashion-trends
+       1-gram                2-gram                        3-gram
+0       trend       charlie teather             shine cut netting
+1     fashion         isabel marant          sheer gown bralettes
+2     teather         sparkle shine      unashamedly fuchsia wide
+3     charlie          paco rabanne              leg fashion mask
+4      isabel          fashion week              cut netting bold
+5      marant            sheer gown        gown bralettes sparkle
+6      chanel         bold shoulder     bold shoulder unashamedly
+7       floss           acne studio             sparkle shine cut
+8     netting       gabriela hearst        waist floss monochrome
+9        paco        gown bralettes         netting bold shoulder
+10    rabanne      monochrome sheer       bralettes sparkle shine
+11        leg  shoulder unashamedly            paco rabanne fendi
+12  valentino              tom ford         monochrome sheer gown
+13     season          fuchsia wide              wide leg fashion
+14    fuchsia          fashion mask  shoulder unashamedly fuchsia
+15    sparkle           leg fashion              fuchsia wide leg
+16      fendi          netting bold        floss monochrome sheer
+17       mask     bralettes sparkle       christopher john rogers
+18     summer      floss monochrome       teather charlie teather
+19      loewe           waist floss            photo view gallery
+
+https://www.glamourmagazine.co.uk/gallery/london-fashion-week-spring-summer-2021-fashion-trends
+        1-gram               2-gram                        3-gram
+0     victoria       london fashion           london fashion week
+1      beckham        molly goddard                50 shade green
+2        molly         fashion week              slouchy satin 50
+3      goddard     victoria beckham             green slung denim
+4      fashion     emilia wickstead          denim regal romantic
+5       london          shade green           week wearing spring
+6         week  annabelle spranklen            fashion east molly
+7        slung             50 shade             slung denim regal
+8    spranklen          denim regal                satin 50 shade
+9    wickstead         easy wearing          fashion week wearing
+10      emilia         week wearing            crop slouchy satin
+11   annabelle          green slung             shade green slung
+12  collection             satin 50         shade season victoria
+13       green          slung denim         style paraded fashion
+14       trend         crop slouchy              taught mind idea
+15    designer           east molly           spring summer 2021s
+16       erdem       regal romantic                week season ha
+17       shade        slouchy satin        shape victoria beckham
+18        crop       wearing spring               2021 hit emilia
+19       satin       preen thornton  bregazziwhile designer opted
+
+https://www.purewow.com/fashion/spring-fashion-trends-affirm
+      1-gram           2-gram                 3-gram
+0     affirm     month affirm        42 month affirm
+1      month        cole hann       cole hann modern
+2     loafer   modern classic  modern classic loafer
+3       cole         42 month    hann modern classic
+4       hann      hann modern   month affirm eloquii
+5     adidas   classic loafer        33 month affirm
+6    eloquii   affirm eloquii      month affirm yoga
+7       yoga      eloquii tie    month affirm adidas
+8   password      affirm yoga       affirm cole hann
+9         42    affirm adidas      month affirm cole
+10    modern         33 month       loafer cole hann
+11      crew      affirm cole      classic loafer 42
+12   account      loafer cole    classic loafer cole
+13     email        loafer 42        loafer 42 month
+14   payment  forgot password        month affirm 42
+15   classic      close close      3998 month affirm
+16   purewow   spring fashion    cole hann 4zergrand
+17    spring     sign purewow        month affirm 33
+18      luxe     account sign      yoga luxe lounger
+19     close     yoga heather    yoga leopard raglan
+
+https://www.glamourmagazine.co.uk/gallery/best-slip-dresses
+        1-gram               2-gram                     3-gram
+0         slip           slip dress          slip dress summer
+1        dress         dress summer          dress summer 2021
+2         2021          summer 2021            shop slip dress
+3       summer            shop slip             save shop slip
+4         save            save shop          slip dress porter
+5         shop        discount code      dress porter discount
+6   selfridges         dress porter        portercom save shop
+7     discount       portercom save       porter discount code
+8         code      porter discount      slip dress selfridges
+9    portercom     dress selfridges   selfridges discount code
+10      porter      selfridges save       selfridges save shop
+11        asos  selfridges discount  dress selfridges discount
+12        mini          fabric slip            slip dress asos
+13       satin           midi dress          fabric slip dress
+14        maxi           dress asos        dress asos discount
+15        midi            lace trim            mini slip dress
+16        lace            mini slip         asos discount code
+17      cotton            asos save             asos save shop
+18      floral        asos discount           satin midi dress
+19      fabric           maxi dress           summer 2021 cult
+
+https://www.glamourmagazine.co.uk/gallery/milkmaid-dresses-fashion-trend
+      1-gram             2-gram                   3-gram
+0   milkmaid     milkmaid dress      milkmaid dress mini
+1      dress         dress mini   milkmaid dress gingham
+2     floral      dress gingham    floral milkmaid dress
+3    gingham    floral milkmaid   dress gingham milkmaid
+4       mini      mini milkmaid      dress mini milkmaid
+5    shirred   gingham milkmaid    dress floral milkmaid
+6      linen       dress floral      mini milkmaid dress
+7    charlie       red milkmaid   gingham milkmaid dress
+8    teather       floral dress    milkmaid dress floral
+9   anglaise    charlie teather       red milkmaid dress
+10  broderie           95 story       dress red milkmaid
+11        95        print dress       milkmaid dress red
+12   smocked  broderie anglaise           dress 95 story
+13    purple           dress 95       floral print dress
+14    ruched      gingham dress  anglaise milkmaid dress
+15     cream        linen dress           linen dress 95
+16       red      smocked dress          floral dress 95
+17    button          dress red      pink milkmaid dress
+18    petite      summer autumn      midi milkmaid dress
+19   ruffled      blue milkmaid     linen milkmaid dress
+
+https://www.glamourmagazine.co.uk/article/fashion-brands-to-know-2022
+           1-gram               2-gram                         3-gram
+0         content      charlie teather      content viewed originates
+1         teather       content viewed         breakout fashion brand
+2         charlie    viewed originates        charlie teather content
+3          search    instagram content         teather content viewed
+4      originates         search brand        teather charlie teather
+5          viewed       sagal mohammed        charlie teather charlie
+6         fashion      teather content           charlie teather view
+7           label          bella hadid           teather view gallery
+8           brand     breakout fashion          photo charlie teather
+9       instagram        celebrity fan           fashion award london
+10           skim        fashion brand           start content viewed
+11           reed      teather charlie  instagram content christopher
+12  collaboration         teather view        christopher john rogers
+13          award        photo charlie            fashion brand pivot
+14       mohammed           marc jacob         dojaka designer outfit
+15          sagal            story mfg          fashion brand connect
+16          bella  content christopher       fashion calendar charlie
+17            dua        michaela coel        fashion brand guarantee
+18       breakout          harris reed           missoma mac cosmetic
+19      celebrity         award london       dojaka instagram content
+
+https://www.instyle.com/fashion/clothing/80s-fashion
+       1-gram              2-gram                          3-gram
+0        link            link tab                   link tab link
+1         tab          80 fashion                    tab link tab
+2          80            tab link                   80 fashion 80
+3     instyle     instyle instyle              fashion 80 fashion
+4       naked          fashion 80         instyle instyle instyle
+5     fashion         naked dress               link modal window
+6      window          link modal       oversized blazer shoulder
+7     account     account account         privacy policythis link
+8    meredith        modal window      accessibilitythis link tab
+9    bodysuit     blazer shoulder            servicethis link tab
+10  celebrity        shoulder pad             policythis link tab
+11     change           80 outfit            choicesthis link tab
+12      jaide    oversized blazer  modal window accessibilitythis
+13     beauty            80 trend         tab california sellthis
+14      dress        julia guerra        california sellthis link
+15  oversized  privacy policythis            tab term servicethis
+16      modal       dialog window             close dialog window
+17         fb      tab california             link tab california
+18       glam    choicesthis link            link tab choicesthis
+19    angeles       sellthis link                   link tab term
+
+https://www.instyle.com/fashion/clothing/colorblocking-trend-spring-2022
+           1-gram               2-gram                          3-gram
+0            link             link tab               color block color
+1             tab          color block               block color block
+2         instyle          block color                   link tab link
+3           color             tab link                    tab link tab
+4           block      instyle instyle               link modal window
+5   colorblocking            spring 22         instyle instyle instyle
+6          spring  colorblocking trend            clothes closet patbo
+7           naked          naked dress            trend clothes closet
+8          window         modal window          easily recreate spring
+9         account           link modal  modal window accessibilitythis
+10       meredith      account account             close dialog window
+11             22         closet patbo           term servicethis link
+12         change           pink green      accessibilitythis link tab
+13     colorblock      recreate spring        california sellthis link
+14         beauty        trend clothes             link tab california
+15          dress       clothes closet            link tab choicesthis
+16          patbo             pink red                   link tab term
+17          trend      easily recreate             policythis link tab
+18      celebrity     term servicethis         privacy policythis link
+19          toned        dialog window            servicethis link tab
+
+https://www.instyle.com/fashion/clothing/best-summer-2021-fashion-trends-in-your-closet
+       1-gram               2-gram                          3-gram
+0        link             link tab               summer 2021 trend
+1         tab          summer 2021               trend summer 2021
+2     instyle           2021 trend               2021 trend summer
+3        2021         trend summer                    tab link tab
+4      summer             tab link                   link tab link
+5       trend      instyle instyle               link modal window
+6        wear          naked dress         instyle instyle instyle
+7       scarf      oversized shirt   window accessibilitythis link
+8       naked           mini skirt                naked dress time
+9      window         modal window            servicethis link tab
+10    account           link modal             sellthis link modal
+11   meredith      account account  modal window accessibilitythis
+12  oversized          puff sleeve             close dialog window
+13    fashion         strap string        california sellthis link
+14     change       wear oversized      accessibilitythis link tab
+15   sunglass          halter neck           term servicethis link
+16     beauty           dress time             link tab california
+17      dress  california sellthis            choicesthis link tab
+18       crop        sellthis link             policythis link tab
+19  celebrity          laura brown         privacy policythis link
+
+https://www.vogue.in/fashion/gallery/meet-the-10-breakout-models-of-spring-2022
+          1-gram                2-gram                       3-gram
+0      highlight      season highlight                age 19 agency
+1       hometown   management hometown       season highlight louis
+2         agency                age 19      highlight louis vuitton
+3         season             19 agency         notable model season
+4            age         louis vuitton      aspiring doctor theater
+5             10        janelle okwodu  california season highlight
+6          model      america gonzalez      agency woman management
+7          prada          devyn garcia    agency supreme management
+8     management       beyonce ambrose  society management hometown
+9         emhoff  quannah chasinghorse    agency society management
+10          cruz         majesty amare  supreme management hometown
+11       ambrose           jan baiboon    woman management hometown
+12            wa           ella emhoff       artist aspiring doctor
+13        runway             lina cruz         theater geek stylish
+14         hofer           lucy rosiek                age 21 agency
+15        rosiek           greta hofer                age 24 agency
+16       baiboon       highlight louis          agency img hometown
+17  chasinghorse           spring 2022          doctor theater geek
+18         loewe      proenza schouler          louis vuitton loewe
+19            19     california season           spring summer 2022
+
+https://thevou.com/fashion/egyptian-clothing/
+      1-gram             2-gram                          3-gram
+0   egyptian              20 20                        20 20 20
+1         20  egyptian clothing       egyptian fashion designer
+2   discover   egyptian fashion                 malak el ezzawy
+3   designer  egyptian designer         tailoring express sharp
+4   clothing   fashion designer        haute couture collection
+5      egypt    modern egyptian            egyptian designer ha
+6    fashion        zaam design               yellow neon color
+7   creation        maison yeya         egyptian clothing style
+8      brand     clothing style             neon color egyptian
+9     design      fashion brand   traditional egyptian clothing
+10     woman      haute couture             fashion week farida
+11     hijab          el ezzawy         color egyptian clothing
+12     cairo      local fashion         egyptian clothing brand
+13      yeya         woman wear              express sharp edge
+14    unique      egyptian wear                     vou vou vou
+15      wear         neon color              paris fashion week
+16     piece           malak el             nour ibrahim rising
+17   garment        diva design  effortlessly comfortable opios
+18   couture       fashion week                city cairo amina
+19   okhtein            vou vou     upholding egyptian cultural
+
+https://www.instyle.com/fashion/clothing/empire-waist-dress-trend
+        1-gram               2-gram                          3-gram
+0         link             link tab              empire waist dress
+1          tab         empire waist              dress empire waist
+2       empire          waist dress              waist dress empire
+3      instyle         dress empire                   link tab link
+4        dress             tab link                    tab link tab
+5        waist      instyle instyle         instyle instyle instyle
+6         shop          naked dress               link modal window
+7        naked         modal window            choicesthis link tab
+8   bridgerton           link modal            tab term servicethis
+9       window      account account         privacy policythis link
+10     account     choicesthis link            link tab choicesthis
+11    meredith         close dialog   window accessibilitythis link
+12      change   privacy policythis            tab choicesthis link
+13      beauty             tab term                naked dress time
+14   celebrity  california sellthis           term servicethis link
+15       modal      tab choicesthis  modal window accessibilitythis
+16          fb       tab california             link tab california
+17        lady           dress time        california sellthis link
+18     explore      policythis link         tab california sellthis
+19      makeup     term servicethis            servicethis link tab
+
+https://www.glamourmagazine.co.uk/gallery/what-to-wear-after-lockdown
+      1-gram           2-gram                 3-gram
+0       post  lockdown summer  lockdown summer dress
+1   lockdown    post lockdown   post lockdown summer
+2      dress     summer dress    summer dress floral
+3     summer     dress floral   floral post lockdown
+4     floral       wrap dress     maxi post lockdown
+5    shirred       dress post      dress floral post
+6       maxi      floral post    dress post lockdown
+7       midi        maxi post     dress shirred post
+8       wrap     shirred post      summer dress wrap
+9    teather       dress wrap   summer dress shirred
+10   charlie       maxi dress  shirred post lockdown
+11     tunic    dress shirred       dress wrap dress
+12   ruffled  charlie teather     slip post lockdown
+13      4999       dress 4999   summer dress ruffled
+14       tea       white maxi    smock post lockdown
+15   sleeved       black maxi     summer dress shirt
+16      zara     puff sleeved        black maxi post
+17  shoulder       midi dress    summer dress rental
+18   striped      floral slip       shirt dress post
+19     sense      floral maxi  summer dress shoulder
+
+https://www.glamourmagazine.co.uk/article/new-colour-clash-rules
+           1-gram                  2-gram                           3-gram
+0         content       content instagram      instagram content instagram
+1          colour       instagram content        content instagram content
+2           shade       viewed originates        content viewed originates
+3          viewed          content viewed         viewed originates choose
+4      originates             colour wear               wear colour summer
+5       instagram             wear colour                 bag extra orange
+6            tone       originates choose           perfect shake wardrobe
+7      unexpected             bold colour               lemon sorbet shade
+8            rule           colour summer  lemon yellow courtneysmithstyle
+9            bold          warmer weather                 cool toned dress
+10      fullerton     alexandra fullerton                    bag stand hot
+11         orange         charlie teather            mustard blame bottega
+12           wear          wearing colour              cool shade spectrum
+13           pink         piece effective             cool considered wary
+14  tamumcpherson  oliviaandalice content                  bag apple green
+15        fashion             le moredont        level inspiration rounded
+16          clash               bag stand          lewk taramays25 content
+17         warmer              sweet blue               wary wearing shade
+18           shot           fashion lewks         impact lornaluxe content
+19          lemon       veneta prevalence           originates wear winter
+
+https://www.glamourmagazine.co.uk/gallery/best-crop-tops
+         1-gram          2-gram                   3-gram
+0          crop       crop crop        crochet crop crop
+1       cropped      black crop       crop puffed sleeve
+2        sleeve     sleeve crop           bra black crop
+3       crochet      linen crop   crop crossover crochet
+4       content   cropped shirt         brown crop white
+5         linen      crop linen  sleeve crop sustainable
+6          wrap        crop bra       floral crop puffed
+7        floral      crop brown         crop floral crop
+8     fullerton    crop cropped          crop linen crop
+9    selfridges  crop crossover   black crop sustainably
+10    instagram     crop floral         wrap crop sleeve
+11    portercom      brown crop          white crop crop
+12  sustainably      crop black         crop crop floral
+13        tummy     floral crop   crossover crochet crop
+14        blend     crop puffed         crop sleeve crop
+15        shirt      crop shirt         linen crop black
+16        black      white crop   sustainable crop brown
+17         dial     crop sleeve       cropped shirt crop
+18    crossover      shirt crop        crop strappy crop
+19    alexandra    strappy crop    crop sustainable crop
+
+https://www.glamourmagazine.co.uk/gallery/marks-and-spencer-sale
+      1-gram             2-gram                   3-gram
+0    spencer       mark spencer        mark spencer sale
+1       mark       spencer sale       dress mark spencer
+2       sale         dress mark      spencer sale floral
+3      dress        sale floral        floral dress mark
+4     floral    cropped trouser     sale cropped trouser
+5    trouser       sale cropped     cropped trouser mark
+6    charlie      striped shirt        sale floral dress
+7    teather       floral dress     spencer sale cropped
+8       neck       trouser mark     trouser mark spencer
+9    cropped    charlie teather          polka dot skirt
+10    ballet  embroidered dress      mark spencer summer
+11     shirt     spencer summer   sale sleeveless blazer
+12   striped          dot skirt         sale shirt dress
+13   checked        shift dress       spencer sale polka
+14  swimsuit        summer sale      spencer sale tiered
+15        25    floral swimsuit       spencer sale shift
+16     polka       tiered dress       spencer sale shirt
+17       dot          polka dot  spencer sale sleeveless
+18      pump         midi dress        sale mark spencer
+19     shift        shirt dress          sale midi dress
+
+https://www.glamourmagazine.co.uk/gallery/zara-summer-2021-collection
+        1-gram           2-gram                   3-gram
+0         zara      zara summer         zara summer 2021
+1         2021        2021 zara         2021 zara summer
+2       summer      summer 2021         summer 2021 zara
+3         2999        2999 zara           editor pick 16
+4      charlie  charlie teather        zaras epic summer
+5      teather         109 zara         piece zaras epic
+6         epic      piece zaras           16 piece zaras
+7      strappy        split hem          midi dress 2999
+8         lost       zaras epic          dress 2999 zara
+9        zaras       cut blazer            pick 16 piece
+10         109       zara vinyl      fashion editor pick
+11       vinyl      editor pick  charlie teather charlie
+12        midi          pick 16  teather charlie teather
+13      street      epic summer  post lockdown brilliant
+14     allowed   fashion editor       aiming kick return
+15    lockdown         16 piece         kick return real
+16  asymmetric        2799 zara      leather sandal 5999
+17        2799       dress 2999   approach pit seemingly
+18       dress  teather charlie   thrill matching hoodie
+19  collection       midi dress        summer 2021 topic
+
+https://www.purewow.com/fashion/editors-spring-picks-email
+      1-gram            2-gram                     3-gram
+0   password   forgot password         editor pick spring
+1        128       close close           fashion btw sale
+2    account      account sign        pick spring fashion
+3      email      sign purewow         spring fashion btw
+4    purewow       pick spring        fashion editor pick
+5      close       fashion btw            share pin email
+6        btw          btw sale     enter registered email
+7       sign       editor pick    forgot password created
+8     forgot    spring fashion           story love story
+9        log       log account         love story partner
+10    recipe      city edition        create account sign
+11      sale       video watch  password created password
+12     dress         pin email    password create account
+13       125    trending story    created password create
+14       182  password created    citizen humanity debbie
+15    agolde  registered email             sandal 350 175
+16       248         share pin               coat 598 239
+17       598        slip dress       thigh skimming trave
+18    spring        love story          burch patos slide
+19     enter     story partner             bet silky pink
+
+https://www.instyle.com/fashion/clothing/skort-fashion-trend-outfit-ideas
+       1-gram                  2-gram                         3-gram
+0        link                link tab                   tab link tab
+1         tab                tab link                  link tab link
+2     instyle         instyle instyle        instyle instyle instyle
+3       skort             naked dress              link modal window
+4    gonzalez              link modal                  skort ha rich
+5      skorts         account account                ha rich history
+6       naked            modal window            sellthis link modal
+7      window                 ha rich        tab california sellthis
+8     account                skort ha           tab choicesthis link
+9    meredith        gonzalez instyle           servicethis link tab
+10      short     originally designed           tab term servicethis
+11    fashion                90 trend  window accessibilitythis link
+12     change             skirt short               naked dress time
+13      skirt            rich history            policythis link tab
+14     beauty         wardrobe staple            close dialog window
+15         90            skort outfit            link tab california
+16      trend            denim jacket           link tab choicesthis
+17      dress  accessibilitythis link       california sellthis link
+18  celebrity     california sellthis     accessibilitythis link tab
+19    history           sellthis link                  link tab term
+
+https://www.glamourmagazine.co.uk/gallery/spring-summer-2021-shoe-trends
+       1-gram             2-gram                      3-gram
+0     slipper        padded flip            padded flip flop
+1      padded      house slipper            fancy dad sandal
+2      ballet         dad sandal            flip flop padded
+3        clog        ballet flat            dad sandal fancy
+4        flip          flip flop            flop padded flip
+5        flop          fancy dad         house slipper house
+6         dad        flop padded            flat ballet flat
+7    platform        flat ballet            sandal fancy dad
+8        flat       sandal fancy          ballet flat ballet
+9       house      slipper house       slipper house slipper
+10     sandal          clog clog  platform platform platform
+11      fancy  platform platform              clog clog clog
+12   pictured    charlie teather          erdem simone rocha
+13    spotted       zara spotted         porte paire frankie
+14      mango           jason wu    stella mccartney coperni
+15    teather   stella mccartney      embellished dad sandal
+16    charlie       fashion week       versace molly goddard
+17      jason      molly goddard         rocha versace molly
+18         wu    gabriela hearst    sandal platform platform
+19  mccartney         4999 mango             clog clog fancy
+
+https://www.glamourmagazine.co.uk/article/made-to-order-fashion
+            1-gram                    2-gram                              3-gram
+0        fullerton       alexandra fullerton           content viewed originates
+1        alexandra         instagram content                    wild folk studio
+2          content            content viewed  sustainability alexandra fullerton
+3          garment         viewed originates       alexandra fullerton alexandra
+4            brand  sustainability alexandra       fullerton alexandra fullerton
+5        instagram             vintage quilt             goal eventually garment
+6          bespoke                 wild folk                 content molby label
+7         unfolded              clothes sold                 content mia layzell
+8       originates               mary benson                 build bespoke brand
+9           viewed               folk studio                 content mary benson
+10            mary               mia layzell                    coat jacket shop
+11         fashion       fullerton alexandra                 coat content viewed
+12         vintage            garment worker          viewed originates unfolded
+13         shopper              fast fashion                     style sin stuff
+14            fast               unsold item               figure couture moment
+15  sustainability             label garment         production fashion industry
+16           label               label ralph               gallery asda launched
+17           molby                 sell fast        transparent clothing journey
+18           quilt           label instagram                        sell fast en
+19         layzell               wastage cut              brand customer service
+
+https://www.purewow.com/fashion/summer-color-trends
+      1-gram              2-gram                     3-gram
+0        hue          shop trend           mix match summer
+1   password         color trend            trend mix match
+2      dress         bright pink            color trend mix
+3      color     forgot password            shop trend asos
+4    account         close close    created password create
+5      email        account sign           story love story
+6    purewow        sign purewow    forgot password created
+7         98           trend mix        create account sign
+8      shade          trend asos         love story partner
+9       sign        match summer     enter registered email
+10      sage           dress 125  password created password
+11     close           mix match    password create account
+12       log          sage green       midi structured suit
+13    recipe       abby hepworth           angeles short 68
+14    forgot      create account         alice olivia dress
+15     green  lifestyle category            trench coat 111
+16     trend      trending story        goldenrod honey hue
+17    yellow    password created             trend eye wear
+18   eloquii   password required           trend asos dress
+19    summer     password create          gold jewelry shop
+
+https://www.instyle.com/fashion/clothing/lurex-swimwear-fashion-trend
+       1-gram               2-gram                          3-gram
+0        link             link tab            lurex swimwear lurex
+1       lurex       lurex swimwear         swimwear lurex swimwear
+2         tab       swimwear lurex                   link tab link
+3     instyle             tab link                    tab link tab
+4      bikini      instyle instyle         instyle instyle instyle
+5    swimwear          naked dress               link modal window
+6        shop           link modal             link tab california
+7    swimsuit      account account      accessibilitythis link tab
+8       naked         modal window           term servicethis link
+9      window       lurex swimsuit            choicesthis link tab
+10    account         avery matera             policythis link tab
+11   meredith        bikini bikini  modal window accessibilitythis
+12     change       swimsuit trend            tab term servicethis
+13  celebrity  california sellthis             close dialog window
+14     beauty     servicethis link                naked dress time
+15         fb     choicesthis link        california sellthis link
+16      modal   privacy policythis                   link tab term
+17    explore     term servicethis   window accessibilitythis link
+18     makeup       tab california            tab choicesthis link
+19   metallic      tab choicesthis         tab california sellthis
+
+https://www.glamourmagazine.co.uk/gallery/and-other-stories-summer-sale
+      1-gram         2-gram                 3-gram
+0         51       dress 85          midi dress 85
+1         41       44 story               51 51 46
+2         31     mini dress               33 32 51
+3      story     midi dress               63 33 32
+4         47          41 31               36 61 31
+5         63          51 46            dress 75 44
+6       midi   story 95puff               51 63 33
+7         85          75 44            75 44 story
+8         75          63 33  fashion editor adding
+9         61          61 31               32 51 51
+10     dress          53 51               51 46 31
+11        95          51 63               31 41 31
+12      mini          51 51               61 31 41
+13  lockdown       47 story    story 95puff sleeve
+14        44  95puff sleeve               31 36 61
+15        53          46 31   editor adding basket
+16   superga          41 53               46 31 36
+17    basket          41 41               41 53 51
+18    95puff          31 36               41 41 53
+19        46          31 41               53 51 63
+
+https://www.purewow.com/fashion/square-toe-sandals
+      1-gram           2-gram                       3-gram
+0     sandal       square toe            square toe sandal
+1        toe       toe sandal             toe sandal stock
+2     square      close close            trendy square toe
+3      slide  forgot password           pair trendy square
+4       mule      kitten heel          sandal stock summer
+5   password     account sign               20 pair trendy
+6       heel     sign purewow      password create account
+7    account     stock summer    password created password
+8      email      pair trendy       enter registered email
+9    purewow     sandal stock           love story partner
+10     close     double strap             story love story
+11     aloha          20 pair      created password create
+12      sign    trendy square          create account sign
+13     strap       easy slide      forgot password created
+14    recipe       hot summer      30 reformation clothing
+15       log    abby hepworth                 wal pai ivar
+16    forgot        flip flop  reformation marcella ruched
+17      shoe     city edition           strap double strap
+18        20      account log           30 cutest sundress
+19    kitten    account close            strap chain black
+
+https://www.glamourmagazine.co.uk/article/juno-dawson-meat-market-extract
+      1-gram              2-gram                       3-gram
+0     laurel         juno dawson  underbelly fashion industry
+1       jana       bianca london      dark underbelly fashion
+2        tom           tom smile       expose dark underbelly
+3       book     dark underbelly            era timesup metoo
+4      smile         summer read         industry era timesup
+5     agency          jana novak         fashion industry era
+6      voice          tom carney        babble flick shoulder
+7       tall       timesup metoo              walk fast catch
+8        loo           clara key               theme park lot
+9       juno         meat market     carney sixteen scorching
+10    dawson         era timesup    mouth hang shefrantically
+11     shout        industry era            carney swarm pelt
+12     swarm         expose dark    carneyhead scouting blink
+13    bianca  underbelly fashion           thigh sticky denim
+14    parent    fashion industry          screamer fly listen
+15  prestige      brought thorpe            mossoh okbut jana
+16      card       play hairwhat             moss kate mossoh
+17      foot        focus laurel             waist hair sneak
+18      park   sixteen scorching             phone box pretty
+19      hand        shade mumble                 lip boy bust
+
+https://www.purewow.com/fashion/summer-vacation-packing-essentials
+       1-gram           2-gram                     3-gram
+0      affirm  summer vacation            pay time affirm
+1     payment    moda operandi      neiman marcus payment
+2   krystalyn     bathing suit     trend essential summer
+3    password        real real        summer vacation pay
+4       beach  trend essential            bone payment 57
+5     account    neiman marcus          payment 57 affirm
+6       email      time affirm          vacation pay time
+7        real         pay time           rag bone payment
+8     purewow   payment option  essential summer vacation
+9     partner  forgot password  password created password
+10      close      close close    password create account
+11    bathing     sign purewow    forgot password created
+12     neiman     account sign        create account sign
+13     marcus       payment 57           story love story
+14   operandi        14 affirm    created password create
+15  scrunchie     draper james            share pin email
+16   vacation     bone payment         love story partner
+17     matter   marcus payment     enter registered email
+18       sign        57 affirm        throw pair swimsuit
+19       pair        pop color       friend partner sound
+
+https://www.instyle.com/fashion/clothing/side-tie-string-bikini-bottom-trend
+        1-gram                    2-gram                          3-gram
+0         link                  link tab             trend summer tarzan
+1          tab             string bikini            summer tarzan string
+2       string            divisive trend            tarzan string bikini
+3       bikini             tarzan string           divisive trend summer
+4       tarzan             summer tarzan          string bikini divisive
+5      instyle           bikini divisive           bikini divisive trend
+6     divisive              trend summer                    tab link tab
+7        trend                  tab link                   link tab link
+8        naked           instyle instyle         instyle instyle instyle
+9         shop           revolvecom shop               link modal window
+10      window               naked dress      accessibilitythis link tab
+11     account                link modal            link tab choicesthis
+12      summer           account account   window accessibilitythis link
+13    meredith              modal window            tab term servicethis
+14   celebrity               laura brown  modal window accessibilitythis
+15      change  window accessibilitythis             close dialog window
+16  revolvecom            tab california         privacy policythis link
+17      beauty             dialog window             policythis link tab
+18    swimsuit                  tab term                   link tab term
+19          fb           tab choicesthis            choicesthis link tab
+
+https://www.purewow.com/fashion/spring-shoe-trends
+      1-gram            2-gram                       3-gram
+0   password        shop style            spring shoe trend
+1    account     chunky sandal            chain spring shoe
+2      chain       spring shoe          sandal chain spring
+3      email  loeffler randall          chunky sandal chain
+4      style       close close      created password create
+5     sandal   forgot password    password created password
+6    purewow         flip flop      forgot password created
+7      close        shoe trend       enter registered email
+8     chunky      account sign             story love story
+9       sign      sign purewow      password create account
+10    spring      sandal chain           love story partner
+11   randall       jw anderson          create account sign
+12  loeffler      chain spring            outfit easy slide
+13       350           asos 64      pod continue vaccinated
+14    forgot  sarah stiefvater        majorly mixed feeling
+15       log    onitsuka tiger        hasbeens 280 loeffler
+16    recipe          rag bone  influencers spotted wearing
+17      shop        story love         pedicure salon slide
+18      shoe       log account             pedicure set hit
+19      flip        love story          90 loeffler randall
+
+https://www.glamourmagazine.co.uk/article/neon-bikini-uk-trend
+       1-gram                     2-gram                       3-gram
+0        neon                love island  cockett alexandra fullerton
+1    islander          cockett alexandra       charlie teather sophie
+2      island             oriana findlay       teather sophie cockett
+3      oriana             teather sophie     sophie cockett alexandra
+4     findlay             sophie cockett         ware including molly
+5      search              neon swimwear            wearing neon ware
+6    swimwear                neon bikini  single handedly responsible
+7     cockett        alexandra fullerton  celebrity influencers alike
+8      sophie            charlie teather           gallery topic love
+9        love          championed single           search neon bikini
+10     single                  week ebay          dumping coming love
+11       ebay              shortage neon          search summer trend
+12        313              faint hearted             23 photo charlie
+13     bikini               shine bright           snake print bikini
+14  alexandra                 ha serving            yewande amber amy
+15  fullerton  imhannahwhiting instagram         pack drooling pastel
+16    serving             item featuring      incarnation hue vibrant
+17    teather                 topic love     festival coachella shine
+18    charlie            coachella shine         colour ha championed
+19        hue            increase search         ha championed single
+
+https://www.glamourmagazine.co.uk/gallery/hm-spring-sale
+       1-gram           2-gram                       3-gram
+0          20            50 50                     20 50 32
+1        sale            40 25                     30 44 37
+2          50            44 43                     37 40 44
+3      jumper   3499cable knit                     40 44 43
+4          44            40 44                     44 37 40
+5          40      spring sale                     44 43 50
+6        knit    knit cardigan                     43 50 50
+7        3999          1799 10                     50 32 40
+8    cardigan            32 40                     50 50 50
+9   3499cable            37 40                     25 30 44
+10         37            44 37                     40 25 30
+11       3807            43 50                     32 40 25
+12         43            20 50           photo view gallery
+13       1799            25 30         sale confronted 3807
+14         25            50 32       overwhelm wise reading
+15       3499            30 44  overwhelming excitement pub
+16         10          3999 20  viability personal wardrobe
+17       2999  leather trouser       personal wardrobe time
+18    teather  charlie teather    shopper luckily challenge
+19    charlie       photo view          150 2999ribbed knit
+
+https://www.instyle.com/fashion/clothing/the-summer-3-fashion-rule-is-the-seasons-best-outfit-idea
+      1-gram              2-gram                          3-gram
+0       link            link tab                   link tab link
+1        tab            tab link                    tab link tab
+2    instyle         outfit idea              summer outfit idea
+3     outfit     instyle instyle              idea answer season
+4    dilemma       summer outfit              outfit idea answer
+5     summer     fashion dilemma           answer season biggest
+6      dress       answer season          season biggest fashion
+7      naked         idea answer         biggest fashion dilemma
+8     window       summer summer          fashion dilemma summer
+9    account      season biggest         instyle instyle instyle
+10  meredith     biggest fashion               link modal window
+11    answer      dilemma summer            summer summer summer
+12   fashion         naked dress           dilemma summer summer
+13      pair     account account            summer summer outfit
+14      idea          link modal        california sellthis link
+15    change        modal window             link tab california
+16   earring          time break         privacy policythis link
+17    beauty         summer rule   window accessibilitythis link
+18    season        pair earring  modal window accessibilitythis
+19      rule  privacy policythis             policythis link tab
+
+https://www.glamourmagazine.co.uk/gallery/bra-accentuation-trend-ss20
+          1-gram               2-gram                       3-gram
+0       bralette   accentuation trend       bra accentuation trend
+1   accentuation     bra accentuation           photo view gallery
+2            bra       sophie cockett         bandeau beeline asos
+3         stitch  underwear outerwear                 shine le bra
+4          trend             29 story          layering trend list
+5        cockett           photo view             britain 2022 bra
+6         sophie               le bra             shirt slip dress
+7          sheer          start shine        2022 bra accentuation
+8           asos        sporty velour           music ear realised
+9           racy             set draw           textured stitch 28
+10       bandeau         rock bearing          shein story glamour
+11       exposed     detailed dropped  sheer embroidered underwire
+12            29         lot feminine          contrast stitch 849
+13          rock      obsessed pretty        tendency reach sequin
+14      obsessed          head pretty          sheer organza short
+15     underwear          bralette 19            sheer mesh blouse
+16     outerwear          wa tomorrow         sheer layering trend
+17     detailing            asos lace          week street fashion
+18            23       wore underwear          le bra accentuation
+19         story        obsessed wore          leading head pretty
+
+https://www.glamourmagazine.co.uk/article/net-a-porter-global-trends
+         1-gram                   2-gram                            3-gram
+0       charlie          charlie teather           teather charlie teather
+1       teather         designer fashion           charlie teather charlie
+2           bag            saint laurent                1510 saint laurent
+3       fashion                hong kong                     meng bag 2100
+4         dress              loewe dress               saint laurent dress
+5      designer            designer item  unrestricted silhouette movement
+6         loewe      fashion influencers             saint laurent glamour
+7       laurent                style set             pace globe australian
+8     vancouver           bottega veneta              access broader array
+9          kong          teather charlie           teather influential job
+10         hong           fashion editor            print bursting florals
+11    amsterdam         burberry shopper                 saint laurent bag
+12     timeless          worn championed                accessory bag 1950
+13        miami         bursting florals    charlieteather charlie teather
+14    embracing                 meng bag            spoken social platform
+15  influencers          von furstenburg             pastel colour palette
+16        saint          porter discover             influential job title
+17       staple      personal preference         influencers summer sydney
+18      proving  unrestricted silhouette                   chooses pay day
+19      shopper           porter charlie                teather gallery 27
+
+https://www.vogue.in/fashion/content/i-want-to-emphasise-the-beauty-of-the-country-maria-grazia-chiuri-on-hosting-diors-cruise-2022-collection-in-athens
+        1-gram               2-gram                        3-gram
+0         dior            elis kiss      emphasise beauty country
+1       greece          cruise 2022        cruise 2022 collection
+2       chiuri     emphasise beauty           maria grazia chiuri
+3        speak         maria grazia       navigation menu fashion
+4       cruise       beauty country      4th century kallimarmaro
+5       athens        grazia chiuri   chiuri perspective feminist
+6   collection          dior cruise           continue marble 4th
+7         kiss      2022 collection           note italian father
+8         elis   india largechevron     developed elaborate level
+9      chiuris         menu fashion      chimamanda ngozi adichie
+10       greek    happening article     notion female empowerment
+11          ha        unveil cruise           model staff arrived
+12       india  understanding woman       lifestyle idea creating
+13        team     universal taught            chiuri ha embarked
+14       italy    kokosalakifor day           chiuri hosting dior
+15       maria      mantra nigerian         chiuri image powerful
+16      puglia   maisons experience  novemberworks studied school
+17       crete           marble 4th                  1947 time wa
+18      grazia         puglia speak           chiuri team visited
+19    feminist     woman trajectory           chiuris cruise 2022
+
+https://www.vogue.in/fashion/content/here-are-the-seven-finalists-competing-for-the-2022-international-woolmark-prize
+          1-gram                  2-gram                        3-gram
+0       finalist             merino wool      alhuwalia egonlab jordan
+1          prize          karl lagerfeld     jordan dalah mmusomaxwell
+2       woolmark            jordan dalah        mmusomaxwell peter rui
+3   mmusomaxwell              chloe chou            yves saint laurent
+4      lagerfeld          woolmark prize                peter rui sual
+5        egonlab      dalah mmusomaxwell  international woolmark prize
+6          dalah          egonlab jordan          egonlab jordan dalah
+7         merino      mmusomaxwell peter                 rui sual nash
+8            rui              yves saint      dalah mmusomaxwell peter
+9           karl            rahul mishra       navigation menu fashion
+10          chou          giorgio armani      finalist granted au60000
+11          nash               peter rui               china saul nash
+12        jordan               sual nash     finalist winner receiving
+13         india          united kingdom            finalist win prize
+14          wool  international woolmark     finalist supported figure
+15         peter                rui sual      finalist priya ahluwalia
+16    innovation       alhuwalia egonlab       finalist competing 2022
+17    collection        fashion industry     finalist designing merino
+18         award      capsule collection             merino wool final
+19      industry      india largechevron        finalist 2022 woolmark
+
+https://www.glamourmagazine.co.uk/article/sexy-fashion-trend
+               1-gram                    2-gram                         3-gram
+0               liane             sexy dressing  alexandra fullerton alexandra
+1           fullerton       alexandra fullerton  fullerton alexandra fullerton
+2           alexandra             anna moeslein      lifting lockdown customer
+3                sexy                 chloe law        worth wardrobe original
+4            moeslein                 june 21st              real uplift style
+5                 law              nensi dojaka            trend cut intricate
+6               trend               girl summer         lockdown wrapped duvet
+7            dressing       fullerton alexandra         dress celebrate female
+8            designer             fashion trend            season nensi dojaka
+9                body     ashish marquesalmeida               fabric lot dress
+10  matchesfashioncom             fitted sexier    fitting alexandra fullerton
+11           customer                tight body       developed season shorter
+12               anna          lifting lockdown         sexier dress celebrate
+13            fashion         wardrobe original       sexier silhouette coming
+14             sexier             coming london         shopper dressing super
+15               21st               buying sexy             sexiest trend wear
+16          interpret                photo anna            led trend developed
+17        socialising         dojaka maximilian   crystal germanier maximilian
+18              chloe          shopper dressing          celebrate female form
+19             dojaka  dojaka matchesfashioncom           fabric curve hugging
+
+https://www.purewow.com/fashion/mom-and-dad-fashion-trends
+      1-gram            2-gram                       3-gram
+0        dad           mom dad              mom dad fashion
+1        mom       dad fashion     fashion talked therapist
+2   password          mom jean   therapist trend forecaster
+3    fashion   forgot password                 mom jean dad
+4    account       close close           dad fashion talked
+5     people      sign purewow       talked therapist trend
+6      email      account sign             story love story
+7       feel  talked therapist           love story partner
+8    purewow   millennials gen      forgot password created
+9       time   parental figure          create account sign
+10   sneaker    fashion talked      password create account
+11     close  trend forecaster       enter registered email
+12      size      wearing feel    password created password
+13       gen        people opt      created password create
+14     trend           size 14                 share 33 pin
+15      sign          jean dad     proven soothing surprise
+16    parent   therapist trend        le restricted wearing
+17    recipe   pleated trouser  influence widespread change
+18       log       people feel         covid 19there reason
+19    forgot     abby hepworth      expert confident parent
+
+https://www.glamourmagazine.co.uk/gallery/zebra-print-trousers
+        1-gram               2-gram                     3-gram
+0        zebra          zebra print        zebra print trouser
+1      trouser        print trouser         shop zebra trouser
+2        print    reclaimed vintage            save shop zebra
+3    reclaimed        zebra trouser        vintage zebra print
+4      vintage           shop zebra  trouser reclaimed vintage
+5    fullerton            save shop    reclaimed vintage zebra
+6         asos        vintage zebra    print trouser reclaimed
+7       upside    trouser reclaimed      outfitter zebra print
+8       khaite  alexandra fullerton    trouser porter discount
+9    alexandra         mark spencer         mark spencer zebra
+10     stretch       sara battaglia      urban outfitter zebra
+11     spencer         native youth         zebra trouser asos
+12        mark       trouser porter        spencer zebra print
+13        shop        spencer zebra       zebra trouser porter
+14         ami           ami amalia      trouser asos discount
+15      native         trouser asos        portercom save shop
+16       youth    maison essentiele         asos discount code
+17  redemption      outfitter zebra       porter discount code
+18    athletix  redemption athletix             asos save shop
+19  essentiele          house sunny        cavalli zebra print
+
+https://www.vogue.in/fashion/content/pantones-2022-colour-of-the-year-very-peri-embraces-strangeness
+         1-gram                 2-gram                          3-gram
+0        spring            spring 2022               spring 2022 photo
+1   gorunwaycom             2022 photo               couture fall 2021
+2         haute              fall 2021              haute couture fall
+3          2022           couture fall        filippo fior gorunwaycom
+4      courtesy          haute couture             2022 photo courtesy
+5        colour         photo courtesy                 fall 2021 photo
+6          fall           filippo fior           2022 photo alessandro
+7       couture       fior gorunwaycom                 iris van herpen
+8         photo             2021 photo         valentino haute couture
+9          fior               xuly bet              photo filippo fior
+10      pantone          photo filippo              2022 photo filippo
+11      filippo         pantone colour        photo alessandro lucioni
+12    valentino           tomo koizumi        pantone colour institute
+13         peri             van herpen             2021 photo courtesy
+14         2021               iris van  alessandro lucioni gorunwaycom
+15         tomo        valentino haute            ferretti spring 2022
+16   alessandro       photo alessandro                  chet lo spring
+17      koizumi          louis vuitton             missoni spring 2022
+18       herpen  gorunwaycom valentino              lanvin spring 2022
+19         xuly         alexis mabille              tomo koizumi haute
+
+https://thevou.com/fashion/sustainable-fashion/
+           1-gram                2-gram                           3-gram
+0     sustainable   sustainable fashion        sustainable fashion brand
+1         fashion            fair trade       sustainable clothing brand
+2           brand        clothing brand           10 sustainable fashion
+3         ethical  sustainable clothing      fashion sustainable fashion
+4        clothing          fast fashion      sustainable fashion ethical
+5            fair          eco friendly        fashion brand sustainable
+6          animal         fashion brand  sustainable fashion sustainable
+7        material   fashion sustainable     sustainable clothing company
+8         garment             fair wage               ethical fair trade
+9           trade        organic cotton          greenhouse gas emission
+10       friendly                100 10          academia light academia
+11  manufacturing      fashion industry            vegan cruelty fashion
+12          vegan       fashion company      sustainable fashion article
+13          water       ethical fashion             fair trade certified
+14            eco          supply chain   definition sustainable fashion
+15           fast        10 sustainable              dark academia light
+16             10       fashion ethical        cottagecore dark academia
+17    environment      upcycled fashion             fashion ethical fair
+18       upcycled        animal leather    achieving sustainable fashion
+19        company     brand sustainable        fashion conscious fashion
+
+https://www.glamourmagazine.co.uk/article/bec-and-bridge-fashion-label-kim-kardashian
+        1-gram                  2-gram                       3-gram
+0      content      originates content    viewed originates content
+1   originates       content instagram    originates content viewed
+2       viewed       viewed originates  instagram content instagram
+3    instagram       instagram content    content instagram content
+4          bec          content viewed    content viewed originates
+5       bridge              bec bridge           success bec bridge
+6      teather         charlie teather      teather charlie teather
+7      charlie           bianca london      charlie teather charlie
+8      success             success bec            feed suddenly lot
+9       bianca       millie mackintosh   created commercially savvy
+10       label          kim kardashian        brand growing success
+11      millie         teather charlie       strong possibility bec
+12      aussie              sense girl          insta feed suddenly
+13  mackintosh    balance aspirational        bridge surprise label
+14        girl           label founded        dress growing glowing
+15      london            finally shop        london topic shopping
+16    launched           launched 2010         reason radar fashion
+17     fashion         possibility bec         london story glamour
+18      design  elyseknowles instagram    kardashian kendall jenner
+19     growing         teather noticed     bold recognisable design
+
+https://www.glamourmagazine.co.uk/gallery/top-20-biker-jackets
+       1-gram           2-gram                  3-gram
+0       biker     biker jacket    leather biker jacket
+1      jacket    leather biker       shop biker jacket
+2     leather       shop biker         save shop biker
+3        asos        save shop       biker jacket asos
+4        faux      jacket asos      biker jacket saint
+5        save     faux leather    jacket asos discount
+6       saint     jacket saint  jacket porter discount
+7        shop    discount code      faux leather biker
+8        code     mark spencer     saint laurent biker
+9    discount    laurent biker    laurent biker jacket
+10    spencer    jacket porter     biker jacket porter
+11       mark  urban outfitter          asos save shop
+12       raey    asos discount      asos discount code
+13   deadwood        asos save     portercom save shop
+14      oasis     karen millen    porter discount code
+15      urban    saint laurent       wear biker jacket
+16  outfitter   portercom save  warehouse biker jacket
+17    whistle  porter discount     simply biker jacket
+18      karen   deadwood biker      discount code faux
+19      suede    jacket people    whistle biker jacket
+
+https://www.glamourmagazine.co.uk/gallery/best-modest-summer-dresses
+         1-gram              2-gram                       3-gram
+0        modest       modest summer          modest summer dress
+1         dress        summer dress           shop modest summer
+2        summer         shop modest             save shop modest
+3          asos          dress asos            summer dress asos
+4          maxi           save shop           asos modest summer
+5       content          maxi dress            dress asos modest
+6          save         asos modest         modest summer outfit
+7          shop       discount code          dress asos discount
+8          code       summer outfit          summer dress porter
+9      discount       casual modest        diane von furstenberg
+10       sleeve     von furstenberg         casual modest summer
+11  furstenberg           asos save           asos discount code
+12    instagram   content instagram               asos save shop
+13        diane       asos discount    content instagram content
+14        arket           diane von  instagram content instagram
+15   originates      content viewed    content viewed originates
+16       viewed   viewed originates    viewed originates content
+17         silk   instagram content        dress porter discount
+18        coast        dress porter    originates content viewed
+19          von  originates content          portercom save shop
+
+https://www.glamourmagazine.co.uk/gallery/summer-wedding-guest-dresses
+        1-gram            2-gram                 3-gram
+0        guest       guest dress    wedding guest dress
+1      wedding     wedding guest   summer wedding guest
+2        dress    summer wedding     guest dress summer
+3       summer      dress summer       save shop summer
+4         asos       shop summer    shop summer wedding
+5         save         save shop   dress summer wedding
+6         shop        dress asos       guest dress asos
+7         code     discount code     guest dress sleeve
+8     discount        midi dress   formal wedding guest
+9        satin       asos summer    asos summer wedding
+10        midi    formal wedding       guest dress 2022
+11      sleeve     sleeve summer    dress asos discount
+12      porter        dress 2022    summer maxi wedding
+13  bridesmaid  bridesmaid dress       guest dress size
+14      formal      river island  summer formal wedding
+15      floral      dress sleeve    cute summer wedding
+16        maxi       porter save     maxi wedding guest
+17       river        dress size     guest dress porter
+18   warehouse       summer maxi      dress summer maxi
+19      island         dress 285       guest dress cute
+
+https://www.glamourmagazine.co.uk/gallery/summer-dresses-with-sleeves
+      1-gram           2-gram                       3-gram
+0      dress       dress 4999          puffed sleeve dress
+1     puffed    puffed sleeve          collared mini dress
+2     sleeve       midi dress              24 summer dress
+3       4999          tie dye             dress 4999 mango
+4        695        dress 695               dress 95 story
+5   collared    collared mini              tiered dress 95
+6        arm     sleeve dress         arket belted ruffled
+7       midi      ribbed knit     deserving month pleasant
+8      mango        24 summer       warmth gentlest breeze
+9    frilled       mini dress               midi dress 695
+10      knit     summer dress  shoppable category commerce
+11     linen      linen dress          tiered cotton dress
+12   checked       dress 2999   category commerce platform
+13   sleeper         95 story             sleeper cut midi
+14    ribbed  charlie teather       overwhelming gust wind
+15        24      shirt dress       sleeper floral printed
+16       dye       4999 mango           245 sleeper floral
+17      2999         dress 95               midi dress 630
+18    floral   sleeper floral       breeze stuff emergency
+19      mini       sleeve add                midi dress 89
+
