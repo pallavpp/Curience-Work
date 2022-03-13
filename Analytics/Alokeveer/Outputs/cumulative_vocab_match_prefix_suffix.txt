@@ -1,0 +1,742 @@
+Vocab match top 3 prefix suffix on my all blogs combined
+                    Prefix3               Prefix2                Prefix1                     Keyword                            Suffix1                      Suffix2                   Suffix3
+0               (london, 1)             (mini, 1)           (marbled, 1)                     acrylic                        (clutch, 1)                    (tote, 1)           (goldplated, 1)
+1                         -                     -            (mythic, 1)                 allamerican                       (fashion, 1)                            -                         -
+2                         -                     -              (wrap, 1)                      allbuy                           (475, 1)                            -                         -
+3                         -                     -            (raquel, 1)                     allegra                         (dress, 1)                            -                         -
+4                         -                     -          (darlings, 1)                       allen                     (ginsberga, 1)                            -                         -
+5                         -                     -              (hair, 1)                  allequally                         (cairo, 1)                            -                         -
+6                         -                     -            (ironic, 1)                    allergic                         (wooli, 1)                            -                         -
+7                         -                     -             (julia, 3)                      allert                       (creates, 1)                 (highend, 1)                 (fair, 1)
+8                         -                     -             (julia, 1)                     allerts                        (unique, 1)                            -                         -
+9                         -                     -             (trend, 1)                     allkeep                           (eye, 1)                            -                         -
+10            (easefrom, 1)             (pick, 1)          (clothing, 1)                  allnatural                   (sustainable, 1)            (fabricsavoid, 1)               (fibers, 1)
+11                        -                     -           (shining, 1)                    allotted                       (30guest, 1)                            -                         -
+12       (determination, 1)          (project, 1)            (colour, 1)                     allowed                          (plan, 1)                  (buyers, 1)             (magazine, 1)
+13                 (sun, 1)         (operates, 1)           (leather, 1)                    allowing                       (fashion, 1)                   (users, 1)          (ventilation, 1)
+14                        -                     -              (sale, 1)                   allsaints                      (discount, 1)                            -                         -
+15                        -                     -        (resurgence, 1)                   allthings                     (noughties, 1)                            -                         -
+16           (versatile, 1)         (supports, 1)            (slogan, 1)                      animal                         (print, 2)           (productsabove, 1)            (charities, 1)
+17                        -                     -            (jumped, 1)                 animalistic                     (wardrobes, 1)                            -                         -
+18            (kindness, 1)          (farming, 1)             (blood, 1)                     animals                        (killed, 1)                 (tanning, 1)          (marketplace, 1)
+19           (seemingly, 3)           (layers, 3)               (lot, 3)                asymmetrical                          (cuts, 3)                   (tulle, 3)                (enjoy, 3)
+20                        -                     -              (shop, 2)                 backcountry                          (shop, 2)                            -                         -
+21                        -                     -      (masterpieces, 2)                    backdrop                      (showcase, 2)                            -                         -
+22                        -          (sandals, 3)            (eyelet, 6)                    backless                          (puff, 6)             (loafershere, 3)                         -
+23                        -                     -             (nomad, 2)                    backpack                             (2, 2)                            -                         -
+24                        -                     -            (stores, 2)                    backroom                       (doorsit, 2)                            -                         -
+25                        -                     -               (car, 2)                   backstage                       (fashion, 2)                            -                         -
+26                        -                     -        (maximalism, 2)                    backthis                       (content, 2)                            -                         -
+27                        -                     -           (inspire, 2)                  backtowork                      (wardrobe, 2)                            -                         -
+28                        -                     -          (searches, 1)                       baggy                         (jeans, 1)                            -                         -
+29                        -          (designs, 1)              (neck, 1)                     bandeau                         (style, 1)               (haltertop, 1)                         -
+30                        -                     -          (necklace, 1)                     baroque                    (pearlsshop, 1)                            -                         -
+31             (organic, 1)        (ultrasoft, 1)            (spring, 1)                      basics                        (boring, 1)                (egyptian, 1)          (artisanmade, 1)
+32                 (eos, 1)          (handles, 1)            (quirky, 1)                      beaded                           (bag, 4)                    (tote, 4)                 (bags, 1)
+33               (heels, 1)            (black, 1)           (classic, 1)                       beige                        (trench, 1)             (reminiscent, 1)                (black, 1)
+34                        -                     -             (tonal, 1)                      beiges                      (wardrobe, 1)                            -                         -
+35               (nichs, 1)            (gucci, 1)              (pair, 1)                      belted                         (linen, 3)                    (puff, 1)                 (wrap, 1)
+36                        -                     -       (highwaisted, 1)                       biker                        (shorts, 1)                            -                         -
+37                (pink, 2)           (silver, 2)              (ss22, 2)                       black                       (netting, 3)                   (white, 2)              (leather, 2)
+38                        -                     -        (womenowned, 1)                  blackowned                           (usa, 1)                            -                         -
+39                        -                     -           (brandon, 1)                   blackwood                           (syl, 1)                            -                         -
+40                (coat, 1)          (express, 2)             (tweed, 3)                      blazer                           (138, 2)                   (dress, 2)           (neutralise, 1)
+41        (shirtdresses, 1)   (doublebreasted, 1)           (vintage, 1)                     blazers                (representative, 1)                   (tweed, 1)              (embrace, 1)
+42                        -    (costscompared, 4)           (plastic, 4)                      blends                 (costscompared, 4)                 (natural, 4)                         -
+43                (kyla, 1)           (billow, 1)            (pretty, 1)                      blouse                         (heels, 1)                       (4, 1)                    (6, 1)
+44                        -                     -            (yellow, 1)                   blousebuy                            (79, 1)                            -                         -
+45              (shirts, 1)           (choose, 1)       (belowchoose, 1)                     blouses                        (cuffed, 1)                    (bell, 1)              (dresses, 1)
+46                (sky, 16)          (bright, 24)           (united, 32)                        blue                  (floralprint, 24)                  (polka, 16)                (pumps, 8)
+47                        -                     -              (aida, 8)            bluephotographer                        (tyrone, 8)                            -                         -
+48                        -                     -            (winter, 8)                       blues                          (news, 8)                            -                         -
+49                        -                     -          (reliable, 8)                    bluesbuy                           (178, 8)                            -                         -
+50                        -                     -             (pants, 8)                    bluewash                         (jeans, 8)                            -                         -
+51               (check, 1)           (ruched, 1)              (2010, 1)                     bodycon                          (club, 1)            (notsoclassic, 1)                 (midi, 1)
+52             (rounded, 1)         (romantic, 1)            (unique, 1)                        boho                       (fashion, 1)                   (dress, 1)              (wedding, 1)
+53                        -                     -         (instagram, 1)                bohoinspired                       (fashion, 1)                            -                         -
+54                        -        (beautiful, 1)       (ecofriendly, 1)                   bohostyle                  (lookseditors, 1)                   (linen, 1)                         -
+55            (tailored, 1)          (chaotic, 1)      (loosefitting, 1)                     bottoms                     (oversized, 1)                  (flares, 1)                (sleek, 1)
+56                        -                     -       (oneshoulder, 2)                         bow                         (dress, 2)                            -                         -
+57                        -                     -               (100, 2)                      bowern                 (netaportercom, 2)                            -                         -
+58                        -           (floppy, 2)            (dainty, 2)                        bows                         (power, 2)                (knotting, 2)                         -
+59                        -                     -           (details, 1)                    braiding                      (ultimate, 1)                            -                         -
+60                (cool, 1)         (famously, 1)             (feels, 1)                  breathable                    (athleisure, 1)                  (fabric, 1)           (summertime, 1)
+61                        -        (including, 1)              (gold, 1)                      bronze                         (amber, 1)                  (artist, 1)                         -
+62             (organic, 5)            (black, 5)           (laura, 120)                       brown                     (shopping, 40)                 (editor, 40)               (talks, 40)
+63                        -                     -            (market, 5)                      browns                   (manicurists, 5)                            -                         -
+64                        -                     -              (soft, 5)              brownsdesigner                         (simon, 5)                            -                         -
+65                        -                     -             (seams, 1)                        bust                         (torso, 1)                            -                         -
+66                        -                     -             (jeans, 1)                   butterfly                        (jumped, 1)                            -                         -
+67            (bralette, 3)          (ribbons, 3)             (crisp, 3)                      button                         (white, 3)                  (lowkey, 3)                 (tuck, 3)
+68               (layer, 3)             (skip, 3)             (white, 3)                  buttondown                         (shirt, 6)                   (match, 3)             (slipping, 3)
+69                        -             (tops, 3)          (wardrobe, 3)                 buttondowns                         (linen, 3)                      (90, 3)                         -
+70               (dress, 3)             (wear, 3)             (pinko, 3)                    buttoned                         (denim, 3)                   (dress, 3)              (halfway, 3)
+71                        -                     -             (jcrew, 3)                 buttonfront                         (beach, 3)                            -                         -
+72                (neck, 4)   (classicwhether, 4)      (doublebreast, 4)                     buttons                       (cropped, 4)                    (neck, 4)                (chest, 4)
+73     (oncepigeonholed, 3)           (eileen, 3)           (sweater, 3)                    buttonup                         (shirt, 3)                     (218, 3)                 (knit, 3)
+74                        -                     -            (fabric, 1)                       camel                         (brown, 1)                            -                         -
+75                        -                     -              (cute, 1)                        cami                      (occasion, 1)                            -                         -
+76                        -              (175, 1)               (168, 1)                      camila                        (coelho, 2)                            -                         -
+77                        -         (layering, 2)              (gold, 2)                        cape                          (toes, 2)                     (add, 2)                         -
+78             (neutral, 2)        (valentino, 2)          (dramatic, 2)                       capes                       (rodarte, 2)                (dramatic, 2)             (glamrock, 2)
+79                        -             (york, 1)           (sliding, 1)                         car                       (leather, 1)               (backstage, 1)                         -
+80                        -                     -            (walton, 1)                        cara                        (taylor, 1)                            -                         -
+81                        -                     -           (classic, 1)                     caramel                           (215, 1)                            -                         -
+82                        -        (footprint, 1)              (dyes, 1)                      carbon                     (footprint, 1)                (emission, 1)                         -
+83                        -                     -       (embroidered, 1)                       cardi                        (summer, 1)                            -                         -
+84              (naadam, 2)            (curve, 4)              (knit, 4)                    cardigan                       (pantone, 4)                     (175, 2)                (dress, 2)
+85            (sweaters, 2)             (wrap, 2)           (tshirts, 2)                   cardigans                       (dresses, 2)               (squaretoe, 2)                 (fall, 2)
+86                        -                     -           (talking, 2)               cardigansthis                       (content, 2)                            -                         -
+87                        -                     -            (credit, 1)                 cardrelated                          (2015, 1)                            -                         -
+88                        -             (hear, 1)         (designers, 1)                        care                       (fashion, 1)               (stressful, 1)                         -
+89                        -                     -          (elegance, 1)                 careeditors                          (note, 1)                            -                         -
+90             (fashion, 1)        (brilliant, 1)              (life, 5)                      career                     (reclusive, 2)              (tragically, 1)             (artistry, 1)
+91                        -                     -           (fashion, 1)                    careerin                    (discussing, 1)                            -                         -
+92                (cool, 1)           (chanel, 1)             (loose, 2)                    carefree                        (spirit, 1)                   (super, 1)              (clothes, 1)
+93                        -                     -           (glasses, 1)                   carefully                    (supervises, 1)                            -                         -
+94                        -                     -           (rebecca, 1)                       cares                   (collections, 1)                            -                         -
+95                        -           (follow, 1)              (2011, 1)                      carine                      (roitfeld, 1)                   (moves, 1)                         -
+96                        -                     -        (chronicles, 1)                     carines                   (resignation, 1)                            -                         -
+97                        -        (embracing, 1)           (fashion, 1)                      caring                        (people, 1)          (environmentthe, 1)                         -
+98                        -             (3499, 1)            (beauty, 1)                    carolina                       (herrera, 2)                            -                         -
+99                        -                     -          (designer, 1)                    caroline                           (hus, 1)                            -                         -
+100                       -                     -            (models, 1)                     carolyn                        (murphy, 1)                            -                         -
+101                       -                     -              (red, 18)                      carpet                         (feats, 8)                    (worn, 8)           (minimalist, 1)
+102                       -                     -               (red, 1)                     carpets                     (instagram, 1)                            -                         -
+103                       -                     -             (pumps, 1)                      carrie                      (bradshaw, 1)                            -                         -
+104                       -             (love, 1)         (francesco, 1)                  carrozzini                     (chronicle, 1)                  (scenes, 1)                         -
+105               (size, 1)             (bags, 1)         (inability, 1)                       carry                    (belongings, 1)                   (dress, 1)                (phone, 1)
+106                       -        (everyones, 1)             (fancy, 1)                    carrying                       (italian, 1)                  (summer, 1)                         -
+107                       -          (dresses, 1)               (add, 1)                        cart                       (asapbuy, 1)                  (selkie, 1)                         -
+108                       -                     -               (add, 1)                     cartbuy                           (129, 1)                            -                         -
+109                       -                     -             (lynda, 1)                      carter                       (graphic, 1)                            -                         -
+110                       -                     -        (eggbeaters, 1)                      carton                      (straight, 1)                            -                         -
+111                       -                     -          (shoppers, 1)                     cartons                     (farmfresh, 1)                            -                         -
+112                 (20, 1)             (gray, 1)          (recycled, 2)                    cashmere                      (sweaters, 1)                   (socks, 1)               (bright, 1)
+113          (introduce, 1)          (elevate, 2)          (sneakers, 2)                      casual            (perspectivespotted, 1)                (vibeshop, 1)          (accessories, 1)
+114                       -             (shop, 1)     (sneakersknits, 1)                  casualwear                           (pop, 1)                    (time, 1)                         -
+115              (jeans, 1)          (booties, 1)            (supply, 2)                       chain                          (link, 1)               (inventory, 1)         (necklacesnow, 1)
+116                       -                     -            (season, 1)                chainadorned                          (tote, 1)                            -                         -
+117                       -                     -            (supply, 1)                   chainfrom                       (growing, 1)                            -                         -
+118                       -                     -             (pearl, 1)                      chains                  (gemencrusted, 1)                            -                         -
+119                       -                     -       (embellished, 1)                  chainstrap                      (shoulder, 1)                            -                         -
+120                       -                     -            (supply, 1)                    chainthe                         (brand, 1)                            -                         -
+121                       -      (floralprint, 1)       (floorlength, 1)                     chiffon                         (satin, 1)                    (midi, 1)                         -
+122                       -                     -            (layers, 1)                   christmas                           (day, 1)                            -                         -
+123             (winter, 3)           (trench, 6)              (fur, 12)                        coat                       (pantone, 6)                  (blazer, 3)              (equally, 3)
+124             (blobby, 3)           (puffer, 3)           (pockets, 3)                       coats                     (favourite, 3)                    (feel, 3)              (jackets, 3)
+125              (metal, 8)        (broderie, 24)           (square, 80)                      collar                         (midi, 80)                  (dress, 24)               (cutout, 8)
+126                       -                     -         (onebutton, 8)               collarbahrain                         (saudi, 8)                            -                         -
+127                       -          (spotted, 8)        (exitforget, 8)                 collarbones                   (decolletage, 8)                (ribcages, 8)                         -
+128              (codes, 8)                (4, 8)       (collection, 16)                    collared                       (floral, 24)                  (cotton, 8)                         -
+129                       -                     -           (ontrend, 8)                     collars                     (intricate, 8)                            -                         -
+130            (dresses, 1)           (create, 1)            (custom, 1)                colorblocked                        (outfit, 1)                (ensemble, 1)               (skirts, 1)
+131                       -                     -        (midcentury, 1)               colorblocking                       (kenneth, 1)                            -                         -
+132        (manifesting, 1)             (time, 1)           (combine, 1)                     comfort                         (style, 1)                    (eggs, 1)               (plenty, 1)
+133         (incredibly, 1)               (16, 1)           (finally, 1)                 comfortable                       (leaving, 1)                 (walking, 1)                 (easy, 1)
+134                       -                     -           (support, 1)              comforthalogen                      (crewneck, 1)                            -                         -
+135                       -                     -        (woolblends, 1)                    corduroy                     (materials, 1)                            -                         -
+136                  (4, 1)           (opting, 1)             (clogs, 2)                      corset                          (tops, 4)            (coordinating, 1)            (detailing, 1)
+137                       -            (tight, 1)            (actual, 1)                     corsets             (lingerieasdaywear, 1)                   (yards, 1)                         -
+138           (egyptian, 2)      (sustainable, 4)          (organic, 42)                      cotton                       (summer, 12)                 (natural, 6)         (ecoconscious, 6)
+139              (fendi, 2)        (towelling, 2)             (amber, 2)                 cottonblend                         (terry, 2)                  (tshirt, 2)                 (knit, 2)
+140                       -                     -           (organic, 2)              cottonmoreover                         (brand, 2)                            -                         -
+141                       -                     -           (striped, 2)                cottonpoplin                         (shirt, 2)                            -                         -
+142                       -      (floralprint, 2)           (smocked, 2)                 cottonterry                          (midi, 2)                    (wrap, 2)                         -
+143                       -                     -           (organic, 2)                   cottonthe                         (label, 2)                            -                         -
+144                       -                     -         (slitfront, 2)             cottontowelling                         (skirt, 2)                            -                         -
+145                       -                     -           (ruffled, 2)                 cottontwill                         (dress, 2)                            -                         -
+146            (stocked, 1)            (jeans, 1)          (knitwear, 1)                     crochet                          (tops, 2)                    (real, 1)               (shorts, 1)
+147                       -                     -             (lotus, 1)                   crocheted                        (cotton, 1)                            -                         -
+148       (puffedsleeve, 1)         (fashions, 1)              (knit, 2)                        crop                          (tops, 4)                      (45, 1)         (unexpectedly, 1)
+149            (stories, 2)          (buttons, 2)              (wear, 4)                     cropped                         (jeans, 4)                 (sweater, 4)              (jackets, 2)
+150                       -                     -           (sliders, 1)                       cross                          (body, 1)                            -                         -
+151                       -                     -             (woven, 1)                   crossbody                  (bagsalthough, 1)                            -                         -
+152                       -                     -          (sweetest, 1)                     crossed                        (hilary, 1)                            -                         -
+153            (revival, 1)         (wetsuits, 1)             (super, 2)                        cute                        (summer, 2)                 (bathing, 1)          (oneshoulder, 1)
+154             (clingy, 1)        (scrunched, 1)             (loose, 2)                       denim                         (dress, 2)                  (shorts, 2)                  (jil, 1)
+155                       -                     -         (highwaist, 1)                    denimget                     (superdown, 1)                            -                         -
+156                       -                     -           (steeles, 1)                denimondenim                         (twist, 1)                            -                         -
+157             (orange, 1)          (flocked, 1)            (polka, 16)                         dot                       (sleeve, 10)                   (dress, 4)               (tights, 1)
+158                       -                     -             (black, 1)                      dotted                         (tulle, 1)                            -                         -
+159                       -                     -            (notice, 2)                  drawstring                       (cutouts, 2)                            -                         -
+160           (fashion, 19)            (mini, 38)             (midi, 50)                       dress                      (dresses, 40)                  (ghost, 36)             (sellout, 16)
+161                       -                     -           (sweater, 1)           dressasymmetrical                        (pieces, 1)                            -                         -
+162               (cozy, 1)            (avoid, 1)             (fresh, 2)                     dressed                          (dark, 1)                 (weekend, 1)               (offers, 1)
+163                       -                     -      (constricting, 1)                   dressedup                        (slacks, 1)                            -                         -
+164                       -                     -          (fearless, 1)                    dressers                        (summer, 1)                            -                         -
+165             (dress, 40)           (naked, 40)          (wedding, 49)                     dresses                         (sale, 43)                  (short, 41)                (time, 16)
+166                       -                     -            (spring, 1)                  dressesnow                    (vaccinated, 1)                            -                         -
+167                       -                     -             (speak, 1)                   dresshere                       (typical, 1)                            -                         -
+168              (homes, 1)         (reentree, 1)            (romcom, 3)                    dressing                     (christian, 1)                 (predict, 1)                (spice, 1)
+169                       -                     -             (style, 1)             dressingwhether                         (night, 1)                            -                         -
+170                       -                     -           (wedding, 1)                   dresslace                          (slip, 1)                            -                         -
+171                       -                     -               (00s, 1)              dressoverpants                         (trend, 1)                            -                         -
+172                       -                     -           (wedding, 1)                  dresssatin                          (slip, 1)                            -                         -
+173                       -                     -           (wedding, 1)           dressselfportrait                       (guipure, 1)                            -                         -
+174                       -                     -           (wedding, 1)              dressstrapless                         (dress, 1)                            -                         -
+175                       -                     -            (summer, 1)                   dressthis                       (content, 1)                            -                         -
+176             (summer, 2)           (friend, 2)            (trendy, 2)                      dressy                          (wear, 2)                   (super, 2)         (accessorized, 2)
+177                       -                     -               (dip, 1)                         dye                        (pastel, 1)                            -                         -
+178                       -    (occasionsthat, 1)              (sewn, 1)                        dyed                         (local, 1)                   (black, 1)                         -
+179                       -        (lowimpact, 2)       (ecofriendly, 2)                        dyes                        (prised, 1)                    (pair, 1)               (carbon, 1)
+180                       -                     -     (earthfriendly, 1)                     dyesthe                        (brands, 1)                            -                         -
+181                       -                     -            (fabric, 1)                      dyethe                    (collection, 1)                            -                         -
+182            (seeking, 1)           (simple, 1)         (producing, 1)                     elegant                     (eggshaped, 1)                   (dress, 1)          (longlasting, 1)
+183                       -                     -           (balance, 1)  elegantnottooglampractical                      (heatthis, 1)                            -                         -
+184                       -          (fabrics, 2)           (cutwork, 2)                  embroidery                        (clever, 2)             (printmaking, 2)                         -
+185                       -            (knits, 1)            (cotton, 2)                      eyelet                      (backless, 2)                  (fabric, 1)                         -
+186                       -                     -            (season, 1)                     eyelets                        (laceup, 1)                            -                         -
+187               (gray, 1)         (feelgood, 1)           (offcuts, 2)                      fabric                     (signature, 1)              (seethrough, 1)               (pradas, 1)
+188                       -                     -            (clever, 1)                 fabrication                        (sexier, 1)                            -                         -
+189             (prints, 2)          (organic, 3)           (natural, 9)                     fabrics                      (recycled, 2)                     (usa, 2)                (seams, 1)
+190                       -                     -        (allnatural, 1)                fabricsavoid                     (polyester, 1)                            -                         -
+191                       -                     -       (sustainable, 1)                 fabricsshop                       (founded, 1)                            -                         -
+192                       -                     -         (deadstock, 1)                fabricwhimsy                           (row, 1)                            -                         -
+193              (tough, 1)            (movie, 2)          (dresses, 13)                        fall                      (dresses, 15)                    (2021, 3)                 (hard, 2)
+194                       -                     -             (boots, 1)                     fallbuy                            (98, 1)                            -                         -
+195                       -                     -            (jenner, 1)                      fallen                    (microtrend, 1)                            -                         -
+196                       -                     -         (wellknown, 1)                fallfriendly                      (material, 1)                            -                         -
+197              (helen, 1)           (weight, 1)             (brink, 1)                     falling                          (love, 2)              (categoryin, 1)          (bodyspotted, 1)
+198                       -                     -           (wearing, 1)                       falls                       (biggest, 1)                            -                         -
+199                       -                     -             (ruffs, 1)                     feather                          (boas, 1)                            -                         -
+200                       -            (boots, 1)               (bit, 1)                   feathered                        (fluffy, 1)                   (trims, 1)                         -
+201             (frills, 1)                (7, 1)          (textures, 1)                    feathers                     (shearling, 2)                (flounces, 1)                         -
+202                       -                     -          (bedecked, 1)              feathersonline                      (searches, 1)                            -                         -
+203                       -                     -             (poppy, 1)              feathertrimmed                         (dress, 1)                            -                         -
+204                       -                     -           (textile, 1)                       fiber                        (orange, 1)                            -                         -
+205          (renewable, 1)    (biodegradable, 1)           (natural, 2)                      fibers                   (ecofriendly, 1)                 (organic, 1)               (tencel, 1)
+206         (flattering, 1)       (struggling, 1)               (key, 1)                      figure                         (1960s, 1)                 (strappy, 1)                 (deep, 1)
+207                       -                     -          (gorgeous, 1)                   figurebuy                           (148, 1)                            -                         -
+208                       -                     -           (finally, 1)                     figured                         (trend, 1)                            -                         -
+209                       -                     -            (bridal, 1)               figurehugging                   (alternative, 1)                            -                         -
+210                       -                     -            (unique, 1)                     figures                          (20th, 1)                            -                         -
+211                       -                     -          (industry, 1)                 figuresfrom                          (boss, 1)                            -                         -
+212            (shacket, 4)        (customize, 4)           (perfect, 8)                         fit                         (style, 4)              (seamlessly, 4)                  (leg, 4)
+213                       -                     -         (beautiful, 4)                 fitandflare                    (silhouette, 4)                            -                         -
+214                       -                     -            (finish, 4)                      fitbuy                           (165, 4)                            -                         -
+215                       -                     -        (rediscover, 4)                     fitness                    (motivation, 4)                            -                         -
+216           (approach, 4)             (2021, 4)              (2018, 4)                        fits                       (friends, 4)               (perfectly, 4)              (current, 4)
+217               (wear, 5)             (luxe, 5)              (worn, 5)                      fitted                      (bodysuit, 5)                  (blazer, 5)                 (tank, 5)
+218                       -          (kidding, 4)             (infor, 4)                     fitting                       (fashion, 4)                   (jeans, 4)                         -
+219                       -                     -             (basic, 1)                        flag                      (summerno, 1)                            -                         -
+220                       -       (ruggedness, 1)          (sweaters, 1)                     flannel                        (warmth, 1)                (shackets, 1)                         -
+221             (bikini, 3)            (fonda, 3)           (wideleg, 3)                      flared                   (silhouettes, 3)                   (jeans, 3)                (pants, 3)
+222                       -          (bottoms, 1)     (multicoloured, 1)                      flares                     (swoonthis, 1)                (wardrobe, 1)                         -
+223           (collared, 6)           (orange, 6)        (collection, 8)                      floral                        (dress, 14)                   (mini, 12)                (print, 8)
+224              (mango, 2)           (people, 2)              (blue, 6)                 floralprint                         (dress, 4)                    (mini, 2)          (cottonterry, 2)
+225                 (35, 2)        (spiritual, 2)            (breezy, 4)                     florals                        (spring, 2)                     (fit, 2)                  (fun, 2)
+226                       -                     -               (nyc, 1)                     flounce                         (dress, 1)                            -                         -
+227                       -                     -          (feathers, 1)                    flounces                     (plentiful, 1)                            -                         -
+228                       -                     -       (omnipresent, 2)                         fly                         (radar, 2)                            -                         -
+229                       -                     -       (influencers, 2)                      flying                         (basic, 2)                            -                         -
+230                       -            (wraps, 1)              (pink, 3)                     frilled                         (dress, 2)                   (minis, 1)               (floral, 1)
+231                       -                     -       (personality, 1)                      frills                      (feathers, 1)                            -                         -
+232                       -          (friends, 1)           (touches, 1)                      frilly                      (finishes, 1)                  (floral, 1)                         -
+233              (suede, 1)            (silky, 1)              (2020, 1)                      fringe                      (expected, 1)                (requires, 1)               (cowboy, 1)
+234               (2022, 1)             (2021, 2)            (orange, 2)                     fringed                         (trims, 2)                     (bag, 2)                 (trim, 1)
+235                       -                     -          (observed, 3)              frontdishdasha                       (classic, 3)                            -                         -
+236         (selfridges, 3)          (leather, 3)              (faux, 6)                         fur                         (coat, 12)                 (fashion, 3)                         -
+237                       -                     -           (threads, 3)                      furoid                      (creating, 3)                            -                         -
+238                       -                     -               (von, 6)                 furstenberg                          (lynn, 3)               (alexander, 3)                         -
+239                       -                     -              (hath, 3)                        fury                       (shopper, 3)                            -                         -
+240                       -         (elevated, 1)           (dresses, 2)                   geometric                    (monochrome, 2)                  (prints, 1)                         -
+241            (fabrics, 1)           (thread, 1)          (obsessed, 1)                     gingham                         (print, 1)               (ballerina, 1)                (linen, 1)
+242               (veil, 1)      (documentary, 1)           (footage, 1)                   glamorous                       (moments, 1)                     (ode, 1)              (fashion, 1)
+243                       -                     -              (lawn, 1)                 glamorously                        (lounge, 1)                            -                         -
+244                       -                     -               (nab, 1)                    glittery                 (bubblescented, 1)                            -                         -
+245             (fringe, 1)           (shades, 1)            (chunky, 2)                        gold                           (egg, 2)                 (jewelry, 2)               (bronze, 1)
+246                       -                     -         (platforms, 1)                  golddipped                          (toes, 1)                            -                         -
+247                       -           (attire, 1)         (valentino, 1)                      golden                        (globes, 1)                    (hour, 1)                         -
+248                       -                     -           (acrylic, 1)                  goldplated                        (beaded, 1)                            -                         -
+249                       -                     -       (exclusively, 1)                       golds                       (silvers, 1)                            -                         -
+250                       -                     -            (offers, 1)                     goldthe                       (fashion, 1)                            -                         -
+251                       -                     -              (tear, 1)                    goldtone                       (crystal, 1)                            -                         -
+252                       -              (fun, 1)            (carter, 1)                     graphic                          (tees, 2)                            -                         -
+253                       -                     -              (cool, 1)                    graphics                     (aesthetic, 1)                            -                         -
+254           (printed, 18)            (mint, 18)             (lime, 18)                       green                        (polka, 24)                  (dress, 18)              (floral, 12)
+255                       -                     -             (kelly, 6)                    greenbuy                            (89, 6)                            -                         -
+256                       -             (aims, 6)         (emissions, 6)                  greenhouse                         (gases, 6)                     (gas, 6)                         -
+257                       -                     -               (pvc, 6)                  greenpeace                        (single, 6)                            -                         -
+258                       -                     -           (oranges, 6)                      greens                           (set, 6)                            -                         -
+259            (crochet, 2)            (force, 2)              (cher, 2)                      halter                          (tops, 6)                    (midi, 2)                         -
+260              (satin, 2)              (cut, 2)             (trend, 4)                  halterneck                        (bikini, 4)                   (dress, 2)                 (mini, 2)
+261                       -                     -           (twisted, 4)                 halternecks                       (extreme, 2)              (expiration, 2)                         -
+262                       -                     -           (bandeau, 2)                   haltertop                       (twisted, 2)                            -                         -
+263               (gold, 1)         (creative, 1)             (faint, 1)                       heart                          (love, 1)                  (master, 1)              (pendant, 1)
+264                       -                     -         (rhodolite, 1)                    heartbuy                          (1676, 1)                            -                         -
+265                       -                     -         (fullerton, 1)                  heartzeena                     (instagram, 1)                            -                         -
+266          (midlength, 2)            (hanky, 2)           (variety, 2)                         hem                       (lengths, 2)                   (dress, 2)              (perfect, 2)
+267                       -                     -                (13, 2)                      hemant                       (nandita, 2)                            -                         -
+268                       -          (shorter, 2)               (bar, 2)                     hemline                        (raised, 2)           (yourselfyoull, 2)                         -
+269             (warmer, 2)          (shorter, 2)            (pieces, 2)                    hemlines                        (skirts, 2)               (replacing, 2)           (sleeveless, 2)
+270          (materials, 2)           (cotton, 2)            (tencel, 2)                        hemp                       (organic, 4)                  (tencel, 2)              (ethical, 2)
+271                       -                     -            (fringe, 2)                     hemshop                         (trend, 2)                            -                         -
+272                       -          (burnous, 1)            (unisex, 1)                      hooded                         (tunic, 1)           (djellabawhile, 1)                         -
+273            (dresses, 1)            (coats, 1)           (cropped, 1)                     jackets                          (worn, 1)                  (spring, 1)          (sustainable, 1)
+274                       -         (stretchy, 1)            (pocket, 1)                     joggers                            (49, 1)                     (gym, 1)                         -
+275                       -                     -            (arabic, 1)                      kaftan                         (abaya, 1)                            -                         -
+276             (abayas, 1)           (modern, 1)            (arabic, 1)                     kaftans                         (abaya, 1)                  (arabic, 1)               (modern, 1)
+277                       -                     -          (sundress, 1)                       khaki                            (28, 1)                            -                         -
+278                       -                     -        (voluminous, 1)                khakicolored                          (easy, 1)                            -                         -
+279                       -                     -               (tie, 1)                        knot                          (2021, 1)                            -                         -
+280                       -         (neoprene, 1)           (classic, 1)                     knotted                   (headbandbuy, 1)                (headband, 1)                         -
+281                       -                     -              (bows, 1)                    knotting                          (silk, 1)                            -                         -
+282              (yards, 3)           (french, 3)              (gigi, 6)                        lace                          (mini, 9)                   (trend, 3)               (define, 3)
+283                       -                     -               (lui, 3)                 lacetrimmed                        (blazer, 3)                            -                         -
+284        (rubbersoled, 3)          (eyelets, 3)                (24, 3)                      laceup                         (flats, 3)                     (add, 3)                (boots, 3)
+285                       -                     -            (brogue, 3)                 laceupsdark                      (academia, 3)                            -                         -
+286                       -                     -         (oversized, 1)                      lapels                          (girl, 1)                            -                         -
+287            (classic, 1)             (suit, 1)         (oversized, 1)                       layer                        (create, 1)                   (plain, 1)             (shirtnow, 1)
+288             (easily, 1)             (days, 1)             (sheer, 1)                     layered                       (designs, 1)              (turtleneck, 1)           (buttondown, 1)
+289            (concept, 1)        (givenchys, 1)         (intricate, 1)                    layering                       (weaving, 1)                (straight, 1)           (detachable, 1)
+290               (cozy, 1)         (garments, 1)             (lemon, 1)                      layers                     (christmas, 1)                (software, 1)          (sustainable, 1)
+291                       -                     -          (addition, 1)                 layersahead                       (rounded, 1)                            -                         -
+292              (black, 2)            (brown, 3)             (vegan, 4)                     leather                         (pants, 3)                  (jacket, 2)             (handbags, 2)
+293                       -                     -        (complement, 1)                leatherbound                         (books, 1)                            -                         -
+294                       -                     -              (kelp, 1)              leatherleather                        (deeply, 1)                            -                         -
+295                       -                     -          (splashed, 1)                 leatherlook                      (trousers, 1)                            -                         -
+296                       -                     -             (vibes, 1)                 leathershop                         (trend, 1)                            -                         -
+297               (wide, 3)             (keen, 3)         (straight, 12)                         leg                        (jeans, 12)                     (add, 3)                (black, 3)
+298                       -                     -             (theme, 3)                      legacy                       (immense, 3)                            -                         -
+299                       -                     -          (company, 30)                       legal                     (features, 30)                            -                         -
+300             (quotes, 3)            (romes, 3)     (presentation, 24)                   legendary                        (model, 24)                   (piper, 3)              (founder, 3)
+301                       -                     -             (admit, 3)                     legging                    (collection, 3)                            -                         -
+302         (squatproof, 4)            (jeans, 4)       (fauxleather, 4)                    leggings                        (skinny, 8)                  (staple, 4)             (tailored, 4)
+303                       -                     -           (stirrup, 4)                  leggingsto                         (avoid, 4)                            -                         -
+304               (save, 3)             (bare, 3)      (accessorised, 6)                        legs                         (strap, 6)                  (trains, 3)              (sliding, 3)
+305                       -                     -         (elongates, 3)                    legsshop                        (styles, 3)                            -                         -
+306               (corp, 1)              (hem, 1)            (colors, 2)                     lengths                     (inclusive, 2)               (including, 1)               (ensure, 1)
+307                       -                     -             (dress, 1)                     leopard                         (print, 1)                            -                         -
+308                       -          (wearing, 1)            (brands, 1)                leopardprint                         (satin, 1)                  (season, 1)                         -
+309                       -                     -              (love, 1)                      letter                           (son, 1)                            -                         -
+310             (breezy, 2)          (highend, 2)           (consist, 2)                 lightweight                       (pleated, 2)              (sundresses, 2)                (items, 2)
+311                       -                     -          (clothing, 1)                 linecritics                       (summary, 1)                            -                         -
+312                       -        (unmatched, 2)         (luncheons, 2)                       lined                        (months, 2)              (adjustable, 2)                         -
+313              (dress, 2)            (ganni, 2)            (belted, 6)                       linen                         (dress, 8)                    (wrap, 2)               (stripe, 2)
+314                       -                     -       (longsleeved, 2)                  linenblend                          (midi, 2)                            -                         -
+315                (tan, 1)            (punch, 1)             (woven, 1)                       lines                       (sunneis, 1)             (unenjoyable, 1)               (season, 1)
+316                       -                     -           (fashion, 1)                     linethe                   (documentary, 1)                            -                         -
+317               (epic, 1)      (ghesquieres, 1)             (model, 1)                      lineup                         (fendi, 1)                (singular, 1)                  (red, 1)
+318                       -                     -               (fun, 1)               longersleeved                       (options, 1)                            -                         -
+319                       -                     -           (quality, 1)               longevityfair                        (indigo, 1)                            -                         -
+320                       -          (elegant, 1)         (developed, 1)                 longlasting                 (relationships, 1)                 (capsule, 1)                         -
+321                       -                     -          (broderie, 1)                  longsleeve                          (mini, 1)                            -                         -
+322                       -         (wardrobe, 1)          (included, 1)                 longsleeved                         (dress, 1)              (linenblend, 1)                         -
+323                       -                     -           (proving, 1)                    longterm                     (initially, 1)                            -                         -
+324                       -                     -              (vudu, 1)                    longtime                       (fashion, 1)                            -                         -
+325          (reference, 1)                (1, 1)             (jeans, 1)                       loose                         (denim, 2)                (carefree, 2)             (oversize, 1)
+326        (traditional, 1)           (pieces, 1)              (wear, 1)                loosefitting                       (bottoms, 1)                (trousers, 1)           (pieceslets, 1)
+327               (wear, 1)        (zapproved, 1)              (time, 1)                      looser                       (flowier, 1)                  (styles, 1)                (denim, 1)
+328                       -                     -          (emission, 1)                  loweditors                          (note, 1)                            -                         -
+329                       -                     -                (20, 1)                   loweffort                     (statement, 1)                            -                         -
+330                       -                     -           (chopova, 1)                      lowena                    (undercover, 1)                            -                         -
+331                       -                     -            (motifs, 1)                     lowered                           (bar, 1)                            -                         -
+332                       -        (packaging, 1)             (label, 1)                   lowimpact                          (dyes, 2)                            -                         -
+333                       -                     -            (button, 1)                      lowkey                  (undiscovered, 1)                            -                         -
+334              (denim, 1)            (skirt, 1)              (tops, 2)                     lowrise                         (jeans, 2)                   (pants, 1)                (trend, 1)
+335                (lot, 1)              (00s, 2)           (suiting, 2)                    lowslung                        (waists, 4)              (tracksuits, 1)                (waist, 1)
+336                       -                     -              (life, 1)                     lowwage                       (workers, 1)                            -                         -
+337                       -                     -             (modal, 2)                     lyocell                       (natural, 2)                            -                         -
+338                       -                     -          (clothing, 1)                         map                      (products, 1)                            -                         -
+339                       -                     -            (rolled, 1)                        maps                        (coming, 1)                            -                         -
+340                       -                     -          (inspired, 1)                      marble                 (multicoloured, 1)                            -                         -
+341                       -           (beaded, 1)          (handbags, 1)                     marbled                          (pink, 1)                 (acrylic, 1)                         -
+342                       -                     -              (yeah, 1)               marbledeffect                     (sheepskin, 1)                            -                         -
+343              (staud, 1)             (sale, 2)             (tulle, 2)                        maxi                        (dress, 10)                 (dresses, 3)                (skirt, 2)
+344                       -                     -           (organza, 1)                   maxidress                           (550, 1)                            -                         -
+345               (2022, 1)      (2022rainbow, 1)           (rainbow, 1)                  maximalism                        (colour, 1)                 (fashion, 1)             (backthis, 1)
+346                       -                     -          (happened, 1)                  maximalist                    (minimalist, 1)                            -                         -
+347                       -                     -          (trousers, 1)                  maximilian                         (dress, 1)                            -                         -
+348                       -                     -              (koma, 1)                 maximillian                       (fashion, 1)                            -                         -
+349                       -            (month, 1)            (trains, 1)                     maximum                       (midriff, 1)                  (travel, 1)                         -
+350                       -         (anderson, 3)            (cutout, 3)                        mesh                         (dress, 3)               (ballerina, 3)                         -
+351  (latterpearlescent, 1)           (season, 1)             (trims, 2)                    metallic                        (silver, 2)                 (spangle, 1)               (wooden, 1)
+352                       -                     -            (munthe, 1)                   metallics                       (popular, 1)                            -                         -
+353             (floral, 4)            (print, 6)           (collar, 10)                        midi                        (dress, 50)                   (skirt, 8)              (dresses, 1)
+354                       -                     -            (flirty, 1)                     midibuy                            (35, 1)                            -                         -
+355                       -                     -             (denim, 1)                   mididress                    (sweatshirt, 1)                            -                         -
+356                       -           (floaty, 1)           (amazing, 1)                       midis                     (loveriver, 1)                   (wraps, 1)                         -
+357               (lace, 3)            (print, 3)            (floral, 6)                        mini                        (dress, 38)                  (skirts, 2)                (smock, 2)
+358                       -                     -            (sliced, 1)                 minidresses                       (adorned, 1)                            -                         -
+359      (sophisticated, 1)           (sleeve, 1)             (brown, 1)                     minimal                     (detailing, 1)                  (effort, 1)      (sideszimmermann, 1)
+360                       -                     -           (neutral, 2)                  minimalism                     (dominated, 1)                 (outthis, 1)                         -
+361                       -       (maximalist, 1)            (carpet, 1)                  minimalist                   (accessories, 1)              (frenchgirl, 1)                         -
+362                       -           (summer, 1)             (boxes, 1)                minimalistic                        (design, 1)  (mediterraneanprovencal, 1)                         -
+363                       -                     -             (sleek, 1)                 minimalshop                         (trend, 1)                            -                         -
+364                       -                     -             (ghost, 1)                      minime                       (designs, 1)                            -                         -
+365                       -                     -           (seeking, 1)                    minimize                 (manufacturing, 1)                            -                         -
+366     (seashellstrewn, 1)        (extending, 1)         (ultramini, 2)                       minis                         (white, 2)                    (feet, 1)               (quirky, 1)
+367                       -            (trend, 1)            (season, 1)                   miniskirt                         (suits, 1)                    (suit, 1)                         -
+368             (tencel, 2)          (lenzing, 2)             (link, 64)                       modal                       (window, 64)             (regenerated, 2)              (lyocell, 2)
+369         (affordable, 1)        (cocreator, 1)            (looked, 8)                      modest                    (comparison, 8)                 (fashion, 1)              (islamic, 1)
+370                       -                     -             (dress, 1)                    modestly                  (decentlywhen, 1)                            -                         -
+371                       -          (protect, 1)        (transforms, 1)                     modesty                        (simple, 1)               (rendering, 1)                         -
+372                       -                     -            (ribbed, 1)                      mohair                        (beanie, 1)                            -                         -
+373             (tamper, 2)           (cotton, 6)             (trade, 8)                     natural                      (fabrics, 18)               (materials, 6)               (fibers, 4)
+374                       -            (alike, 2)          (wardrobe, 2)                   naturally                     (dominated, 2)                   (brand, 2)                         -
+375            (womans, 12)           (twist, 12)         (combines, 12)                        neck                      (vibrant, 12)                      (9, 12)            (powerful, 12)
+376            (lariat, 12)            (link, 12)         (amethyst, 36)                    necklace                      (baroque, 12)                   (worn, 12)            (explicit, 12)
+377                       -           (candy, 12)  (accessoriesfrom, 12)                   necklaces                      (watches, 12)           (paintedpasta, 12)                         -
+378                       -                     -            (chain, 12)                necklacesnow                      (kendall, 12)                            -                         -
+379            (square, 13)         (stomach, 13)      (eyecatching, 13)                    neckline                      (ability, 13)             (flattering, 13)              (empire, 13)
+380                       -                     -         (peekaboo, 13)                   necklines                       (simone, 13)                            -                         -
+381                       -                     -                (21, 6)                     nobodys                         (child, 6)                            -                         -
+382                       -                     -        (springtime, 6)                   nobrainer                        (season, 6)                            -                         -
+383                       -                     -             (feels, 6)                         nod                      (destinys, 6)                            -                         -
+384                       -                     -            (colour, 6)                        nods                       (booming, 6)                            -                         -
+385                       -                     -              (goto, 6)                      nofuss                         (beach, 6)                            -                         -
+386                       -                     -                (30, 6)                       noisy                          (asos, 6)                            -                         -
+387                       -                     -               (kin, 6)                       nomad                      (backpack, 6)                            -                         -
+388                       -                     -            (oscar, 96)                 nominations                     (pelotons, 48)               (congrats, 48)                         -
+389                       -                     -         (congrats, 48)                    nominees                         (lady, 48)                            -                         -
+390                       -                     -             (jeans, 6)                  nonchalant  (katieholmesbreakstheinternet, 6)                            -                         -
+391                       -                     -               (bit, 6)               nonconformist                       (lookbut, 6)                            -                         -
+392                       -                     -              (type, 6)                    nondairy                          (milk, 6)                            -                         -
+393                       -                     -           (percent, 6)                      nongmo                       (organic, 6)                            -                         -
+394                       -                     -            (casual, 6)                   nonskinny                         (jeans, 6)                            -                         -
+395                       -                     -           (durable, 6)                  nonstretch                      (material, 6)                            -                         -
+396                       -                     -               (hot, 6)                   nonsweaty                        (spring, 6)                            -                         -
+397                       -                     -           (expects, 6)              nontraditional                     (statement, 6)                            -                         -
+398                       -                     -         (resembles, 6)                    nonwired                      (lingerie, 6)                            -                         -
+399                       -              (109, 6)            (styles, 6)                   nordstrom                           (hat, 6)               (signature, 6)                         -
+400                       -                     -                (58, 6)                nordstromcom                          (shop, 6)                            -                         -
+401                       -                     -          (function, 6)                normallythat                          (walk, 6)                            -                         -
+402              (codes, 6)      (mountainous, 6)          (journeys, 6)                       north                        (regret, 6)                 (coastal, 6)              (african, 6)
+403                       -                     -          (moroccan, 6)                northafrican                   (bangladeshi, 6)                            -                         -
+404                       -                     -          (graduate, 6)                    norwaymy                     (favourite, 6)                            -                         -
+405                       -                     -              (life, 6)                      noshow                         (socks, 6)                            -                         -
+406                       -                     -      (experiencing, 6)                   nostalgia                      (precovid, 6)                            -                         -
+407             (filled, 6)            (board, 6)        (irreverent, 6)                   nostalgic                       (literal, 6)                  (trends, 6)            (vibesthat, 6)
+408                       -                     -       (collections, 6)                     notable                        (impact, 6)                            -                         -
+409             (curves, 6)              (hit, 6)          (editors, 24)                        note                  (sustainable, 12)                (reentree, 6)              (classic, 6)
+410                       -             (2230, 6)           (summary, 6)                    notebook                       (cities, 12)                            -                         -
+411                       -                     -              (van, 30)                       noten                      (emphasis, 6)                  (marine, 6)                (built, 6)
+412                       -      (handwritten, 6)           (popular, 6)                       notes                        (kateas, 6)                  (rolled, 6)                         -
+413                       -           (design, 6)           (change, 48)                      notice                      (privacy, 48)              (drawstring, 6)                         -
+414              (teens, 6)            (pulse, 6)             (dress, 6)                     noticed                      (trending, 6)                  (sudden, 6)             (designer, 6)
+415                       -                     -           (change, 48)               noticeprivacy                   (policythis, 48)                            -                         -
+416                       -         (profiles, 6)              (lens, 6)                 notoriously                     (demanding, 6)                 (private, 6)                         -
+417                       -                     -              (knit, 6)                  notrelated                             (7, 6)                            -                         -
+418                       -                     -           (bodycon, 6)                notsoclassic                           (lbd, 6)                            -                         -
+419                       -             (live, 6)         (allthings, 6)                   noughties                         (pairs, 6)                     (rom, 6)                         -
+420                       -                     -          (selfcare, 6)                       nouns                         (newly, 6)                            -                         -
+421                       -                     -          (hepworth, 6)                         nov                             (2, 6)                            -                         -
+422                       -                     -              (kate, 6)                     novacks                      (intimate, 6)                            -                         -
+423                       -                     -             (spice, 6)                    november                    (beyondshop, 6)                            -                         -
+424             (summer, 6)         (clothing, 6)            (yellow, 6)                    nowadays                (colorsspotting, 6)                 (libyans, 6)           (nightmarei, 6)
+425                       -                     -              (shop, 6)                     nowbest                       (dresses, 6)                            -                         -
+426                       -            (hands, 6)          (escapism, 6)                       nowby                      (charlie, 12)                            -                         -
+427                       -                     -            (brands, 6)                  noweditors                          (note, 6)                            -                         -
+428                       -                     -      (incarnations, 6)                   nowfamous                      (fussfree, 6)                            -                         -
+429                       -                     -          (heruntil, 6)             nowmademoiselle                    (chronicles, 6)                            -                         -
+430                       -                     -              (bags, 6)                   nowmedium                        (basket, 6)                            -                         -
+431                       -                     -           (fashion, 6)                      nownot                       (concept, 6)                            -                         -
+432                       -                     -              (shop, 6)                  nowpantone                        (colour, 6)                            -                         -
+433                       -                     -            (topics, 6)                    nowright                        (160000, 6)                            -                         -
+434                       -                     -         (bandwagon, 6)                        nows                          (time, 6)                            -                         -
+435                       -                     -              (shop, 6)                    nowsatin                          (midi, 6)                            -                         -
+436                       -                     -          (clothing, 6)                     nowshop                         (shein, 6)                            -                         -
+437                       -                     -           (ignited, 6)                nowwellloved                   (labelbefore, 6)                            -                         -
+438                       -                     -        (tracksuits, 6)                     nowwith                        (return, 6)                            -                         -
+439                       -                     -            (brands, 6)                  nowwithout                           (ado, 6)                            -                         -
+440                  (1, 1)             (rush, 1)           (lighter, 1)                       ombre                        (lenses, 1)                  (winner, 1)               (stripe, 1)
+441            (satsuma, 3)       (collection, 6)              (sour, 6)                      orange                        (floral, 9)                 (fringed, 6)                 (news, 3)
+442                       -                     -          (punchier, 3)                     oranges                        (greens, 3)                            -                         -
+443                       -                     -             (heart, 1)                     organza                     (maxidress, 1)                            -                         -
+444                       -                     -              (play, 1)               otherscritics                       (summary, 1)                            -                         -
+445                       -                     -        (perception, 1)                  othersthis                       (content, 1)                            -                         -
+446                       -                     -     (unpredictable, 1)                    outcomes                      (included, 1)                            -                         -
+447                       -                     -          (clothing, 1)                    outdated                (styletherefore, 1)                            -                         -
+448                       -                     -             (shape, 1)                       outdo                    (perfection, 1)                            -                         -
+449         (activewear, 1)          (leading, 1)              (plan, 1)                     outdoor                     (occasions, 1)                (clothing, 1)              (apparel, 1)
+450                       -                     -             (boots, 1)                   outdoorsy                        (sporty, 1)                            -                         -
+451               (1132, 1)          (seasons, 1)              (shop, 1)                  outerknown                          (shop, 1)             (coveredthis, 1)                 (fair, 1)
+452             (blazer, 1)         (musthave, 1)         (underwear, 2)                   outerwear                          (dark, 2)                   (bulky, 2)                (louis, 1)
+453          (transform, 1)            (denim, 1)      (colorblocked, 1)                      outfit                   (accessories, 1)             (suggestions, 1)                  (day, 1)
+454                       -                     -           (ontrend, 1)                    outfitif                         (fancy, 1)                            -                         -
+455             (arabic, 2)         (academia, 3)            (summer, 3)                     outfits                          (dark, 2)               (headtotoe, 1)               (winter, 1)
+456                       -                     -        (schoollike, 1)                  outfitsand                        (gloomy, 1)                            -                         -
+457                       -                     -          (academia, 1)                   outfitsit                          (hard, 1)                            -                         -
+458                       -                     -            (pieces, 1)             outfitsmoreover                          (love, 1)                            -                         -
+459                       -                     -          (audience, 1)                   outfitted                      (upcycled, 1)                            -                         -
+460                       -                     -             (urban, 3)                  outfitters                   (brazilbased, 1)                   (women, 1)                 (zara, 1)
+461                       -                     -              (cute, 1)                outfitthread                        (supply, 1)                            -                         -
+462                       -                     -             (coach, 1)                      outlet                          (huge, 1)                            -                         -
+463                       -                     -            (andrea, 1)                  outrageous                   (preferences, 1)                            -                         -
+464                       -          (fromcut, 1)               (ins, 2)                        outs                          (mini, 1)                   (media, 1)              (fashion, 1)
+465                       -                     -            (stands, 1)                   outscroll                          (shop, 1)                            -                         -
+466                       -                     -              (sell, 1)                     outshop                           (295, 1)                            -                         -
+467                       -                     -   (accomplishments, 1)                     outsize                   (personality, 1)                            -                         -
+468                       -            (award, 1)           (awarded, 1)                 outstanding                  (contribution, 1)             (achievement, 1)                         -
+469                       -                     -        (minimalism, 1)                     outthis                       (content, 1)                            -                         -
+470                       -                     -           (elevate, 1)                 overallshop                        (styles, 1)                            -                         -
+471                       -                     -            (trench, 1)                    overcoat                       (cinched, 1)                            -                         -
+472              (waist, 1)          (cutouts, 1)           (bottoms, 1)                   oversized                          (knit, 2)                   (layer, 1)              (glasses, 1)
+473                       -                     -           (forgoes, 1)                      padded                     (shoulders, 1)                            -                         -
+474                       -                     -          (purchase, 1)                     paisley                         (print, 1)                            -                         -
+475                       -                     -            (tiered, 1)                paisleyprint                         (crepe, 1)                            -                         -
+476             (coelho, 6)         (republic, 6)           (leather, 9)                       pants                           (149, 6)                     (188, 6)                 (mode, 3)
+477                       -                     -             (tweed, 3)                    pantsadd                         (image, 3)                            -                         -
+478                       -                     -            (lounge, 3)                     pantsam                       (edelmen, 3)                            -                         -
+479                       -                     -              (foxs, 3)                   pantsless                      (cardigan, 3)                            -                         -
+480                       -                     -               (dad, 3)                pantsrelated                            (16, 3)                            -                         -
+481                       -                     -         (territory, 3)                    pantsuit                         (sight, 3)                            -                         -
+482                       -                     -            (bigger, 1)                       party                          (wear, 1)                            -                         -
+483                       -                     -           (baroque, 1)                  pearlsshop                         (trend, 1)                            -                         -
+484                       -           (fringe, 2)            (skirts, 2)                      pencil                    (silhouette, 2)                   (skirt, 2)                         -
+485         (bubblegum, 18)      (collection, 24)              (hot, 24)                        pink                        (dress, 24)                (frilled, 18)               (black, 12)
+486                       -           (selkie, 6)             (dress, 6)                       pinko                      (buttoned, 6)                    (lisa, 6)                         -
+487                       -                     -            (bright, 6)                       pinks                       (purples, 6)                            -                         -
+488                       -                     -              (love, 6)                    pinktrue                          (true, 6)                            -                         -
+489            (ruffles, 1)             (wool, 1)                 (2, 1)                       plaid                         (skirt, 1)                 (designs, 1)                (pearl, 1)
+490              (touch, 1)         (detailed, 1)             (layer, 1)                       plain                         (white, 1)                    (epic, 1)                 (swim, 1)
+491                       -          (company, 1)             (algae, 1)                      plants                       (reached, 1)                    (tree, 1)                         -
+492             (ashish, 3)           (sporty, 3)            (waists, 6)                     pleated                        (skirts, 9)                  (tennis, 6)                 (midi, 6)
+493                       -          (coastal, 1)             (style, 1)                      pocket                         (holds, 1)                 (joggers, 1)                         -
+494                       -                     -            (skirts, 3)                     pockets                         (coats, 3)                            -                         -
+495            (knitted, 1)          (texture, 1)          (clothing, 1)                        polo                         (shirt, 2)                   (ralph, 2)               (shirts, 1)
+496                       -     (fabricsavoid, 3)           (repreve, 3)                   polyester                       (editors, 3)                 (plastic, 3)                         -
+497                       -                     -            (poplin, 1)                     popover                        (stripe, 1)                            -                         -
+498        (preferences, 1)             (lean, 1)              (suit, 1)                      preppy                         (punky, 1)                    (vibe, 1)                  (90s, 1)
+499            (floral, 28)           (print, 49)          (message, 49)                       print                        (print, 49)                   (midi, 42)               (dress, 28)
+500                (3d, 14)      (collection, 28)  (reservedinstyle, 56)                     printed           (httpswwwinstylecom, 56)                  (green, 21)                 (red, 21)
+501                       -               (3d, 7)       (creations3d, 7)                    printing                       (popular, 7)                   (shift, 7)                         -
+502                       -                     -              (rise, 7)                   printless                    (bikinithis, 7)                            -                         -
+503                       -                     -        (embroidery, 7)                 printmaking                       (closely, 7)                            -                         -
+504                       -                     -       (marketplace, 7)               printondemand                      (products, 7)                            -                         -
+505                       -                     -               (fun, 7)                printpattern                        (mixing, 7)                            -                         -
+506             (winter, 7)           (poetic, 7)         (geometric, 7)                      prints                     (patterns, 21)                (fabrics, 14)                  (add, 7)
+507                       -                     -            (punchy, 7)                 printscheck                       (dresses, 7)                            -                         -
+508            (goodbye, 1)               (16, 1)             (stark, 1)                      puffer                     (tracksuit, 1)                   (coats, 1)              (jackets, 1)
+509                       -                     -      (highcollared, 1)                     puffers                           (80s, 1)                            -                         -
+510           (rvivimos, 5)           (violet, 5)           (bright, 10)                      purple                      (headband, 5)                   (polka, 5)               (called, 5)
+511                       -                     -             (pinks, 5)                     purples                        (shades, 5)                            -                         -
+512                       -                     -            (violet, 5)                purplespring                          (2022, 5)                            -                         -
+513                       -               (16, 1)            (pastel, 1)                     quilted                       (shacket, 1)                  (jacket, 1)                         -
+514            (printed, 6)      (impressive, 16)          (dresses, 18)                         red                       (carpet, 36)                   (dress, 4)              (carpets, 2)
+515                       -                     -              (bold, 2)                 redandwhite                         (david, 2)                            -                         -
+516                       -          (tshirts, 2)         (australia, 2)                   redbubble                        (online, 2)                     (410, 2)                         -
+517                       -                     -              (fast, 2)                      reddit                   (wellhowever, 2)                            -                         -
+518                       -                     -      (occasionally, 2)                    redefine                       (concept, 2)                            -                         -
+519                       -                     -       (experiments, 2)                   redefined                   (balenciagas, 2)                            -                         -
+520                       -        (forefront, 2)          (westwood, 2)                  redefining                       (british, 2)                    (wear, 2)                         -
+521                       -                     -             (black, 2)                  redhowever                   (traditional, 2)                            -                         -
+522                       -                     -           (capsule, 2)                  rediscover                       (fitness, 2)                            -                         -
+523                       -                     -              (gems, 2)                rediscovered                       (feeling, 2)                            -                         -
+524                       -                     -              (2030, 2)                      reduce                      (shipping, 2)                            -                         -
+525                       -                     -         (beautiful, 1)                     ribbons                        (button, 1)                            -                         -
+526                       -                     -        (engagement, 5)                       rings                         (women, 5)                            -                         -
+527           (obsessed, 1)             (feel, 1)            (leaned, 1)                    romantic                         (style, 1)                (literary, 1)                 (boho, 1)
+528                       -            (candy, 1)             (jaded, 1)                        rose                            (50, 1)                 (fuchsia, 1)                         -
+529                       -                     -            (daniel, 2)                   roseberry                          (bold, 1)                      (18, 1)                         -
+530                       -                     -            (daniel, 1)                  roseberrys                    (surrealist, 1)                            -                         -
+531                       -                     -              (silk, 1)                  rosettebuy                           (290, 1)                            -                         -
+532            (crochet, 1)            (tight, 1)              (anna, 1)                      ruched                             (6, 1)                   (dress, 1)              (bodycon, 1)
+533                       -                     -             (gown, 16)                      ruffle                        (skirt, 16)                            -                         -
+534                       -  (365ginghamcheck, 2)          (stefania, 2)                     ruffled                         (tulle, 2)             (cottontwill, 2)                         -
+535                       -                     -           (269rion, 2)                ruffledetail                        (cotton, 2)                            -                         -
+536                       -            (dress, 2)               (ton, 2)                     ruffles                       (sequins, 2)                   (plaid, 2)                         -
+537             (slinky, 1)     (leopardprint, 1)           (adorned, 1)                       satin                        (trains, 1)                (trousers, 1)            (materials, 1)
+538                       -         (embossed, 1)              (croc, 1)                      scales                        (riding, 1)                  (raised, 1)                         -
+539                       -                     -              (2022, 2)                      sequin                           (bag, 2)                            -                         -
+540              (sleek, 1)      (oneshoulder, 1)              (sexy, 1)                    sequined                  (rockinspired, 1)                 (designs, 1)               (design, 1)
+541                       -                     -           (stories, 1)                   sequinned                          (gown, 1)                            -                         -
+542              (bring, 2)          (ruffles, 2)                 (3, 2)                     sequins                       (sparkle, 2)                  (easily, 2)                (ready, 2)
+543          (scrunchie, 4)       (collection, 4)             (style, 6)                         set                       (fashion, 4)                  (summer, 4)                 (hold, 4)
+544                       -                     -          (crashing, 2)                      setbuy                            (89, 2)                            -                         -
+545                       -                     -               (ari, 2)                        seth                        (cohens, 2)                            -                         -
+546              (sweat, 2)            (magic, 2)          (matching, 4)                        sets                          (dior, 2)                    (maxi, 2)                  (fun, 2)
+547             (forget, 1)             (play, 1)             (super, 2)                        sexy                         (vibes, 1)                    (time, 1)               (trends, 1)
+548                       -                     -              (hint, 1)                 sexyspotted                           (tom, 1)                            -                         -
+549            (genuine, 1)          (leather, 1)          (feathers, 2)                   shearling                       (shacket, 1)          (embellishments, 1)             (textures, 1)
+550              (super, 4)       (comparison, 8)        (completely, 8)                       sheer                         (dress, 8)                 (roberto, 8)                (white, 2)
+551                       -                     -               (268, 1)                    sheertex                        (tights, 1)                            -                         -
+552         (flattering, 1)           (yellow, 1)              (sale, 2)                     shirred                         (dress, 2)                     (egg, 1)            (detailing, 1)
+553           (buttonup, 1)       (buttondown, 2)              (polo, 2)                       shirt                         (dress, 3)                  (tamper, 1)                (short, 1)
+554           (tiewaist, 1)              (add, 1)             (denim, 1)                  shirtdress                           (375, 1)                (rotation, 1)                  (118, 1)
+555                       -                     -       (beautifully, 1)                shirtdresses                       (blazers, 1)                            -                         -
+556                       -                     -           (shacket, 1)                 shirtjacket                         (combo, 1)                            -                         -
+557                       -                     -             (layer, 1)                    shirtnow                         (megan, 1)                            -                         -
+558               (polo, 1)   (wastetradlands, 1)            (skirts, 1)                      shirts                         (trend, 1)                  (staple, 1)         (jeanshowever, 1)
+559              (money, 4)             (save, 6)          (dresses, 41)                       short                      (wedding, 56)             (documentary, 2)                 (wear, 1)
+560                       -                     -        (absolutely, 1)                    shortage                   (butteryhued, 1)                            -                         -
+561                       -                     -            (skirts, 1)                   shortened                          (worn, 1)                            -                         -
+562                       -          (dresses, 1)               (416, 1)                     shorter                      (hemlines, 1)                 (hemline, 1)                         -
+563         (towelling, 14)           (denim, 14)             (knit, 21)                      shorts                         (boots, 7)                     (add, 7)              (crochet, 7)
+564                       -                     -               (80s, 7)                  shortshort                         (skirt, 7)                            -                         -
+565                       -                     -          (intended, 1)                   shortterm                          (slow, 1)                            -                         -
+566             (tugged, 4)             (2021, 8)         (shoulder, 48)                    shoulder                     (shoulder, 48)                    (bag, 20)                (luars, 4)
+567               (sexy, 4)          (breathe, 4)            (padded, 4)                   shoulders                  (doublebreast, 4)                  (shimmy, 4)                 (play, 4)
+568           (knotting, 2)             (lynn, 2)            (prefer, 2)                        silk                      (jumpsuit, 2)                   (crepe, 2)           (rosettebuy, 2)
+569                       -                     -              (tops, 2)                     silknot                          (silk, 2)                            -                         -
+570                       -                     -         (superlong, 2)                       silky                        (fringe, 2)                            -                         -
+571            (quality, 1)         (metallic, 2)              (dena, 4)                      silver                         (black, 2)                    (dena, 2)                  (egg, 1)
+572                       -                     -             (golds, 1)                     silvers                        (sheeny, 1)                            -                         -
+573             (debate, 2)             (wear, 2)          (leggings, 4)                      skinny                        (jeans, 12)                     (dip, 2)                         -
+574             (trend, 16)            (midi, 16)           (ruffle, 16)                       skirt                      (gallery, 16)                (rainbow, 16)                (suits, 4)
+575               (mini, 4)         (trousers, 4)           (pleated, 6)                      skirts                      (trousers, 4)                  (liquid, 4)                (jeans, 2)
+576                       -                     -         (recommend, 2)                skirtseasier                   (comfortable, 2)                            -                         -
+577        (detachable, 20)           (puff, 140)             (dot, 200)                      sleeve                      (square, 200)                  (dress, 40)                (pair, 20)
+578                       -                     -             (puff, 20)                     sleeved                        (dress, 20)                            -                         -
+579          (vestshop, 21)           (codes, 42)       (collection, 84)                  sleeveless                         (pink, 63)                  (dress, 42)                (midi, 42)
+580           (rounded, 20)            (life, 40)             (puff, 60)                     sleeves                   (cocoonlike, 20)                  (fresh, 20)         (exaggerated, 20)
+581                       -                     -            (tunic, 20)                 sleevespart                     (national, 20)                            -                         -
+582             (raffia, 2)          (slouchy, 2)               (rib, 2)                        slit                           (bag, 4)                   (skirt, 2)                         -
+583                       -                     -          (upcycled, 2)                   slitfront               (cottontowelling, 2)                            -                         -
+584               (mate, 1)        (piecesthe, 1)             (rules, 1)                      slogan                        (animal, 1)                  (cuyana, 1)               (shouts, 1)
+585                       -            (print, 1)              (mini, 2)                       smock                         (dress, 3)                            -                         -
+586              (dress, 1)            (coast, 1)             (trend, 2)                     smocked                      (sundress, 3)                    (maxi, 1)          (cottonterry, 1)
+587                       -                     -   (215checkpattern, 1)                smockedwaist                          (maxi, 1)                            -                         -
+588               (eggs, 1)             (2022, 1)             (super, 2)                        soft                          (spot, 1)                (soothing, 1)               (boiled, 1)
+589                       -                     -          (comments, 1)                    softcore                       (outfits, 1)                            -                         -
+590                       -                     -            (series, 1)                      softer                      (shoulder, 1)                            -                         -
+591                       -         (searched, 1)           (dresses, 1)                     softest                        (shades, 1)              (perfomance, 1)                         -
+592                       -             (data, 1)            (layers, 1)                    software                     (projected, 1)              (paramedics, 1)                         -
+593              (dress, 1)          (finally, 1)           (bikinis, 1)                       split                     (swimsuits, 1)                (swimsuit, 1)                (black, 1)
+594                       -                     -          (opinions, 1)                 splitamazon                          (sign, 1)                            -                         -
+595                       -                     -          (opinions, 1)                   splitsome                        (prefer, 1)                            -                         -
+596               (lean, 1)        (outdoorsy, 1)            (prefer, 1)                      sporty                       (pleated, 1)                    (vibe, 1)                (vibes, 1)
+597               (easy, 2)           (buying, 3)            (trends, 3)                      spring                         (2022, 18)                    (2021, 9)               (summer, 6)
+598                       -                     -              (wrap, 1)           springappropriate                        (shades, 1)                            -                         -
+599                       -                     -           (wearing, 1)              springbralette                          (tops, 1)                            -                         -
+600                       -                     -           (styling, 1)              springfriendly                       (sweater, 1)                            -                         -
+601                       -                     -              (wear, 1)               springrelated                         (bring, 1)                            -                         -
+602                       -                     -               (150, 1)                     springs                       (biggest, 1)                            -                         -
+603                       -                     -              (time, 1)                   springsee                       (stories, 1)                            -                         -
+604               (host, 1)      (readytowear, 2)           (couture, 8)                springsummer                          (2019, 9)                    (2022, 6)                 (2021, 6)
+605                       -                     -            (easing, 1)                  springthis                       (content, 1)                            -                         -
+606                       -      (comfortable, 1)           (florals, 1)                  springtime                     (nobrainer, 1)                    (snug, 1)                         -
+607                       -                     -            (reason, 1)                  springwith                           (spf, 1)                            -                         -
+608                       -                     -             (jeans, 1)                     stirrup                    (leggingsto, 1)                            -                         -
+609                (cut, 2)        (haircuts, 16)      (discoveries, 20)                    straight                  (inboxthanks, 20)                (stylist, 16)                  (leg, 8)
+610                       -                     -           (fashion, 2)             straightforward                 (uncomplicated, 2)                            -                         -
+611               (dark, 2)             (easy, 2)     (separateslike, 2)                 straightleg                         (jeans, 4)                    (snow, 2)               (womens, 2)
+612              (flats, 2)             (boot, 2)              (legs, 4)                       strap                   (highlighter, 4)                   (ankle, 2)           (optionsone, 2)
+613                       -                     -             (elyse, 3)                   strapless                          (mini, 3)                            -                         -
+614                       -         (trousers, 2)              (koma, 2)                    strapped                       (accents, 2)               (waistband, 2)                         -
+615              (ditch, 2)            (sweet, 2)            (figure, 2)                     strappy                       (sandals, 8)                   (heels, 4)               (bikini, 2)
+616           (forgoing, 3)       (adjustable, 3)            (beaded, 3)                      straps                       (collage, 3)                (toozella, 3)               (simply, 3)
+617                       -                     -           (embrace, 3)               strapsspotted                        (elleme, 3)                            -                         -
+618               (sale, 2)            (trend, 2)            (scandi, 2)                      street                         (style, 5)                     (hit, 2)              (fashion, 2)
+619      (attirewalking, 1)          (walking, 1)       (cobblestone, 2)                     streets                       (wearing, 1)                   (rabat, 1)                (cairo, 1)
+620                       -          (fashion, 1)                (33, 5)                  streetwear                        (brands, 5)                  (hustle, 1)                         -
+621                       -                     -           (smocked, 3)                     stretch                       (organic, 3)                            -                         -
+622                       -             (soft, 3)              (cute, 3)                    stretchy                         (pants, 3)                 (joggers, 3)                         -
+623             (collab, 3)            (ombre, 3)             (linen, 3)                      stripe                           (425, 3)                  (oxford, 3)                (shirt, 3)
+624              (sunny, 4)           (slipon, 4)              (sale, 8)                     striped                        (dress, 12)                    (mule, 4)              (version, 4)
+625               (bold, 3)           (prints, 3)          (surfwear, 3)                     stripes                         (alive, 3)               (direction, 3)                (takes, 3)
+626                       -                     -             (clogs, 1)                     studded                     (squaretoe, 1)                            -                         -
+627          (luxurious, 1)          (leather, 1)     (stereotypical, 1)                       suede                        (fringe, 1)               (slouching, 1)                 (tote, 1)
+628             (cotton, 6)           (spring, 6)            (viral, 13)                      summer                         (2021, 46)                    (70s, 13)              (dresses, 8)
+629                       -                     -            (spring, 1)                   summerand                          (cute, 1)                            -                         -
+630                       -             (step, 1)           (sandals, 1)                   summerbuy                            (32, 1)                     (350, 1)                         -
+631                       -                     -              (flag, 1)                    summerno                      (gramming, 1)                            -                         -
+632                       -                     -               (day, 1)               summerrelated                        (chunky, 1)                            -                         -
+633               (shoe, 1)           (aussie, 1)             (trend, 2)                     summers                       (hottest, 2)                   (shade, 2)           (collection, 1)
+634                       -                     -               (fit, 1)                  summershop                         (jcrew, 1)                            -                         -
+635                       -                     -            (spring, 2)                    summerso                         (ready, 2)                            -                         -
+636            (british, 1)       (breathable, 1)        (hatbritish, 1)                  summertime                         (ready, 1)              (distressed, 1)        (collaboration, 1)
+637                       -                     -             (lists, 1)                  summerwere                      (bringing, 1)                            -                         -
+638                       -                     -              (buys, 1)                     summery                          (cosy, 1)                            -                         -
+639           (uniforms, 1)         (graduate, 1)           (slouchy, 1)                  sweatpants                  (constricting, 1)                    (worn, 1)             (cashmere, 1)
+640          (mididress, 2)            (terry, 2)              (coss, 2)                  sweatshirt                         (smart, 2)                      (49, 2)                (dress, 2)
+641                       -                     -           (popping, 2)              sweatshirtshop                          (tory, 2)                            -                         -
+642               (worn, 1)           (summer, 1)          (leggings, 1)                    tailored                        (blazer, 1)                   (dress, 1)              (bottoms, 1)
+643              (basic, 1)           (fitted, 1)       (oneshoulder, 1)                        tank                          (tops, 2)                    (tuck, 1)               (floaty, 1)
+644                       -                     -            (tshirt, 1)                     tankbuy                           (543, 1)                            -                         -
+645                       -                     -            (sailor, 1)                     tapered                  (lookremember, 1)                            -                         -
+646                       -                     -               (art, 1)                  tapestries                         (craft, 1)                            -                         -
+647        (puffsleeved, 2)        (officeand, 2)             (white, 2)                         tee                           (bit, 2)                 (company, 2)               (styles, 2)
+648                       -                     -       (protagonist, 2)                        teen                         (movie, 2)                            -                         -
+649                       -                     -             (paris, 2)                    teenager                       (fashion, 2)                            -                         -
+650     (unknownhowever, 2)          (popular, 2)       (fashionthus, 2)                   teenagers                       (wearing, 2)                 (posting, 2)              (missing, 2)
+651                       -                     -          (creating, 2)                       teens                       (noticed, 2)                            -                         -
+652                       -                     -             (stuff, 2)                       teeny                          (tiny, 2)                            -                         -
+653             (cotton, 2)        (supersoft, 2)           (graphic, 4)                        tees                    (considered, 2)              (structured, 2)              (dresses, 2)
+654                       -                     -             (linen, 2)                 teesoverall                        (brands, 2)                            -                         -
+655             (fibers, 1)             (hemp, 1)           (fabrics, 1)                      tencel                          (hemp, 1)                  (crafts, 1)                (modal, 1)
+656                       -           (season, 1)              (wear, 1)                       thigh                       (exposed, 1)                   (boots, 1)                         -
+657                       -                     -       (decolletage, 1)                      thighs                      (fashions, 1)                            -                         -
+658                       -                     -            (blazer, 2)                    topdress                    (convenient, 2)                            -                         -
+659                       -            (super, 2)         (tumblrthe, 2)                       topic                       (growing, 2)                 (readfor, 2)                         -
+660            (teather, 4)            (dress, 8)          (gallery, 18)                      topics                      (fashion, 20)               (shopping, 10)             (weddings, 2)
+661                       -                     -            (rattan, 2)                      topped                          (luxe, 2)                            -                         -
+662                       -                     -           (drawer, 16)                    toprated                         (body, 16)                            -                         -
+663            (halter, 12)          (corset, 16)             (crop, 16)                        tops                      (abstract, 8)                 (lowrise, 8)                 (huge, 8)
+664             (bikini, 4)               (46, 4)              (sale, 8)                     topshop                         (dress, 8)                      (49, 4)                (wales, 4)
+665                       -             (west, 1)        (collection, 1)                      tribal                      (patterns, 1)              (southstill, 1)                         -
+666                       -            (boots, 1)           (fringed, 1)                        trim                        (subtle, 1)                 (combine, 1)                         -
+667                       -        (feathered, 1)           (fringed, 2)                       trims                      (metallic, 2)                    (lace, 1)                         -
+668                       -                     -          (textiles, 1)                trimsamongst                        (wealth, 1)                            -                         -
+669                       -                     -              (wear, 1)                    tropical                      (vacation, 1)                            -                         -
+670                       -                     -            (jumped, 1)                        tube                          (sock, 1)                            -                         -
+671          (accompany, 2)           (hooded, 2)              (wrap, 2)                       tunic                       (sweater, 2)             (sleevespart, 2)          (traditional, 2)
+672                       -        (headgears, 2)          (moroccan, 2)                      tunics                         (hijab, 2)                  (unique, 2)                         -
+673                       -                     -          (keffiyeh, 2)           tunicstraditional                        (syrian, 2)                            -                         -
+674                (50s, 1)        (glorified, 1)           (vintage, 1)                       tweed                        (blazer, 3)                (pantsadd, 1)                (pants, 1)
+675                       -                     -           (wearing, 1)                      tweedy                      (favorite, 1)                            -                         -
+676             (posher, 1)     (contemporary, 1)       (highfashion, 1)                       twist                    (wardrobeof, 1)                 (cutwork, 1)               (opting, 1)
+677          (haltertop, 1)             (time, 1)          (trenches, 1)                     twisted                   (halternecks, 2)                 (stripes, 1)  (socialmediaapproved, 1)
+678                       -                     -         (turbulent, 3)                  upbringing              (germanyrealizing, 3)                            -                         -
+679                       -                     -               (amp, 3)                       upbuy                           (329, 3)                            -                         -
+680                       -         (inspired, 3)      (underground, 15)                    upcoming                           (60, 15)                     (sex, 3)                         -
+681            (vintage, 3)      (ecofriendly, 3)         (outfitted, 3)                    upcycled                         (marni, 3)       (materialsarguably, 3)                (denim, 3)
+682                       -                     -         (practices, 3)                   upcycling                      (leftover, 3)                            -                         -
+683             (volume, 3)      (transparent, 3)              (time, 6)                      update                       (fashion, 3)                   (dress, 3)                 (sell, 3)
+684                       -                     -         (childhood, 3)                     updated                         (adult, 3)                            -                         -
+685                       -         (wardrobe, 3)     (relationship, 24)                     updates                    (hairstyle, 24)           (encouragesbut, 3)                         -
+686            (shopper, 3)   (presentationan, 3)             (wear, 24)                     upgrade                     (lingerie, 24)                 (tiktoks, 3)                 (time, 3)
+687                       -                     -          (sandsign, 3)                      uphere                          (pick, 3)                            -                         -
+688                       -                     -            (button, 3)                         upi                    (personally, 3)                            -                         -
+689                       -                     -             (witty, 3)                   uplifting                      (advanced, 3)                            -                         -
+690                       -                     -          (ribcages, 3)                       upper                         (bigor, 3)                            -                         -
+691                       -                     -         (underboob, 3)                   upperpube                         (ditto, 3)                            -                         -
+692                       -                     -          (snapping, 3)                       upsee                       (stories, 3)                            -                         -
+693                       -                     -        (convention, 3)                       upset                       (fashion, 3)                            -                         -
+694                       -                     -            (switch, 3)                      upshop                         (trend, 3)                            -                         -
+695                       -              (70s, 3)     (underweartops, 3)                  upsidedown                       (bikinis, 3)                  (bikini, 3)                         -
+696                       -                     -            (credit, 3)                     upstart                          (chet, 3)                            -                         -
+697                       -                     -           (covered, 3)                        upwe                       (spotted, 3)                            -                         -
+698            (started, 1)           (bikini, 1)          (tropical, 1)                    vacation                     (weddingwe, 1)              (absolutely, 1)                (south, 1)
+699                       -           (purple, 1)              (2022, 2)                      velvet                         (dress, 2)                      (69, 1)                         -
+700            (velvety, 1)             (shop, 1)          (clothing, 1)                     velvety                         (vegan, 2)               (beautiful, 1)              (velvety, 1)
+701                (set, 1)          (sweater, 2)              (knit, 3)                        vest                          (2021, 1)                   (trend, 1)                (crisp, 1)
+702                       -                     -              (shop, 1)                   vestiaire                         (santa, 1)                            -                         -
+703                       -             (tops, 1)        (structured, 2)                       vests                          (days, 1)             (oneshoulder, 1)             (trousers, 1)
+704                       -                     -             (style, 1)                    vestshop                    (sleeveless, 1)                            -                         -
+705          (reclaimed, 1)           (unique, 5)        (affordable, 5)                     vintage                      (clothing, 5)                  (simple, 5)                (smile, 1)
+706                       -     (recognisably, 1)               (298, 1)             vintageinspired                     (accessory, 1)               (aesthetic, 1)                         -
+707               (pink, 1)           (yellow, 1)             (parma, 2)                      violet                  (purplespring, 1)                    (lime, 1)               (purple, 1)
+708            (pleated, 5)             (belt, 5)           (cutouts, 5)                       waist                       (slimfit, 5)             (accessories, 5)               (looser, 5)
+709                       -                     -          (strapped, 5)                   waistband                 (crisscrossing, 5)                            -                         -
+710               (rise, 5)              (238, 5)             (april, 5)               waistcinching                        (pieces, 5)                   (belts, 5)                 (pick, 5)
+711                       -                     -              (love, 6)                  waistcoats                             (2, 6)                            -                         -
+712                       -                     -       (inspiration, 5)               waistdefining                  (undergarment, 5)                            -                         -
+713                       -          (sweater, 5)              (pair, 5)                     waisted                         (denim, 5)                   (jeans, 5)                         -
+714                       -   (seasonlowslung, 5)         (lowslung, 20)                      waists                         (sour, 10)                (pleated, 10)              (cutouts, 5)
+715                       -                     -          (cinching, 5)                   waistthis                       (content, 5)                            -                         -
+716            (stylish, 1)              (mix, 1)             (thumb, 1)                        warm                       (weather, 3)              (undertones, 1)                (tones, 1)
+717              (piece, 1)     (practicality, 1)        (undertones, 1)                      warmer                          (days, 2)                    (hues, 1)              (weather, 1)
+718                       -                     -           (blanket, 1)                     warmsam                       (edelman, 1)                            -                         -
+719            (flannel, 1)            (extra, 1)               (add, 1)                      warmth                          (fall, 1)           (oneshouldered, 1)             (chillier, 1)
+720                       -                     -             (light, 4)                        wash                         (levis, 4)                            -                         -
+721              (sheer, 8)      (multicolour, 8)             (black, 8)                       white                      (dresses, 16)                (suiting, 16)            (sneakers, 12)
+722                       -                     -   (rosiehuntington, 4)                   whiteleys                     (instagram, 4)                            -                         -
+723            (yellows, 4)           (creamy, 4)            (winter, 4)                      whites                          (real, 4)                 (farmers, 4)                 (ride, 4)
+724               (skip, 2)          (wearing, 3)                 (7, 3)                      winter                         (boots, 6)                 (fashion, 5)               (months, 2)
+725                       -                     -       (marshmallow, 1)                     winters                         (stuck, 1)                            -                         -
+726            (ethical, 1)             (gray, 1)           (classic, 1)                        wool                         (plaid, 1)                  (winter, 1)            (certified, 1)
+727                       -                     -             (smile, 1)                   woolblend                       (sweater, 1)                            -                         -
+728                       -                     -          (remember, 1)                  woolblends                      (corduroy, 1)                            -                         -
+729                       -                     -          (allergic, 1)                       wooli                       (snapped, 1)                            -                         -
+730                       -             (heck, 1)           (checked, 1)                     woollen                          (coat, 1)                (swimsuit, 1)                         -
+731                       -                     -            (cotton, 1)                      woolso                        (pieces, 1)                            -                         -
+732             (skirts, 3)            (linen, 3)            (belted, 3)                        wrap                          (midi, 9)                 (sweater, 6)                (skirt, 3)
+733                       -                     -            (double, 3)                  wraparound                        (duvets, 3)                            -                         -
+734                       -                     -              (silk, 3)                   wrapdress                           (450, 3)                            -                         -
+735                       -                     -              (deal, 3)                    wrapping                         (tying, 3)                            -                         -
+736                       -                     -             (midis, 3)                       wraps                       (frilled, 3)                            -                         -
+737            (buttery, 4)              (bag, 6)            (bright, 6)                      yellow                        (cherry, 6)                   (patch, 6)               (netted, 4)
+738                       -                     -           (organic, 2)                    yellowed                          (soft, 2)                            -                         -
+739                       -                     -            (barely, 2)                     yellows                        (whites, 2)                            -                         -
