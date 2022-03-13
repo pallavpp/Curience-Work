@@ -1,0 +1,54 @@
+KEYWORDS FROM CUMULATIVE SCORING:
+
+            1-gram                2-gram                       3-gram
+0        towelling         dark academia             dress dress sale
+1            ghost       rainbow fashion        rainbow fashion trend
+2              egg       arabic clothing          short wedding dress
+3          rainbow            dress sale          pantone colour 2022
+4             sale           dress dress        summer 2021 towelling
+5           arabic       towelling trend         2021 towelling trend
+6         academia        2021 towelling             loewe basket bag
+7          pantone         short wedding             dress ghost june
+8   loveshackfancy              link tab   knitwear knitwear knitwear
+9            award         wedding dress        ghost june collection
+10          amazon            basket bag              basket bag 2021
+11          beaded        pantone colour          wedding dress short
+12         wedding           colour 2022          dress short wedding
+13           loewe          paper london                     32 32 32
+14           dress  sustainable clothing   sustainable clothing brand
+15            dark     knitwear knitwear         amazon fashion dress
+16           paper          loewe basket             bag loewe basket
+17          basket           dress ghost                     30 30 30
+18            link            ghost june          sell amazon fashion
+19          colour           dress short   shoulder shoulder shoulder
+20              19       june collection              fall dress fall
+21             tab        amazon fashion             dress fall dress
+22             bag              bag 2021            spring 2022 trend
+23     documentary         fashion award        dark academia fashion
+24           short            fall dress             10 rotten tomato
+25         content           sell amazon            dress sell amazon
+26            boot           spring 2022     clothing arabic clothing
+27        knitwear           winter boot             11 fashion trend
+28     sustainable           summer 2021              viral summer 70
+29        clothing         fashion dress          fashion trend viral
+30       inthefrow     shoulder shoulder           trend viral summer
+31           jelly                 30 30           fashion dress sell
+32        swimwear        critic summary                link tab link
+33       blumarine            dress fall                 tab link tab
+34              32             bag loewe                 summer 70 11
+35            flat                 32 32                70 11 fashion
+36           model           editor note           watch amazon watch
+37            knit            dress sell  instagram content instagram
+38            june          shloka mehta    content instagram content
+39           mehta            shop trend      dress instagram content
+40          shloka            11 fashion                     10 10 10
+41           tulle           trend viral          fashion trend dress
+42         instyle             summer 70            amazon watch vudu
+43         teather          viral summer         akanksha kamath esha
+44         charlie            beaded bag            kamath esha gupta
+45              30                 10 10    content viewed originates
+46           viral            2022 trend         vuittons cruise 2022
+47          cruise             10 rotten        louis vuittons cruise
+48        shoulder         rotten tomato            dot sleeve square
+49              10         fashion trend            dress 3399 amazon
+
